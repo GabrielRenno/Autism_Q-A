@@ -1,9 +1,3 @@
-!pip install streamlit
-!pip install transformers
-!pip install langchain
-!pip install pandas
-!pip install matplotlib
-
 
 import streamlit as st
 from PIL import Image
