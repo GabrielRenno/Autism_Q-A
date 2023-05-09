@@ -1,0 +1,697 @@
+ORIGINAL PAPER
+Patterns of Reading Ability in Children with Autism Spectrum
+Disorder
+Kate Nation ÆPaula Clarke ÆBarry Wright Æ
+Christine Williams
+Published online: 2 August 2006
+/C211Springer Science+Business Media, Inc. 2006
+Abstract This study investigated reading skills in 41
+children with autism spectrum disorder. Four componentsof reading skill were assessed: word recognition, nonword
+decoding, text reading accuracy and text comprehension.
+Overall, levels of word and nonword reading and text
+reading accuracy fell within average range although reading
+comprehension was impaired. However, there was consid-erable variability across the sample with performance on
+most tests ranging from ﬂoor to ceiling levels. Some chil-
+dren read accurately but showed very poor comprehension,consistent with a hyperlexia reading proﬁle; some children
+were poor at reading words and nonwords whereas others
+were unable to decode nonwords, despite a reasonable levelof word reading skill. These ﬁndings demonstrate the het-
+erogeneous nature of reading skills in children with ASD.
+Keywords Reading ÆLanguage ÆComprehension Æ
+Autism ÆHyperlexia
+Introduction
+Although there is a general assumption that reading is a
+relative strength for children with autism spectrum disor-ders (ASD), systematic data concerning levels of reading
+ability in this population are lacking. Two rather differentperspectives can be drawn from the existing literature.
+First, it is well accepted that poor oral language skills place
+children at high risk for literacy failure (e.g., Bishop &
+Snowling, 2004 ; Catts & Kamhi, 2005), and since many
+children with autism have language impairments (e.g.,Tager-Flusberg & Joseph, 2003 ), difﬁculty with learning to
+read is to be expected. In contrast to this expectation,
+numerous case studies describe exceptional levels ofreading skill in some children with autism (e.g., Turkeltaub
+et al., 2004 ). Clearly however, one needs to be cautious
+when generalising from single case studies, especially gi-ven the wide variation in cognitive and linguistic skills
+seen in individuals with an ASD.
+Reading is a complex skill and to read even a simple
+sentence demands a number of skills ranging from rec-
+ognising each individual word through to understanding the
+intended meaning of a text. Broadly, Perfetti, Landi, andOakhill ( 2005 ) describe two major classes of processing
+events that are necessary for successful reading compre-
+hension: (1) the identiﬁcation of words and (2) theengagement of language processing mechanisms that
+assemble words into messages. Together, ‘‘these processes
+provide contextually appropriate word meanings, parseword strings into constituents, and provide inferential
+integration of sentence information into more complete
+representations of extended text.’’ (Perfetti et al., 2005 ,
+p. 229). It is clear that successful reading comprehension
+demands that both sets of processes operate adequately:
+without adequate reading accuracy, reading comprehensionwill fail, and being able to read words accurately is no
+guarantee that successful comprehension will follow. As
+these two sets of processes can develop out-of-step(Hoover & Gough, 1990 ; Nation, 2005 ; Perfetti et al.,
+K. Nation ( &)
+Department of Experimental Psychology, University of Oxford,
+South Parks Road, Oxford OX1 3 UD, UKe-mail: kate.nation@psy.ox.ac.uk
+P. Clarke
+Department of Psychology, University of York, York, UK
+B. Wright ÆC. Williams
+Child and Adolescent Mental Health, Selby and York PrimaryCare Trust, York, UKJ Autism Dev Disord (2006) 36:911–919
+DOI 10.1007/s10803-006-0130-1
+1232005 ), it is important to consider them separately when
+assessing how well children with autism read.
+Reading Accuracy and Autism
+A number of studies highlight good reading accuracy skills
+in both adults (Rumsey & Hamburger, 1990 ) and children
+(Minshew, Goldstein, Taylor, & Siegel, 1994 ; O’Connor &
+Hermelin, 1994 ; O’Connor & Klein, 2004 ) with autism,
+and in some samples, reading accuracy is in excess of IQ-
+expected levels (Mayes & Calhoun, 2003 ; Szatmari, Tuff,
+Finlayson, & Bartolucci, 1990 ).
+Frith and Snowling ( 1983 ) investigated aspects of
+reading accuracy in a group of nine children with autism,relative to a group of normally-developing children mat-
+ched for reading level. One question they addressed con-
+cerned the strategies children with autism used to readwords. They reasoned that rather than decoding or deci-
+phering words using a phonological ‘sounding-out’ strat-
+egy, children with autism may capitalise on rotememorisation and recognise words on the basis of shape or
+pattern recognition. To test this idea, Frith and Snowling
+asked children to read aloud nonwords. As nonwords needto be decoded on the basis of letter-sound associations, if
+children with autism read by relying heavily on visual
+strategies, nonword reading should be compromised.However, children with autism were indistinguishable from
+control children in terms of nonword reading. This suggests
+that they were as skilled as normally-developing childrenof equivalent reading level at using phonological-based
+reading strategies.
+A limitation of these studies is that they only included
+children who were reading at a reasonably advanced level.
+For example, Minshew et al. ( 1994 ) recruited high-
+functioning children, and the mean verbal IQ of theirsample was 97. Frith and Snowling’s study selection crite-
+ria demanded that all participants had essentially
+age-appropriate reading skills, according to a standardisedtest. Thus, these studies permit few conclusions to be made
+concerning levels of reading accuracy competence across a
+population of children with an ASD. In line with this cau-tion, descriptions of individuals with ASD point to con-
+siderable variability in levels of word and nonword reading
+accuracy (for review see Nation, 1999 ). As noted above, it is
+difﬁcult to generalise from single case data and as different
+researchers measure reading ability in different ways,comparison across studies is also difﬁcult. Nevertheless, a
+number of case descriptions indicate that some children with
+ASD are very poor at reading nonwords, despite the fact thatthey are relatively skilled at reading words (Aaron, Fantz, &
+Manges, 1990 ; Goldberg & Rothermel, 1984 ). This suggests
+that for some autistic children at least, reading accuracy maynot be underpinned by adequate phonological decodingskills, as is the case in normal reading development (e.g.,
+Goswami & Bryant, 1990 ).
+Reading Comprehension and Autism
+Turning to the other component of reading ability, there is
+broad agreement that children with autism have impaired
+reading comprehension, an observation ﬁrst made byKanner ( 1943 , reprinted in Kanner, 1973, p. 42) in his
+original description of autism: ‘‘the children read monot-
+onously, and a story ... is experienced in unrelated portionsrather than its coherent totality’’. Despite the high-
+functioning nature of the sample recruited by Minshew
+et al. ( 1994 ), levels of reading comprehension were sig-
+niﬁcantly lower in the children with autism relative to
+IQ-matched controls. Consistent with this, the children in
+Frith and Snowling’s study performed less well than con-trols on a test of reading comprehension, despite the fact
+that the two groups of children were well-matched in terms
+of reading accuracy.
+This proﬁle of impaired reading comprehension but
+well-developed word recognition skills is consistent with
+the pattern of reading behaviour seen in hyperlexia, theterm given to children who, despite pronounced cognitive
+and linguistic deﬁcits, show remarkably advanced word
+recognition skills (Grigorenko, Klin, & Volkmar, 2003 ;
+Nation, 1999 ). Such apparently well-developed reading
+skills are usually only superﬁcial. Reading accuracy is
+well-developed and precocious but reading comprehensionis severely impaired. Although it is clear that a hyperlexic-
+like reading pattern may occur in non-autistic children
+(Nation, Clarke, & Snowling, 2002 ; Snowling & Frith,
+1986 ), there is a strong association between autism and
+hyperlexia. Many children who have a hyperlexic reading
+proﬁle are autistic, or show features of autism (e.g., Gri-gorenko et al., 2002 ). It is not clear why this is the case
+but Nation ( 1999 ) speculated that a number of factors may
+be important: a particular pattern of cognitive and lin-guistic strengths and weaknesses, a tendency to be inter-
+ested in local features rather than global coherence, and a
+preoccupation with text and reading. As these featurestend to cluster together in people with autism, patterns of
+hyperlexic reading are therefore more common in this
+group.
+In summary, there is evidence that some children with
+autism can read accurately, but even amongst these chil-dren, levels of reading comprehension are poor (Frith &
+Snowling, 1983 ; Minshew et al., 1994 ; O’Connor & Klein,
+2004 ; Snowling & Frith, 1986 ). Thus, it is tempting to
+conclude that many children with autism are hyperlexic,
+especially given the observation that many children with
+hyperlexia are autistic, or show features of autism(Grigorenko et al., 2002 ; Nation, 1999 ). However, it is912 J Autism Dev Disord (2006) 36:911–919
+123difﬁcult to generalise studies reporting good levels of
+reading accuracy in children with autism as samples were
+selected on the basis of cognitive ability or reading ability.Excluding children with poor language and literacy may
+result in an overestimation of levels of reading accuracy in
+children with autism. Given the severe oral languageimpairments that characterise many children with autism
+(Kjelgaard & Tager-Flusberg, 2001 ; Lord & Paul, 1997 ;
+Tager-Flusberg & Joseph, 2003 ), and the close relation-
+ship between oral language impairment and difﬁculties
+with learning to read (Bishop & Snowling, 2004; Catts &
+Kamhi, 2005; Nation, Clarke, Marshall, & Durand, 2004 ),
+poor reading in at least some children with an ASD is to
+be expected. By using standardised tests that assess dif-
+ferent aspects of reading, the present study investigated arange of reading skills in a population of children with
+ASD. The following questions and predictions were
+explored:
+1. What is the level of reading ability in a relatively large
+and relatively broad population of children with ASD?
+Based on the literature reviewed above, and given the
+heterogeneous nature of ASD, we anticipated consid-erable variation in levels of reading ability in our
+sample.
+2. What are the levels of component reading skill
+(accuracy and comprehension)? There is clear evi-
+dence that reading comprehension is often impaired in
+children with ASD and therefore we anticipateddepressed levels of reading comprehension in our
+sample. Given the association between poor reading
+comprehension and oral language comprehension (e.g.,Nation et al., 2004 ), we predicted that children with
+poor reading comprehension would show concomitant
+weaknesses in aspects of oral language.
+3. Do discrepancies between (relatively strong) reading
+accuracy and (relatively weak) reading comprehension
+characterise the reading proﬁle of children with ASD?Children described as hyperlexic are often autistic, or
+show autistic features (e.g., Grigorenko et al., 2002 ;
+Nation, 1999 ). By examining discrepancies between
+accuracy and comprehension in our sample, we aimed
+to explore the extent to which a ‘hyerplexic’ proﬁle
+typiﬁes patterns of reading behaviour in children withASD.
+4. Finally, we investigated levels of nonword reading in
+our sample. Some case reports suggest that somechildren with ASD show unexpected difﬁculties with
+decoding novel words (e.g., Aaron et al., 1990 ;
+Goldberg & Rothermel, 1984 ). We examined the ex-
+tent to which nonword reading deﬁcits characterise the
+pattern of reading skills seen in a relatively large
+population of children with ASD.Method
+Participants
+Children were recruited from a Child and Adolescent
+Mental Health Clinic serving the City of York and sur-
+rounding areas. To explore patterns of reading in as general
+a sample as possible, we imposed only two selection cri-teria. Chronological age was the ﬁrst criterion. In the UK,
+children begin formal literacy instruction before their 5th
+birthday, and by 6 years, reading skills are becoming rea-sonably well established in the normal population. We
+therefore recruited children from 6 years upwards. An
+upper limit of 15 years was chosen. Our second selectioncriterion was that language skills were sufﬁcient enough to
+allow them to participate in our study. No formal criterion
+was employed. Instead, clinicians were asked to referchildren they considered to have ‘‘measurable language
+skills, however minimal’’. On the basis of these criteria, 68
+families of children with an autism spectrum disorder agedbetween 6 and 15 years of age were sent an information
+sheet about the study and invited to take part. Forty fam-
+ilies agreed to take part; one family had two children withautism, making a total of 41 children (36 boys and 5 girls).
+The mean age of the sample was 10.33 years.
+The children varied as to their particular diagnosis on
+the autistic spectrum. Diagnoses had been made by expe-
+rienced clinicians using research diagnostic criteria in a
+multidisciplinary diagnostic forum, according to ICD-10(World Health Organization, 1993 ) criteria. Sixteen chil-
+dren fulﬁlled criteria for autism (including one child with
+Fragile-X syndrome), 13 for atypical autism and 12 forAsperger’s syndrome. This relatively high proportion of
+children with Asperger’s syndrome probably reﬂects our
+request that minimal language skills be in place.
+Materials and Procedure
+Children were tested in their homes or in a quiet room in
+their schools. The tests were presented in a single sessionlasting approximately 1.5 h. Rest periods were allowed as
+required.
+We made four assessments of reading, three tapping
+aspects of reading accuracy and one tapping reading
+comprehension.
+Reading Accuracy
+The ﬁrst measure of reading accuracy was decoding,
+measured by a nonword reading test, The Graded Nonword
+Reading Test (Snowling, Stothard, & McLean,
+1996 ). This
+provides a relatively pure measure of decoding as children
+need to apply letter-sound rules in order to read aloud itemsJ Autism Dev Disord (2006) 36:911–919 913
+123they have never seen before. The nonword reading test
+comprises 10 one-syllable and 10 two-syllable nonwords
+and is standardised on a UK sample.1Our second measure
+of reading accuracy tapped word recognition and was as-
+sessed using the reading subtest of the British Ability
+Scales (BAS-II; Elliot, Smith, & McCulloch, 1996 ), an
+untimed test in which children read aloud single words
+presented one-at-a-time out of context. Our third measure
+of reading accuracy assessed how well children read con-nected text. This was assessed using the Neale Analysis of
+Reading Ability-II (NARA-II; Neale, 1997 ). This test re-
+quires children to read aloud short passages of text. Thenumber of errors they make is noted and used to form a
+reading accuracy score.
+Reading Comprehension
+The NARA-II also provided a measure of reading compre-
+hension. After reading each passage, children were asked
+questions to assess their understanding of what they had read.Some of the questions tapped literal understanding of the
+passage, whereas others required an inference to be made.
+Oral Language Skills
+Two measures of oral language skill were made. Receptive
+vocabulary was assessed using the British Picture Vocab-
+ulary Scale-II (BPVS-II; Dunn, Dunn, Whetton, & Burley,
+1997 ). Children are presented with four pictures and asked
+to point to the picture which represents a word spoken
+aloud by the tester. The comprehension subtest from theWechsler Intelligence Scale for Children (WISC-III
+UK;
+Wechsler, 1992 ) provided a measure of oral language
+comprehension. This test requires children to understandlanguage in the absence of concrete or pictorial context; it
+also requires them to use world knowledge, an important
+requirement for establishing reference and understandingintended meaning (e.g., Milosky, 1990 ).
+Nonverbal Ability
+The Block Design subtest from the WISC-III
+UKprovided
+an estimate of nonverbal ability.Results
+Levels of Reading SkillNine children were completely unable to read. These were
+amongst the youngest in the sample (mean age 7.28 years;
+mean age for the remaining sample was 10.85 years) andincluded six children with autism (4 boys and 2 girls), and
+three with atypical autism (3 boys). These children were
+excluded from further analyses. Table 1summarises the
+performance of the remaining 32 children on tests of
+reading, language and nonverbal ability. Note that some
+children performed below the ﬂoor of standard scores onsome of the tests. To be conservative, a score one point
+below the standardisation ﬂoor was awarded (for example,
+the NARA-II standard score ﬂoor is 70; children failing toattain this level of performance were awarded a standard
+score of 69). Mean standard scores for the three measures
+of reading accuracy (word reading, text reading and non-word reading) were within normal range. In contrast,
+reading comprehension was, on average, about 1SD below
+population norms. However, it is important to note theextreme variability within the sample: as is clear from the
+range of scores shown in Table 1, performance on these
+measures of reading—and indeed most of the tests in thebattery—varied from ﬂoor to ceiling levels (range infor-
+mation for each test is also provided in Table 1).
+Component Reading SkillsTo investigate patterns of reading performance in more
+detail, our next set of analyses examined four component
+reading skills, namely the ability to read aloud single wordspresented out of context, the ability to decode nonwords,
+the ability to read connected text accurately and the ability
+to comprehend text. Table 2shows the correlation between
+these four components of reading skill. Although the tests
+inter-correlated at a statistically signiﬁcant level, the cor-
+relations were fairly modest in size and were smaller thanthose observed in samples of typically-developing children.
+To illustrate, correlations taken from Nation and Snow-
+ling’s ( 1997 ) study of 184 7–11 year old children are
+shown in parentheses in Table 2. Fisher exact tests were
+used to investigate whether the size of each correlation was
+signiﬁcantly greater in the normative sample compared tothe children with ASD. The correlations between word
+reading and text reading ( z= 2.37), word reading and
+comprehension ( z= 2.84), nonword reading and text
+reading ( z= 2.96), nonword reading and comprehension
+(z= 1.96), and text reading and comprehension ( z= 3.11)
+were all signiﬁcantly larger in the normative sample than inthe ASD group; the difference in magnitude of the corre-
+lation between word reading and nonword reading between
+1The Graded Nonword Reading Test is standardised on a UK sample
+of 653 children aged between 5 and 11 years. The test manual reportsage equivalents and centile scores, but not standard scores. Followingthe procedures of Briscoe, Bishop and Norbury ( 2001 ), data from the
+standardisation sample were transformed to form standard scores
+which were then used to quantify the performance of children in thepresent study. Standard scores for the older children in the presentstudy (aged 14 and 15 years) were obtained from a group of 50 15-
+year old typically-developing adolescents reported by Snowling,
+Bishop, and Stothard ( 2000 ). Consistent with Snowling et al., the test
+was made more difﬁcult for the older children by adding ﬁve non-words ( strumbesh, delathode, tralishent, grikimest, pragendent ).914 J Autism Dev Disord (2006) 36:911–919
+123the two groups did not reach statistical signiﬁcance
+(z= 1.44). Taken together, these observations suggest that
+in children with ASD, component reading skills have atendency to develop out of step with each other.
+Deﬁcits in Reading Comprehension
+Sixty-ﬁve percent of our sample showed poor reading
+comprehension, as deﬁned as standard scores at least 1SD
+below population norms, and 38 %scored more than 2SDs
+below population norms (i.e., standard scores of 70 andbelow, the ﬂoor of the test). However, it would be wrong to
+consider all of these children as hyperlexic as many
+showed concomitant difﬁculties with reading accuracy.The relationship between word reading and reading com-
+prehension is shown in Fig. 1. Cases below the line indi-
+cate children for whom reading comprehension was poor,relative to word reading ability. Particularly striking are
+those cases falling towards the bottom right quadrant of the
+scatterplot. Despite high levels of word reading ability,reading comprehension was very poor. Thus, these children
+showed poor reading comprehension despite achieving a
+satisfactory level of word reading.
+Of the 32 children with measurable reading ability, 20
+achieved word-reading levels in the normal range or above
+(i.e., a standard score above 85). Ten of these children alsohad reading comprehension within the normal range or
+above, whereas 10 showed impaired reading comprehen-sion (i.e., below 85). Table 3summarises the performance
+of these two subgroups of skilled and less-skilled com-
+prehenders on the various measures of reading and lan-guage. The two groups were similar in age and nonverbal
+ability, and not surprisingly, the two groups did not differ
+on any of the measures of reading accuracy. Interestinglyhowever, the less-skilled comprehenders showed impair-
+ments in vocabulary, and in oral language comprehension,
+relative to the skilled comprehenders. Thus, impairments inreading comprehension are accompanied by weakness in
+oral language skills in this group of children. Consistent
+with this group comparison, across the entire sample therewas a strong correlation between reading comprehension
+and vocabulary ( r= 0.72, P< .01) and oral language
+comprehension ( r= 0.67, P< .01).
+Discrepancies between Reading Accuracy and Reading
+Comprehension
+The NARA-II provides a useful tool for assessing the
+extent to which children with ASD show deﬁcits in reading
+comprehension, relative to the level expected on the basis
+of text reading accuracy. As illustrated in Table 2, theTable 1 Performance of
+children on measures of
+reading, language and nonverbalability
+Note :
+1years;2standard scores
+(M= 100, SD= 15);3scaled
+score ( M= 10, SD=3 )M SD Range Test range
+Age110.85 2.67 6.5–16.5
+Reading accuracy
+Word296.56 23.37 55–145 55–145
+Text295.53 16.31 69–123 70–130
+Nonword290.83 17.87 69–120 70–120
+Reading comprehension282.34 14.82 69–121 70–130
+Language skills
+Vocabulary289.97 23.69 39–137 40–160
+Comprehension33.67 3.61 1–13 1–19
+Nonverbal ability38.4 5.58 1–19 1–19
+Table 2 Correlation coefﬁcients for word reading, nonword reading
+and reading comprehension [coefﬁcients in parentheses taken from
+Nation & Snowling’s ( 1997 ) normative sample]
+Word Nonword Text
+readingComprehension
+Word reading – .69** (.83**) .69** (.92**) .475** (.75**)
+Nonword
+reading– .502* (.79**) .410* (.60**)
+Text
+reading– .568** (.87**)
+Comprehension )
+*P< .05; ** P< .01.Word Readin g160 140 120 100 80 60 40Comprehension130
+120110100
+90
+80
+70
+60
+Fig. 1 Scatterplot showing the relationship between single-word
+reading and reading comprehension ( N= 32). Reference line
+indicates parity between two measuresJ Autism Dev Disord (2006) 36:911–919 915
+123correlation between accuracy and comprehension was
+signiﬁcant ( r= 0.568, P< .05) but substantially lower
+than the correlation seen in Nation and Snowling’s ( 1997 )
+normative study ( r= 0.87, P< .01; Fisher’s exact
+z= 3.11, P< .01). In addition, the majority of our group
+of children with ASD showed a discrepancy betweenreading comprehension and reading accuracy and for some
+children the gap between the two sets of skills was sub-
+stantial. Of the 32 children with measurable reading skills,10.3%achieved a comprehension score that was in excess
+of 2 SDs below their accuracy score (a gap greater than 30
+standard score points; mean difference = 49.3 standardscore points, range 46–52). A further 24.12 %obtained a
+comprehension score 1–2 SDs below their level of reading
+accuracy (mean difference = 19.85 standard score points,
+range 16–26). Although the majority of the sample
+(65.5%) achieved comprehension and accuracy scores
+within 1SD of each other, it is worth noting that even for
+these children, comprehension scores were lower than
+accuracy scores (mean difference = 5.84 standard scorepoints, range 0–14). Only one child showed the reverse
+pattern obtaining a comprehension score three points in
+excess of his reading accuracy score. Thus, these obser-vations suggest that difﬁculties with reading comprehen-
+sion are not uncommon in children with ASD and that for
+approximately 35 %of the population of children who can
+read single words at a reasonable level, reading compre-
+hension is at least 1SD below text reading accuracy levels.
+Unfortunately, the NARA-II manual does not provide
+information concerning the frequency or magnitude of
+accuracy-comprehension discrepancies in the standardisa-
+tion sample. However, we were able to address this issueusing normative data from 562 normally-developing chil-
+dren aged between 7 and 12 years (Nation & Snowling,
+unpublished data). This representative sample achieved amean accuracy standard score of 98.22 ( SD12.03), a
+mean comprehension score of 94.09 ( SD10.70), and thecorrelation between accuracy and comprehension was
+0.718. Consistent with this high correlation, the majority of
+children in the sample (88.6 %) achieved a comprehension
+score within 1SD of their accuracy score. A further 10.9 %
+obtained a comprehension score 1–2 SDs lower than their
+accuracy score (compared to 24.12 %in the ASD group);
+only 0.5%of the sample obtained a comprehension score
+more than 2SDs below their accuracy scores (compared to
+10.3%in the ASD group). Finally, in sharp contrast to the
+sample with ASD where only one child showed the reverse
+pattern of accuracy scores in advance of comprehension,
+36.8%of the normative sample showed this reading
+proﬁle.
+Deﬁcits in Decoding
+Although problems with reading comprehension charac-
+terised the majority of children in the group, it is worth
+noting that many of the children were poor at decodingnonwords. Of the sample of 32 children who were able to
+read words at all, 42 %were at least 1SD below population
+norms for nonword reading and 22 %of the sample scored
+at least 2SD below population norms. As noted above, in
+the normal population, the correlation between word and
+nonword reading is high (for example, Nation & Snowling(1997 ) reported a correlation of 0.83; Snowling et al.
+(1996 ) reported a correlation coefﬁcient of 0.78 between
+nonword reading and word recognition; Torgesen, Wagner,& Rashotte ( 1999 ) reported correlation coefﬁcients
+between 0.78 and 0.80 between these two variables). The
+correlation of .69 between word and nonword reading in
+our sample of children (shown in Fig. 2) suggests that word
+recognition (word reading) and phonological decoding
+(nonword reading) are not so tightly linked in this group.Perhaps most striking are those children who, despite
+adequate levels of word reading, were poor at decoding
+nonwords. While these children were low in number (toTable 3 Comparison of performance on measures of reading, language and nonverbal ability for children with skilled vs. less-skilled reading
+comprehension
+Less-skilled comprehenders (N = 10) Skilled comprehenders (N = 10)
+MS D Range MS D Range F
+Age110.06 2.87 7.11–15.04 10.5 2.47 6.06–14.20 < 1.0
+Reading accuracy
+Word2110 14.14 91–35 111.6 17.28 90–145 < 1.0
+Text2103.5 12.2 87–121 104.3 13.08 88–123 < 1.0
+Nonword2100.56 18.28 69–120 99.61 10.83 84–120 < 1.0
+Reading comprehension275.1 7.66 69–84 98.3 12 86–121 26.57**
+Language skillsVocabulary
+287.44 13.58 67–109 110.9 14.48 96–137 13.17**
+Comprehension32.13 2.8 1–9 6.6 3.66 1–13 8.13**
+Nonverbal ability37.67 6.62 1–18 11.89 5.06 4–19 1.9
+Notes :1years;2standard scores ( M= 100, SD= 15);3scaled score ( M= 10, SD=3 )
+**P< .01916 J Autism Dev Disord (2006) 36:911–919
+123illustrate, 5 children (15.6 %) were at ﬂoor on the nonword
+reading test despite achieving word reading standard scores
+in excess of 95), Fig. 2highlights that low levels of non-
+word reading were not unusual in this population.
+Discussion
+This study permits a number of conclusions to be made
+concerning levels of reading ability in children with ASD.
+Of those families agreeing to take part in our study, 78 %of
+children had measurable reading abilities in that they were
+able to read aloud single-words presented out of context.
+As a whole, the group showed normal-range levels ofreading accuracy, but reading comprehension was lower.
+However, there was considerable variation within the
+group such that performance on all of the reading testsvaried from near ﬂoor to near ceiling. Thus, group means
+are relatively uninformative when considering component
+reading skills in this group of children.
+As anticipated, a large proportion of children showed
+impaired reading comprehension: 65 %of the sample
+obtained reading comprehension at least 1SD below popu-lation norms, and about one-third of the sample showed
+very severe reading comprehension impairments. For some
+of these children, problems with reading comprehension
+may well have stemmed from inadequate reading accuracy:
+if children are unable to recognise or decode the words in atext, it is not surprising that they are unable to understand its
+meaning. However, of the 20 children who achieved normal
+range word reading skills, 10 showed poor reading com-prehension. For these children, their poor comprehension
+could not be attributed to deﬁcits in word- or text-level
+reading accuracy. Compared with children with normal-range reading comprehension skill, these children showed
+impairments in vocabulary and oral language comprehen-
+sion, suggesting that impairments in reading comprehensionaccompany impairments in understanding language more
+generally (Bishop & Adams, 1990 ; Nation et al., 2004 ).
+Given the high proportion of children with autism who
+experience difﬁculty with reading comprehension (despite
+possessing adequate levels of decoding ability), an
+important direction for future work is to pinpoint whichaspects of the reading comprehension process are impaired.
+This is a vital ﬁrst step if appropriate and well-targeted
+interventions are to be put in place. Comprehension isclearly a very complex process which may fail for a
+number of different reasons. O’Connor and Klein ( 2004 )
+highlighted a number of aspects of the comprehensionprocess that may be particularly problematic for people
+with autism: for example, a general difﬁculty with inte-
+grating information, difﬁculty understanding and resolvinganaphoric reference, a difﬁculty with bringing prior
+knowledge to bear when reading text (see also Wahlberg &
+Magliano, 2004 ) and difﬁculties with comprehension
+monitoring. Encouragingly, O’Connor and Klein
+(2004 ) also reported data indicating that reading compre-
+hension was facilitated in their sample of high-functioningstudents with ASDs when the experimenter focussed on an
+aspect of the comprehension process, for example, direct-
+ing attention to the anaphoric link between a pronounand its antecedent in a text. While it remains to be seen
+whether ﬁndings from such experimental manipulations
+can translate to a classroom situation when a child isworking independently, O’Connor and Klein’s study
+illustrates the importance of considering the underlying
+reasons why children with autism are poor at readingcomprehension.
+Although 32/41 of our sample had measurable word
+reading skills and as a group, the children showed aver-age-for-age word reading ability, it is interesting to note
+that many children struggled to decipher nonwords. At
+ﬁrst glance, this ﬁnding is surprising. Nonwords aremeaningless strings of letters that need to be decoded
+using letter-sound correspondence rules; one might antic-
+ipate that this skill should be a relative strength for chil-
+dren with autism. Indeed, Minshew et al. ( 1994 ) found that
+nonword reading was relatively better than word readingin their sample of high-functioning children with autism.
+Generally, our data demonstrate rather low levels of
+nonword reading ability, and for some individuals, non-word reading skills were considerably below the level
+expected given their level of word reading ability. This
+may reﬂect the fact that our sample was not selected onthe basis of either reading ability (cf. Frith & Snowling,
+1983 ) or IQ (cf. Minshew et al., 1994 ). Our observations
+suggest one of two things. First, it could be that someWord Reading160 140 120 100 80 60 40Nonword Reading130
+120110100
+90
+8070
+60
+Fig. 2 Scatterplot showing the relationship between single word
+reading and nonword reading ( N= 32). Reference line indicates
+parity between two measuresJ Autism Dev Disord (2006) 36:911–919 917
+123children with autism have difﬁculty applying phonological
+decoding strategies. Numerous ﬁndings point to a rela-
+tionship between difﬁculties in the phonological domainand poor nonword reading (e.g., Bishop, Adams, &
+Norbury, 2004 ; Rack, Snowling, & Olson, 1992 ). Difﬁ-
+culties with oral language are not rare in populations ofchildren with ASD and according to Tager-Flusberg and
+colleagues (Kjelgaard & Tager-Flusberg, 2001 ; Tager-
+Flusberg & Joseph, 2003 ) approximately 50 %of children
+with ASD show language deﬁcits, including impairments
+in phonological processing (as indexed by poor nonword
+repetition for example). Potentially therefore, impairmentsin oral language may underlie the difﬁculties that some
+children in our sample had with poor nonword reading.
+Unfortunately however, we did not measure phonologicalprocessing but a reasonable prediction would be that those
+children with poorest phonological skills would show
+greatest difﬁculty with nonword reading. Alternatively (oradditionally), the relative advantage of word reading over
+nonword reading observed in our study may be attribut-
+able to some children utilising rote memorisation or visualassociation strategies when reading. Clearly, such a
+strategy would assist word reading, but not nonword
+reading. Potentially, this pattern of reading may beencouraged or confounded by literacy instruction. Our
+anecdotal experience suggests that for some children with
+autism, reading instruction is more focussed on the onrepetition of familiar materials rather than more phonic-
+based reading strategies.
+The high levels of poor reading comprehension seen in
+this study are consistent with the view that hyperlexia is
+associated with autism (e.g., Grigorenko et al., 2002 ).
+Unfortunately however, the deﬁnition of hyperlexia remainsunclear (Grigorenko et al., 2003 ; Nation, 1999 ). While the
+central feature of hyperlexia is word reading accuracy skills
+in advance of reading comprehension, several other featureshave been described including an unusual preoccupation
+with reading, very early (and sometimes spontaneous) onset
+of word recognition and a general mismatch between pro-ﬁcient reading accuracy on the one hand and the presence of
+cognitive and social deﬁcits on the other. Grigorenko et al.
+(2003 ) recommended that the term hyperlexia be reserved
+for those individuals with pervasive developmental disorder
+who show all of these features of hyperlexia. They alsorecommended that the term ‘‘reading comprehension dis-
+order’’ be adopted to describe those individuals (including
+non-autistic children) who show a discrepancy betweenreading accuracy and reading comprehension, but do not
+show the other features of hyperlexia. It is important for
+future work to establish the validity of this view by com-paring children who show ‘hyperlexic reading’ but do or do
+not show additional features such as unusual preoccupation
+or early onset of reading ability. Only if there are signiﬁcantdifferences between the two groups will it become impor-
+tant to make the distinction recommended by Grigorenko
+et al. ( 2003 ). Until this issue is resolved and the deﬁnition of
+hyperlexia clariﬁed, it is premature to estimate the inci-
+dence of hyperlexia in our sample, especially as data
+concerning preoccupation with reading and onset of readingare limited. Nevertheless, it is clear that poor reading
+comprehension characterised the majority of children, and a
+sizeable proportion showed poor reading comprehensiondespite achieving adequate levels of reading accuracy.
+Our data serve to highlight that reading is not a unitary
+construct and that component skills may dissociate in casesof developmental disorder. In our sample of children, we
+identiﬁed children with poor reading comprehension and
+children with poor nonword reading, relative to wordreading ability. This observation offers a cautionary note
+for the assessment of reading in this population. Put sim-
+ply, reliance on tests of word recognition is likely to over-estimate children’s reading competence in other areas,
+most notably reading comprehension skills, but for some
+children, decoding ability too. Very clearly, good or evenprecocious word reading ability does not guarantee ade-
+quate reading comprehension. While it is clear that aspects
+of reading may be a relative strength in some children withASD, and may even serve as a tool for educational inter-
+vention (e.g., Williams, Wright, Callaghan, & Coughlan,
+2002 ), it is important for both research and practice that the
+heterogeneous pattern of reading skills in children with
+autism is recognised.
+Acknowledgments This work was supported by grants from The
+Wellcome Trust and The Innovation and Research Priming Fund
+(University of York) awarded to the ﬁrst author. Some of the data
+were collected while she was a member of the Department ofPsychology at the University of York. We are grateful to theparticipating families for their help and co-operation. We would
+also like to thank Maggie Snowling and Dorothy Bishop for
+providing additional control data for the Graded Nonword Reading
+Test, Philip Angell for research assistance and Courtenay Norbury
+and Dorothy Bishop for their helpful comments. We would also
+like to thank paediatricians Rob Smith and Anne Kelly for
+allowing us to approach some of the families under their care forthis study.
+References
+Aaron, P. G., Frantz, S. S., & Manges, A. R. (1990). Dissociation
+between comprehension and pronunciation in dyslexic andhyperlexic children. Reading and Writing, 2 (3), 243–264.
+Bishop, D. V. M., & Adams, C. (1990). A prospective-study of the
+relationship between speciﬁc language impairment, phonologicaldisorders and reading retardation. Journal of Child Psychology
+and Psychiatry and Allied Disciplines, 31 (7), 1027–1050.
+Bishop, D. V. M., Adams, C., & Norbury, C. F. (2004). Using non-
+word repetition to distinguish genetic and environmental inﬂu-ences on early literacy development: A study of 6–year-old
+twins. American Journal of Human Genetics, 129B , 94–96.918 J Autism Dev Disord (2006) 36:911–919
+123Bishop, D. V. M., & Snowling, M. J. (2004). Developmental dyslexia
+and speciﬁc language impairment: Same or different? Psycho-
+logical Bulletin, 130 , 858–886.
+Briscoe, J., Bishop, D. V. M., & Norbury, C. F. (2001). Phonological
+processing, language, and literacy: A comparison of children
+with mild-to-moderate sensorineural hearing loss and those withspeciﬁc language impairment. Journal of Child Psychology and
+Psychiatry and Allied Disciplines, 42 (3), 329–340.
+Catts, H. W., & Kamhi, A. G. (2005). Connections between language
+and reading disorders . Lawrence Erlbaum Associates.
+Dunn, L. M., Dunn, L. M., Whetton, C., & Burley, J. (1997). The
+British picture vocabulary scale-II . Windsor, UK: NFER-Nelson.
+Elliot, C. D., Smith, P., & McCulloch, K. (1996). British ability scales
+(2nd ed.). Windsor, UK: NFER.
+Frith, U., & Snowling, M. (1983). Reading for meaning and reading
+for sound in autistic and dyslexic children. British Journal of
+Developmental Psychology, 1 , 329–342.
+Goldberg, T. E., & Rothermel, R. D. (1984). Hyperlexic children
+reading. Brain, 107 (Sep), 759–785.
+Goswami, U., & Bryant, P. E. (1990). Phonological skills and
+learning to read . Hove, UK: Psychology Press.
+Grigorenko, E. L., Klin, A., Pauls, D. L., Senft R., Hooper C., &
+Volkmar F. (2002). A descriptive study of hyperlexia in a clin-
+ically referred sample of children with developmental delays.
+Journal of Autism and Developmental Disorders, 32 (1), 3–12.
+Grigorenko, E. L., Klin, A., & Volkmar, F. (2003). Annotation:
+Hyperlexia: disability or superability? Journal of Child Psychol-
+ogy and Psychiatry and Allied Disciplines, 44 (8), 1079–1091.
+Hoover, W. A., & Gough, P. B. (1990). The simple view of reading.
+Reading and Writing, 2 , 127–160.
+Kanner, L. (1943). Autistic disturbances of affective contact. Nervous
+Child, 2 , 217–250.
+Kjelgaard, M. M., & Tager-Flusberg, H. (2001). An investigation of
+language impairment in autism: Implications for genetic sub-
+groups. Language and Cognitive Processes, 16 (2–3), 287–308.
+Lord C., & Paul R. (1997). Language and communication in autism.
+In D. J. Dohen, & F. Volkmar (Eds.), Handbook of autism and
+pervasive developmental disorders (pp. 195–225). NY: Wiley.
+Mayes, S. D., & Calhoun, S. L. (2003). Ability proﬁles in children
+with autism—inﬂuence of age and IQ. Autism, 7 (1), 65–80.
+Milosky, L. M. (1990). The role of world knowledge in language
+comprehension and language intervention. Topics in Language
+Disorders, 10 (3), 1–13.
+Minshew, N. J., Goldstein, G., Taylor, H. G., & Siegal, D. J. (1994).
+Academic achievement in high functioning autistic individuals.
+Journal of Clinical and Experimental Neuropsychology, 16 (2),
+261–270.
+Nation, K. (1999). Reading skills in hyperlexia: a developmental
+perspective. Psychological Bulletin, 125 (3), 338–355.
+Nation, K. (2005). Children’s reading comprehension difﬁculties. In
+M. J. Snowling, & C. Hulme (Ed.), The science of reading .
+Oxford: Blackwell Publishing.
+Nation, K., Clarke, P., Marshall, C. M., & Durand, M. (2004). Hidden
+language impairments in children: Parallels between poor read-
+ing comprehension and speciﬁc language impairment. Journal of
+Speech, Hearing and Language Research, 47 , 199–211.Nation, K., Clarke, P., & Snowling, M. J. (2002). General cognitive
+ability in children with poor reading comprehension. British
+Journal of Educational Psychology, 72 , 549–560.
+Nation, K., & Snowling, M. (1997). Assessing reading difﬁculties:
+The validity and utility of current measures of reading skill.
+British Journal of Educational Psychology, 67 , 359–370.
+Neale, M. D. (1997).
+Neale analysis of reading ability-revised
+(NARA-II) . Windsor, UK: NFER.
+O’Connor, I. M., & Klein, P. D. (2004). Exploration of strategies for
+facilitating the reading comprehension of high-functioning stu-dents with autism spectrum disorders. Journal of Autism and
+Developmental Disorders, 34 (2), 115–127.
+O’Connor, N., & Hermelin, B. (1994). 2 Autistic savant readers.
+Journal of Autism and Developmental Disorders, 24 (4), 501–515.
+Perfetti, C., Landi, N., & Oakhill, J. (2005). The acquisition of
+reading comprehension skill. In M.J. Snowling & C. Hulme
+(Eds.), The science of reading . Oxford: Blackwell Publishing.
+Rack, J. P., Snowling, M. J., & Olson, R. K. (1992). The nonword
+reading deﬁcit in developmental dyslexia—a review. Reading
+Research Quarterly, 27 (1), 28–53.
+Rumsey, J. M., & Hamburger, S. D. (1990). Neuropsychological
+divergence of high-level autism and severe dyslexia. Journal of
+Autism and Developmental Disorders, 20 (2), 155–168.
+Snowling, M., Bishop, D. V. M., & Stothard, S. E. (2000). Is pre-
+school language impairment a risk factor for dyslexia in ado-lescence? Journal of Child Psychology and Psychiatry and
+Allied Disciplines, 41 (5), 587–600.
+Snowling, M., & Frith, U. (1986). Comprehension in hyperlexic read-
+ers.Journal of Experimental Child Psychology, 42 (3), 392–415.
+Snowling, M., Stothard, S. E., & McLean, J. (1996). The graded non-
+word reading test . Reading, UK: Thames Valley Test Company.
+Szatmari, P., Tuff, L., Finlayson, A. J., & Bartolucci, G. (1990).
+Aspergers syndrome and autism—neurocognitive aspects.Journal of the American Academy of Child and Adolescent
+Psychiatry, 29 (1), 130–136.
+Tager-Flusberg, H., & Joseph, R. M. (2003). Identifying neurocog-
+nitive phenotypes in autism. Philosophical Transactions of the
+Royal Society of London Series B-Biological Sciences,
+358(1430), 303–314.
+Torgesen, J. K., Wagner, R. K., & Rashotte, C. A. (1999). Test of
+word reading efﬁciency . Austin, TX: Pro-Ed.
+Turkeltaub, P. E., Flowers, D. L., Verbalis, A., Miranda, M., Gareau,
+L., & Eden, G. F. (2004). The neural basis of hyperlexic reading:
+An fMRI case study. Neuron, 41 (1), 11–25.
+Wahlberg, T., & Magliano, J. P. (2004). The ability of high function
+individuals with autism to comprehend written discourse. Dis-
+course Processes, 38 (1), 119–144.
+Wechsler, D. (1992). Wechsler intelligence scale for children (3rd
+ed.). London: The Psychological Corporation.
+World Health Organisation (1993). The ICD-10 classiﬁcation of
+mental and behavioural disorders . Geneva: World Health
+Organisation.
+Williams, C., Wright, B., Callaghan, G., & Coughlan, B. (2002). Do
+children with autism learn to read more readily by computer
+assisted instruction or traditional book methods? A pilot study.Autism, 6 (1), 71–91.J Autism Dev Disord (2006) 36:911–919 919
+123

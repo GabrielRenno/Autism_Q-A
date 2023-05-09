@@ -1,0 +1,1037 @@
+Seminarwww.thelancet.com   Published online August 2, 2018   http://dx.doi.org/10.1016/S0140-6736(18)31129-2  1Autism spectrum disorder
+Catherine Lord, Mayada Elsabbagh, Gillian Baird, Jeremy Veenstra-Vanderweele
+Autism spectrum disorder is a term used to describe a constellation of early-appearing social communication deficits 
+and repetitive sensory–motor behaviours associated with a strong genetic component as well as other causes. The outlook for many individuals with autism spectrum disorder today is brighter than it was 50 years ago; more people with the condition are able to speak, read, and live in the community rather than in institutions, and some will be largely free from symptoms of the disorder by adulthood. Nevertheless, most individuals will not work full-time or live independently. Genetics and neuroscience have identified intriguing patterns of risk, but without much practical benefit yet. Considerable work is still needed to understand how and when behavioural and medical treatments can be effective, and for which children, including those with substantial comorbidities. It is also important to implement what we already know and develop services for adults with autism spectrum disorder. Clinicians can make a difference by providing timely and individualised help to families navigating referrals and access to community support systems, by providing accurate information despite often unfiltered media input, and by anticipating transitions such as family changes and school entry and leaving.
+Introduction
+In the past 50 years, autism spectrum disorder (ASD) has gone from a narrowly defined, rare disorder of childhood onset to a well publicised, advocated, and researched lifelong condition, recognised as fairly common and very heterogeneous. The description of the core features of ASD as being social communication deficits and repetitive and unusual sensory–motor behaviours has not changed substantially since its original delineation.
+1 
+However, autism is now seen as a spectrum that can range from very mild to severe. Nevertheless, many (but not all) individuals with ASD require lifelong support of some kind.
+Although families, teachers, and direct providers 
+make the most differences to the lives of people with ASD, physicians and other clinicians also affect individuals and families by providing information about the current functioning of the person with ASD, by helping caregivers to anticipate transitions, and by navigating referrals to service providers and specialists when needed. ASD represents a substantial economic burden, mainly due to the provision of support to adults who cannot function independently, which results in higher health-care and school costs and loss of income for caregivers.
+2 This Seminar focuses on summarising 
+current research so that clinicians can provide guidance to families within the context of ASD, recognising that, although ASD is a biological disorder, it is primarily treated through education and behavioural services, with medication as an important adjunct.
+Signs, symptoms, and general diagnostic issues
+Although individuals with ASD are very different from one another, the disorder is characterised by core features in two areas—social communication and restricted, repetitive sensory–motor behaviours—irrespective of culture, race, ethnicity, or socioeconomic group.
+3 ASD results from early 
+altered brain development and neural reorganisation.4,5 
+However, because there are no reliable biomarkers, the diagnosis must be made on the basis of behaviour. The American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders (DSM)-5 criteria,
+6 
+published in 2013, were intended to make the diagnosis of ASD more straightforward. There is now a single ASD spectrum based on the two domains (social communi
+ cation, and restricted, repetitive, or unusual Published Online 
+August 2, 2018 http://dx.doi.org/10.1016/S0140-6736(18)31129-2
+Center for A utism and 
+the 
+Developing Brain, 
+NewYork-Presbyterian Hospital, Weill Cornell Medicine, Cornell University, White Plains, NY, USA (Prof C Lord PhD); 
+Department of Neurology and Neurosurgery, McGill University, Montreal, QC, Canada (M Elsabbagh PhD); 
+Evelina Children’s Hospital, King’s Health Partners, London, UK (Prof G Baird FRCPCH); and 
+Division of Child and Adolescent Psychiatry, Center for Autism and the Developing Brain, NewYork-Presbyterian Hospital, Department of Psychiatry, Columbia 
+Search strategy and selection criteria
+Initial searches were done on Aug 14, 15, and 17, 2017 . Additional searches were done on 
+Feb 21–23 and March 18–21, 2018. Searches were limited to the English language. To identify studies for this Seminar, we searched PubMed and individually searched the Cochrane database, and followed back by searching reference lists of papers cited in major journals for papers published between 2007 and 2017, using the search terms “autism behavioral treatment”, “autism diagnosis”, “autism environmental factors”, “autism epidemiology”, “autism incidence”, “autism prevalence”, “autism risk factors”, “autism spectrum disorder behavioral treatment”, “autism spectrum disorder diagnosis”, “autism spectrum disorder environmental factors”, “autism spectrum disorder epidemiology”, “autism spectrum disorder incidence”, “autism spectrum disorder risk factors”, “autistic disorder behavioral treatment”, “autistic disorder diagnosis”, “autistic disorder environmental factors”, “autistic disorder epidemiology”, “autistic disorder incidence”, “autistic disorder prevalence”, “autistic disorder risk factors”, “Asperger’s syndrome behavioral treatment”, “Asperger’s syndrome diagnosis”, environmental factors”, “Asperger’s syndrome epidemiology”, “Asperger’s syndrome incidence”, “Asperger’s syndrome prevalence”, “Asperger’s syndrome risk factors”, “Asperger’s disorder behavioral treatment”, “Asperger’s disorder diagnosis”, “Asperger’s disorder environmental factors”, “Asperger’s disorder epidemiology”, “Asperger’s disorder prevalence”, “Asperger’s disorder risk factors”, “pervasive developmental disorder behavioral treatment”, “pervasive developmental disorder diagnosis”, “pervasive developmental disorder environmental factors”, “pervasive developmental disorder epidemiology”, “pervasive developmental disorder incidence”, “pervasive developmental disorder prevalence”, “pervasive developmental disorder risk factors”, “PDD-NOS behavioral treatment”, “PDD-NOS diagnosis”, “PDD-NOS environmental factors”, “PDD-NOS epidemiology”, “PDD-NOS incidence”, “PDD-NOS prevalence”, “PDD-NOS risk factors”. Only articles published in English were included. We also examined key recent reviews and book chapters. To reduce the number of papers cited, the most up-to-date review papers and meta-analyses were used when possible. We selected papers according to our judgment of the quality of the study or review paper, the relevance to controversial or commonly misunderstood issues, and whether findings had clinical relevance. We included older papers that we judged to be important.Seminar2 www.thelancet.com   Published online August 2, 2018   http://dx.doi.org/10.1016/S0140-6736(18)31129-2University, New York State 
+Psychiatric Institute, 
+White Plains, NY, USA 
+(J Veenstra-Vanderweele MD)
+Correspondence to:  
+Prof Catherine Lord, Center for 
+Autism and the Dev
+eloping 
+Brain, New York-Presbyterian 
+Hospital, White Plains, 
+NY 10605, USA  
+cal2028@med.cornell.edu
+sensory–motor behaviours). Subtypes such as Asperger’s 
+disorder and pervasive develop  mental disorder not 
+otherwise specified, which were unreliably used by clin -
+icians, are now consolidated under the single diagnosis of ASD. In addition, DSM-5 explicitly recognises that ASD can be accompanied by other disorders, including genetic
+ 
+disorders (eg, fragile X syndrome) and psychiatric conditions (eg, attention-deficit hyperactivity disorder [ADHD]).
+To be diagnosed with ASD, a person must show evidence 
+of difficulties, past or present, in each of three social communication subdomains, and must have or have had difficulty in two of the four different restricted, repetitive sensory–motor behaviours (panel 1). There are also newly proposed levels of severity in DSM-5 based on the need for 
+support, which so far have shown dubious validity, although the concept of functionality is in itself very important.
+7–9
+Questions about screening
+Issues related to screening and subsequent diagnosis, both for families and providers, are often different for very young children than for older children, adolescents, and adults, and therefore will be discussed separately. There are no data from well controlled studies about the extent to which early intervention changes adult outcomes, and it is generally not possible to measure the factors that predict later outcomes (eg, language development or cognitive level) at the ages proposed for early screening (18–30 months). Many public health systems have attempted to identify very young children with ASD in general populations. However, to date, screening methods have typically not been sufficiently sensitive in that they have not identified most children with ASD in general populations in whom parents have not already noticed a delay.
+10
+When parents have expressed a concern to a family 
+member, friend, or professional, screening instruments become more predictive for children as young as 18 months of age.
+11 Even then, when parents ask for 
+help, referrals are often not made.12 A range of screening 
+instruments work well when someone—parent or professional—is concerned that a child might have ASD, the most common of which are the Modified Checklist for Autism in Toddlers (M-CHAT) and, less commonly, the Communication and Symbolic Behavior Scales (CSBS).
+13 Almost all children identified by these 
+screening instruments have developmental difficulties, although not all have ASD.
+13 A survey14 showed that 
+children with ASD who had consistent sources of paediatric care, frequent contact with grandmothers, and older siblings, received earlier diagnoses than did children with no siblings. Children with ASD who had a younger sibling close in age had the most delayed diagnoses.
+15 Thus, many approaches can lead to 
+earlier diagnoses: in addition to screening instruments, strategies include increasing awareness of ASD in the family and community, promoting belief that there is value in getting a diagnosis, facilitating relationships between specialists and primary-care providers to provide screening and make referrals, and improving access to services.Panel 1: Signs and symptoms of autism spectrum disorder as described in DSM-5 (299.0)6
+Persistent deficits in social communication and social 
+interaction across multiple contexts, as manifested by•
+ Deficits in social–emotional reciprocity (eg, abnormal social approach and failure of normal back
+-and-forth conversation; 
+or reduced sharing of interests, emotions, or affect)
+• Deficits in non-verbal communicativ
+e behaviours (eg, poorly 
+integrated verbal and non-verbal communication, abnormalities in eye contact and body language, or deficits in understanding and use of gestures)
+•
+ Deficits in developing, maintaining, and 
+understanding 
+relationships (eg, difficulties adjusting behaviour to suit various social contexts; or difficulties in sharing imaginative play or making friends)
+Restricted, repetitive patterns of behaviour, interests, or activities, as manifested by•
+ Stereotyped or repetitive 
+motor movements, use of objects, 
+or speech (eg, simple motor stereotypies, lining up toys, or flipping objects)
+•
+ Insistence on sameness, inflexible adherence to routines, 
+or 
+ritualised patterns of verbal and non-verbal behaviour (eg, extreme distress at small changes, difficulties with transitions, or rigid thinking patterns)•
+ Highly restricted, fixated interests that are abnormal in intensity or focus (eg, strong attachment 
+to or 
+preoccupation with unusual objects)
+• Hyperreactivity or hyporeactivity to sensory input, 
+or 
+unusual interests in sensory aspects of the environment (eg, apparent indifference to pain or temperature, or adverse responses to specific sounds or textures)
+Notes on diagnosis•
+ Individuals with a well 
+established DSM-IV diagnosis of 
+autistic disorder, Asperger syndrome, or pervasive developmental disorder not otherwise specified should be given the diagnosis of autism spectrum disorder
+•
+ Symptoms must be present in the early dev
+elopmental 
+period (but might not become fully manifest until social demands exceed limited capacities, or might be masked by learned strategies in later life)
+•
+ Individual must have social communication 
+deficits 
+(past or present) in each of the three areas defined above
+• Individual must have 
+two of the four restricted, repetitive 
+patterns (past or present), as defined above
+• Symptoms must cause clinically significant impairment in social, occupational, or other areas of current 
+functioningSeminarwww.thelancet.com   Published online August 2, 2018   http://dx.doi.org/10.1016/S0140-6736(18)31129-2  3Early diagnosis
+ASD can be diagnosed by various professionals (paedia -
+tricians, psychiatrists, or psychologists), ideally with 
+input from multiple disciplines. Standardised diag  nostic 
+instru  ments are available, including the Screening Tool 
+for Autism in T
+oddlers and Young Children (STAT; 
+a 20-min observation for young children) and the more heavily researched Autism Diagnostic Observation Schedule (ADOS;
+16 a 45-min observation done by a skilled 
+professional, available in different formats for people of different language levels and ages, from 12 months to adulthood). These instruments allow the clinician, in the company of the caregiver, to observe and characterise the particular behaviours of the individual suspected to have ASD. For research or a more comprehensive develop
+-
+mental history, caregiver interviews such as the Autism Diagnostic Interview-R
+evised (ADI-R) or, particularly in 
+the UK, the Diagnostic Instrument for Social Communi -
+cation Disorders (DISCO), or the computer-generated Develop
+ mental, Dimensional, and Diagnostic Interview 
+(3di) are used, with many clinicians relying on informal histories.
+17,18 Assessment of children’s symptoms can be 
+obtained from a variety of scales, such as the Childhood Autism Rating Scale (CARS), Social Responsiveness Scale (SRS), and the Social Communication Question
+-
+naire (SCQ). Adaptive scales are also often used as measures of everyday functioning.
+16 Obtaining infor -
+mation about receptive and expressive language level, general behavioural difficulties, and motor skills, including an estimate of cognitive functioning or IQ, is considered standard practice.
+19
+Diagnoses based on combined clinician observation 
+and caregiver reports are consistently more reliable than those based on either observation or reports alone; therefore, clinicians should not rely solely on either parent reports or instruments such as the ADOS.
+20 
+Children who do not have language delays, or who are female, of ethnic minorities, of low socioeconomic status, or from families not fluent in English (at least in the USA) often receive later diagnoses.
+21
+ASD differs from many other medical conditions in 
+that the family’s reactions to the child and the diagnosis affect the child’s outcome as much as any specific treatment does.
+22 Providing information to family 
+members about resources, even if the next steps are not straightforward, is as important as any diagnostic labels, including ASD and other disorders, that might be applied to the child. Follow-up from a key professional is needed for families, especially at transition points such as diagnosis, school entry and leaving, and family changes. Helping a family to find a child’s initial formal treatment is just the first step in what will be many levels of care and many decision points.
+Diagnosis, ASD, and intellectual disability
+One source of tension regarding the provision of straightforward and simple recommendations for ASD diagnosis and services is the heterogeneity across regions and ages in the association between ASD and intellectual disabilities. Because very young children with clear developmental disabilities are likely to receive referrals for treatment or specialist assessment earlier 
+than those without, care should be taken not to overlook very verbal young children with ASD.
+21 Clear predictions 
+of later intellectual disabilities, except in children with profound delays, are not usually possible in children aged 2–3  years referred for possible ASD. Among preschool children in whom ASD is a concern, many but not all (or, in some countries, not most) will have an intellectual disability as well.
+23 Statistics vary 
+tremendously, with 11–65% of school-age children with ASD reported as having intellectual disabilities (IQ <70).
+24,25 Populations of children in different clinics 
+and research samples can be quite dissimilar, and variation among adults can be even more pronounced, as self-advocates for ASD are often articulate individuals who are in very different circumstances than are people with dual diagnoses of ASD and intellectual disability. Such variation can be confusing for families who do not know what the future will hold for their young children. Therefore, it is important for clinicians and families to know about cognitive and language abilities for children as they grow older and to discuss these issues, as well as to recognise that the relationship between IQ and ASD differs in different populations and at different ages.
+Diagnosis in older children and adolescents
+For older children (ie, those in later primary school), adolescents, or adults whose families suspect that they might have ASD, questions about diagnosis are different because the individual often already has a history of difficulties.
+26 Even though the majority of children 
+with ASD in northern Europe and North America are diagnosed by early school age, there remain others who have never had a diagnosis.
+27 Later diagnoses often occur 
+in the context of co-occurring problems such as anxiety, hyperactivity, or mood disorders
+22 that might have either 
+exacerbated or masked the ASD, along with the same factors (female sex, ethnicity, multilingualism, socio
+-
+economic factors, and more advanced language) that play a part in delayed diagnoses in younger children. Assess
+-
+ments of these children need the same ASD-specific clinician observations and caregiver reports as for younger children, with information about speech, language, motor
+, 
+verbal and non-verbal cognitive, and adaptive skills, but also require attention to relevant psychiatric disorders. Several self-report instruments for ASD and other disorders are available, but their validity is questionable because of their low specificity.
+28–30
+ASD in adulthood
+Estimates vary, but 10–33% of adults with ASD do not use more than simple phrases and have verbal and non-verbal IQs in the range of intellectual disability, requiring very Seminar4 www.thelancet.com   Published online August 2, 2018   http://dx.doi.org/10.1016/S0140-6736(18)31129-2substantial support.21,26,31 Most adults with ASD with 
+intellectual disability can speak at some level, can take 
+care of basic needs, and have the ability to work, but need daily support. Premature mortality is increased, primarily in individuals with lower intellectual abilities and in women (mostly resulting from congenital abnormalities and neurological disorders), but also in more able people with comorbid diagnoses.
+32,33
+In a community sample (ie, not a clinic sample), about 
+a third of adults who were diagnosed with ASD as children and had average or higher intelligence no longer had obvious ASD features, although many had minor psychiatric conditions.
+34 Thus, there is a wide 
+range of adult outcomes. However, finding appropriate employment and services is difficult. Although a study published in 2013 showed that educational attainments had improved compared with 20 years earlier,
+35 employ -
+ment did not 
+generally match levels of education. In 
+terms of independence, in the USA, only about 25% of individuals with ASD with average intelligence live in their own households,
+34 with the remainder living with 
+their families into at least middle age. Marriage and long-term intimate relationships are still rare. The proportion of people with at least one reciprocal friendship in the past 20 years increases during childhood and adolescence 
+for more able individuals with ASD, but remains lower than that in the general population.
+35 However, we have 
+almost no knowledge of characteristics of adults with ASD outside the USA and Europe.
+Adults seeking first diagnoses of ASD typically are 
+not intellectually disabled and often have comorbid psychiatric conditions.
+31 Notably, the proportion of adults 
+formally diagnosed with ASD after attending an ASD clinic is lower than that of children; this is perhaps because people with the clearest ASD symptoms have already been diagnosed.
+31 Brief self-report measures do 
+not have adequate specificity, but versions of the ADOS, the 3di, and the SRS are appropriate for verbally fluent adults.
+36–38 Other general psychiatric diagnostic measures 
+and a developmental history from relatives, if approved by the patient, can be helpful,
+39 and a general cognitive 
+assessment including verbal and non-verbal scores is also important. There is concern that women are under
+-
+diagnosed and diagnosed 
+later because of the belief that 
+ASD primarily occurs in male individuals or because it is masked by female gender-related social differences.
+40 
+Co-occurring difficulties (eg, depression or severe anxiety) can cause as much impairment as ASD features.
+39
+Several self-advocacy and identity movements are 
+associated with ASD. These movements generally emphasise respect for neurodiversity, strengths (such as attention to detail), and individual differences, and have called for ASD to be considered a condition rather than a disorder. By contrast, parents of less able people with ASD have expressed concern that the predominant media focus on the most intelligent individuals with ASD, and the argument to consider ASD as an aspect of neurodiversity, downplays the impairments of those children and adults with the greatest needs and diminishes the importance of their voices also being heard.
+41
+Co-occurring psychiatric conditions in ASD
+Clinicians have long been aware that ASD is often accompanied by other difficulties. In addition to ASD, the earliest considerations are usually developmental delay or intellectual disability, and language and motor difficulties. DSM-5 recognises this complexity by allowing multiple diagnoses, even within psychiatry, such as ASD and ADHD.
+ADHD is the most common comorbidity in people 
+with ASD (28·2% [95% CI 13·3–43·0]),
+42 and considerably 
+affects outcomes in children with ASD who have average intelligence or intellectual disability.
+43 How ADHD affects 
+children and adults changes over time in terms of interactions with executive functioning, peer relations, and depression, and should therefore be monitored.
+43
+Anxiety in various different forms—including social 
+anxiety, generalised anxiety, separation anxiety in younger children, and phobias—also affects many children with ASD.
+42,44 Anxiety and depression are more common, or at 
+least more observable, in verbally fluent individuals, and increase during adolescence in girls, while also occurring in a substantial minority of boys.
+45
+Irritability and aggression are more common in 
+ASD (25%) than in other developmental disorders (eg, idiopathic intellectual disability), although they take many different forms from minor physical aggression in very young children to verbal aggression in adults.
+46
+Trajectories and predictors of outcome
+The range of outcomes, from individuals who remain non-verbal to those able to work and live independently without continuing ASD symptoms, greatly increases uncertainty for families and pressure on parents to get the most out of each intervention. Diagnoses of ASD can be made in children as young as 15–24 months in some cases, although these early diagnoses should be monitored closely.
+47 The greatest gains, even into adulthood, are made 
+by children who have begun to make progress in language and have about average non-verbal skills by 3 years of age.
+48 Changes in language after age 5 years tend to be 
+linear; changes before that age can include more dramatic shifts in trajectories that result in catching up to overall age-group average levels,
+48 whereas those who do not catch 
+up can be identified as having intellectual disabilities.
+By age 9 years, friendship and engagement with peers, 
+often associated with access to integrated school pro
+  grammes, predicts adult outcome in terms of indepen -
+dence and decreased 
+symptoms, as do stronger adaptive 
+skills.49 In a longitudinal study,34 parent partici  pation in 
+early intervention for children between 2 and 3 years of age, even in as few as 20 sessions in a year
+, consistently 
+predicted more positive adult outcomes in terms of increased IQ (d=0·5), achievement (d=0·33), and adaptive Seminarwww.thelancet.com   Published online August 2, 2018   http://dx.doi.org/10.1016/S0140-6736(18)31129-2  5skills (d=0·27) in both less cognitively able and more 
+cognitively able young adults (mean age 19 years), and also increased the probability of full independence in more able individuals, although this could reflect parent motivation and resources as much as treatment.
+34
+Descriptive epidemiology
+A 2012 review commissioned by WHO estimated that the global prevalence of ASD was about 1%,
+50 with a more 
+recent review estimating the prevalence to be 1·5% in developed countries.
+51 Increases in prevalence estimates 
+in the USA over the past several decades have now mostly plateaued
+21 and probably can be largely accounted for by 
+improved awareness and services, differences in documentation, and the inclusion of milder cases without intellectual disability.
+52 Only two rigorous studies 
+of adult epidemiology of ASD have been done, both in the UK, and also provided estimates of about 1%, with many adults never having received a formal diagnosis.
+28,39
+Environmental risk factors
+Many risk factors for ASD have been suggested. A number of systematic reviews and meta-analyses have described prenatal and perinatal factors, as well as maternal dietary and lifestyle factors.
+53 The immediate 
+practical implications of most environmental factors for families hoping to minimise their risk with a subsequent child (after already having a child with ASD) are so far limited to the identification of likely-causal genetic anomalies in a minority of cases.
+Advanced maternal age (≥40 years) and paternal age 
+(≥50 years)
+54 have been independently associated with 
+ASD risk in several studies,51 as have short inter-
+pregnancy intervals (<24 months).55 Non-specific non-
+optimal factors during pregnancy, including maternal metabolic conditions, weight gain, and hypertension, as well as more specific factors (such as maternal admission to hospital due to bacterial or viral infections, or familial 
+history of autoimmune disease) have also been associated with a mildly increased risk of ASD and developmental delay combined.
+56
+Several studies have investigated maternal medication 
+use during pregnancy. Prenatal valproic acid exposure has been associated with increased risk of ASD.
+57 For 
+antidepressants, including selective serotonin-reuptake inhibitors, well controlled studies
+51,58 have suggested no 
+unequivocal risk, despite earlier concerns.
+Preterm birth (<32 weeks), low birthweight (<1500 g), 
+small-for-gestational-age status,59 and large-for-gestational-
+age status (>95th birthweight percentile)60 have been 
+independently associated with an increased risk of ASD, although whether these factors are causal or markers of risk is unclear.
+51 Nevertheless, these children should be 
+monitored for ASD during later infancy and early toddler years. No consistent associations between caesarean delivery or assisted conception and risk of ASD have been found.
+51Preconceptual folic acid supplements have been 
+associated with a decreased risk of ASD and general developmental disabilities, with a significant gene–environment interaction.
+61 Some links with air pollutants 
+and maternal stressors during pregnancy have been found, but variable methods and results across countries make interpretations difficult.
+51 Associations between 
+ASD and vaccinations have been sought multiple times and not found.
+62
+ASD and paediatric conditions
+ASD is strongly associated with numerous coexisting conditions—physical, mental, neurodevelopmental, and functional—that are not part of the diagnostic criteria but can nevertheless have a substantial, often negative, effect on the wellbeing of the child or young person and their family, and can require modification of intervention strategies. Coexisting conditions vary in prevalence de
+-
+pen ding on the population studied, but include other 
+neuro  developmental disorders, intellectual disability 
+(IQ <70; prevalence 15–65% for different samples),24,63 and 
+academic learning difficulties (75% of individuals aged 
+9–18 years with ASD had at least one area of literacy or mathematical achievement highly discrepant from their general intellectual ability, with reading comprehension most often being low).
+64,65 The prevalence of speech and 
+language delays is estimated to be 87% in 3-year-old children with ASD.
+66,67 Other conditions include tics (in 9% 
+of preschool and school-age children),42 sleeping problems 
+(25–40%),68,69 restricted and rigid food choices (42–61%),70 
+obesity (23%),71 gastrointestinal symptoms (47%),72 and 
+elimination problems, particularly bowel evacuation and constipation (12%).
+73 Epilepsy has a reported prevalence of 
+8·6% in people with ASD and is particularly associated with intellectual disability and female sex.
+74 Common 
+coexisting conditions (eg, problems with sleeping, picky eating, and toileting) should be systematically investigated and treated; often, approaches like those used for children without ASD can be used and are similarly effective in children with ASD, although somewhat more creativity and persistence is needed.
+Genetics
+The past decade has seen a shift from a general concept of genetic risk to more specific attention to a large number of heterogeneous, individual genetic variants associated with ASD risk. The shifting definitions of ASD have led to variable rates of diagnosis in twin and family studies. A meta-analysis published in 2016 reported that 74–93% of ASD risk is heritable,
+75 although 
+non-genetic factors are also important. Sibling studies indicate that ASD occurs in 7–20% of subsequent children after an older child is diagnosed with ASD,
+76,77 
+and this prevalence is increased in children with two older siblings with ASD. Risk is 3–4-times higher in boys than girls.
+78 Models of genetic risk in ASD 
+favour complex inheritance, with additive contributions Seminar6 www.thelancet.com   Published online August 2, 2018   http://dx.doi.org/10.1016/S0140-6736(18)31129-2from common variants that individually make small 
+contributions to risk,79 as well as rare variants that have 
+larger effect sizes but are still not deterministic causes of ASD.
+80 Relative to rare variants, common risk variants 
+have been difficult to identify because of overlap with the general population.
+The first evidence for specific genetic risk factors in 
+ASD arose in rare genetic syndromes, such as fragile X syndrome
+81 and tuberous sclerosis,82 which include 
+ASD in some children. However, the most common of these syndromes, fragile X syndrome, is present in less than 2% of children with ASD. Genomic copy-number variants, in which a chromosomal subregion is duplicated or deleted, can be inherited or occur de novo (ie, in the child but not in either parent). In ASD, copy-number variants are best considered as risk variants rather than causal mutations, because most lead to ASD in a minority of children and can also be found in people with other developmental disorders or without any diagnosis. A few variants are common enough that their associated features have been individually studied, such as chromosome 16p11.2 deletions and duplications
+83 and 
+maternal 15q11–q13 duplications.84
+In the past 15 years, recurrent, de-novo, likely gene-
+disrupting, single-nucleotide variants have been identified in more than 100 genes, some of which also harbour rare, inherited single-nucleotide variants that appear to contribute to ASD risk.
+85 The most common 
+gene disrupted by these rare, de-novo events is CHD8,86 
+although such variants are found in less than 0·5% of children with ASD. The collection of implicated genes seems to be enriched for certain biological functions including neuronal function and regulation of gene expression, suggesting common pathways that lead to ASD risk.
+87,88
+Many physician organisations now recommend that 
+every child with ASD receive genetic testing, including fragile X syndrome testing and a chromosomal micro
+-
+array to detect 
+copy-number variants.89 Some clinicians 
+in North America and Europe already order whole-exome or whole-genome sequencing for children without chromosomal microarray findings. Sequencing could soon become the standard of care for ASD in some countries. Although testing can be ordered by any physician, referral to a specialist such as a clinical geneticist is typically indicated for children with specific genomic findings.
+Currently, genetic testing has the potential to improve 
+family planning (and provide a medical explanation for a child’s ASD in some cases), trigger screening for co-occurring medical problems, aid prognostication, and connect families to specific support groups. Treatment studies are underway in some children with genetically defined syndromes, such as fragile X syndrome. Within the next decade, we expect that genetic research will allow the development of new treatments for some children.
+85Neurobiology
+In neurobiology, ASD is no longer viewed as a focal impairment in a specific brain region or system, but instead as a condition resulting from overall brain re
+-
+organis  ation beginning early in development. Among the 
+most well replicated findings is a pattern of overgrowth of brain volume in infancy and early childhood, as
+ 
+documented through differences in brain volume on neuroimaging.
+90,91 Relative to typically developing children, 
+those with ASD have accelerated brain development early in life, which results in altered connectivity.
+92 Connectivity 
+is a broad concept encompassing physical inter -
+connections as well as correlations or causal interactions in activity of different regions. Findings are generally
+ 
+consistent in showing a pattern of overall brain under-connectivity, coupled with local over-connectivity within specific regions,
+5,93 often the frontal and occipital regions. 
+Given that the underlying cellular mechanisms for these neural patterns in early development are yet to be understood, we do not have strong evidence for how altered connectivity differentially affects specific brain regions, measurements (eg, brain volume [grey vs white matter], cortical thickness, gyrification), and conditions (eg, recording parameters or tasks).
+5,91
+Research on altered brain development and functioning 
+has further elucidated differences in sensitivity to the environment and distinct styles of learning, which in turn lead to brain reorganisation during development, resulting in heterogeneous profiles in adults with ASD. Subtle alterations in multiple brain systems subserving social and attentional mechanisms are observed well before the emergence of overt behavioural symptoms.
+94 
+These alterations sometimes remain stable into adult -
+hood, as different individuals use adaptive and compensatory mechanisms to address their challenges. Although it was hoped that head circumference might offer an informative biomarker for measuring individual variation in brain growth over time, it has been shown to have little usefulness as a predictor of ASD.
+95 Given the 
+complexity and uncertain nature of the causes of ASD, there is a need to provide families and other caregivers, especially around the time of diagnosis, with accurate information about biological differences that might underlie their child’s behaviour or different styles of learning.
+Treatment
+How much and what kind of intervention children and adults with ASD receive vary immensely across the world and even within countries and regions.
+94 One consistent 
+finding across many (although not all) locations is that parents with a lower educational level are less successful in obtaining specialist interventions that could improve outcomes. In one survey about European services for less well educated families, even low-cost and publicly funded interventions were not available to children until a year after diagnosis.
+96Seminarwww.thelancet.com   Published online August 2, 2018   http://dx.doi.org/10.1016/S0140-6736(18)31129-2  7Early parent-mediated interventions
+Several well designed randomised controlled trials have 
+shown that low-intensity interventions that coach parents on how to interact with their young children with ASD can result in immediate effects on children’s social behaviour and communication.
+16 These treatments 
+emphasise teaching parents and caregivers to establish joint engagement, avoid being very directive, and create opportunities for shared attention and balanced play so that children gradually take more initiative.
+16 The 
+treatments can also help, to some degree, to alleviate the distress of families and give them something positive to focus on.
+97
+These treatments tend to be non-intrusive for families, 
+relatively low in cost, adaptable for the clinic or home and for groups or individuals, and could be helpful even for families of very young at-risk children who, in the end, might not develop ASD but have other delays. Formal treatments that fit into the category of early parent-mediated interventions are listed in panel 2. All have shown some effectiveness, with variations in intensity and duration (effect sizes for early parent-mediated interventions are typically around d=0·30).
+98 
+One paper showed these that the benefits of these interventions lasted beyond early years and into later childhood (effect size 0·70).
+103
+However, other studies with similar low-intensity 
+approaches (eg, More Than Words) have not shown positive results, and non-specific factors might influence the effects.
+99,104 Furthermore, no formal studies have 
+directly varied the intensity of interventions or contrasted one approach with another. Strategies that work for most children might not work for everyone; for children with severe delays who cannot yet play or manipulate objects well, teaching their parents to avoid initiating play or other interactions might not be helpful.
+66 Similarly, 
+although most children learn words first receptively and then expressively, children with substantial delays might learn words first by saying them and then come to understand them.
+66 Thus, not all children with ASD will 
+benefit from the same approaches.
+Naturalistic behavioural developmental interventions
+The treatment that has received the most attention historically in North America has been early intensive behavioural intervention. The most well known form of this treatment is Applied Behaviour Analysis (ABA), but there are many versions of this approach. A 2015 review
+100 summarised the research on these approaches 
+and introduced the term naturalistic developmental be -
+havioural inter  ventions (NDBI), which includes Pivotal 
+R
+esponse Treatment (PRT), Early Start Denver Model 
+(ESDM), Joint Attention Symbolic Play and Engagement Regulation (JASPER), and Early Social Interaction (ESI) (panel 2). These treatments differ from one another but share similarities in that they follow typical develop
+-
+mental sequences more closely as compared with the Panel 2: Early parent-mediated treatments and early 
+naturalistic developmental behavioural interventions with evidence for treatment, and parent-friendly online resources
+Early parent-mediated treatments
+•
+ Developmental Individual-Difference Relationship-Based Model (DIR) 
+or Floortime98
+• Early Social Interaction (ESI)23
+• Early Start Denver Model (ESDM)99
+• Joint Attention Symbolic Play Engagement and Regulation (
+JASPER)100
+• Preschool Autism Communication T rial (PACT)101
+Early naturalistic developmental behavioural interventions•
+ Early Achievements100
+• Enhanced Milieu Teaching (EMT )100
+• Early Start Denver Model (ESDM)99
+• Incidental Teaching (IT )100
+• Joint Attention Symbolic Play Engagement and Regulation (
+JASPER)100
+• Pivotal Response Treatment (PRT)100
+• Project ImPACT (Impro ving Parents As Communication 
+Teachers)100
+• Reciprocal Imitation Training (RIT)100
+• Social Communications/Emotional Regulation/T
+ransactional Support (SCERTS)102
+Parent-friendly and client-friendly websites•
+ American Academy of Child and Adolescent 
+Psychiatry 
+(https://www.aacap.org/aacap/families_and_youth/resource_centers/autism_resource_center/home.aspx)
+•
+ American Academy of P
+ediatrics (https://www.aap.org/
+en-us/pages/default.aspx)
+• Assessment, Diagnosis, and Interventions for A
+utism 
+Spectrum Disorders (http://www.sign.ac.uk/assets/sign145.pdf)
+•
+ Australian Autism CRC 
+(https://www.autismcrc.com.au/)
+• Autism Alliance (https://www
+.autism-alliance.org.uk/)
+• Autismo Diario (https://autismodiario.org/)
+• Autism Speaks (https://www.autismspeaks.org/)
+• Autism Spectrum Disorder in Adults: Diagnosis and Management (https://www
+.nice.org.uk/guidance/CG142)
+• Autism Partnership (https://www
+.autismpartnership.com/)
+• Autistic Self Adv
+ocacy Network (http://autisticadvocacy.
+org/)
+• Centers for Disease Control and Prevention (https://www
+.
+cdc.gov/ncbddd/autism/index.html)
+• Confederación Autismo España (http://www
+.autismo.org.
+es/AE/default.htm)
+• Florida State University 
+Autism Navigator (http://med.fsu.
+edu/index.cfm?page=autisminstitute.autismnavigator)
+• National Institutes of Health (https://search.nih.gov/search?utf8=%E2%9C%93&affiliate=nih&query=autism+and+parents&commit=Search)Seminar8 www.thelancet.com   Published online August 2, 2018   http://dx.doi.org/10.1016/S0140-6736(18)31129-2original ABA protocols; they emphasise play, social 
+interaction, and communicative initiation on the part of the child, and natural consequences as opposed to rewards such as food. These treatments are generally undertaken by an adult teacher or therapist working one-to-one with a child, using principles of learning to teach a child developmental skills such as language, imitation, or cognitive tasks such as matching or sorting. The treatment is usually intended to be given intensively in periods of 15–20 h or more per week. Meta-analyses of treatment studies
+16,105 report effect 
+sizes of d=0·69 for adaptive skills, d=0·76 for IQ, and about d=0·50 for language skills after 2 years of treatment; however, only one trial was truly randomised and all studies compared the NDBIs to a treatment-as-usual control group. When NDBI approaches have been directly compared with other developmental approaches of equal intensity, no difference has been found.
+16 Another commonly used treatment that also 
+uses modified behavioural techniques is TEACCH (Treatment and Education of Autistic and Communication Handicapped Children and Adults),
+106 which is a way of 
+using the temporal and physical environment to increase independence, communication, and predictability, often within a classroom setting.
+Overall, parent-mediated interventions primarily affect 
+social communication interaction and sometimes ASD symptoms over time; one-to-one (adult and child) intensive interventions based on NDBI or ABA have been shown to affect language development, cognition, and adaptive skills, perhaps because they are usually more intense, structured treatments. Children might benefit in different ways from both social communication-oriented parent-mediated interventions and direct one-to-one treatments from therapists or teachers;
+107 however, we do 
+not yet have research to guide these decisions.
+Many other interventions are available to children with 
+ASD, some routinely through schools or health systems and some sought out by parents. Although specific techniques within speech therapy have general empirical support, it has been difficult to show that speech therapy and occupational therapy are effective, in part because they represent many different treatments. In general, techniques in speech therapy have been shown to increase spoken single-word acquisition and improve simple sentence structure, but shown no effects on complex language so far.
+107
+Sensory-oriented treatments are a considerable part 
+of early interventions and school-based treatments in North America, but are less so in other countries. A small amount of research literature is accumulating, with the same limitations as other behavioural studies in terms of small samples and various risks of biases. Sensory-integration approaches delivered by occupational therapists improved sensory and motor skills in the short term (d=0·12 to d=1·2 for teacher and parent ratings and sensory evaluations) compared with usual care in young children.
+108 Auditory-integration treatments have not 
+yielded consistently positive results. Music therapy results have been generally positive, although limitations in the study designs mean that conclusions should be made with caution. General environmental stimulation improved cognitive skills in two small-scale studies. Various sensory-related components (eg, weighted blankets, swings, or brushing) have not shown consistent positive effects, except perhaps massage (d=0·6 to d=0·7 for self-regulation and sensory responses).
+109
+Behavioural and social treatments for school-age 
+children, adolescents, and adults
+For school-age children and adolescents, the most 
+common behavioural interventions are social skills groups. Numerous highly manualised programmes in which children, adolescents, and parents participate separately and together have been shown to result in improvements in social behaviour (d=0·98 for self-reported social skills; d=0·58 for tasks; smaller effects for parent and teacher reports) in randomised controlled studies.
+110 A variety of other manualised programmes 
+emphasise different components, such as executive functioning, theory of mind, and more comprehensive approaches, such as SCERTS (Social Communication/Emotional Regulation/Transactional Support), with less strong empirical support.
+111 Social stories (a strategy in 
+which a caregiver depicts an anticipated or experienced event in cartoons and the child and adult then discuss it) have also been shown to reduce disruptive behaviour.
+112
+Many of these programmes use cognitive behavioural 
+therapy as their underlying theoretical framework. A number of group therapy programmes have aimed to reduce anxiety symptoms in children with ASD, usually with parallel parents’ and children’s groups.
+113,114 The 
+frequency of anxiety symptoms in ASD attests to the important need for such interventions.
+42 These 
+approaches usually last about 3 months and report quite high effect sizes (d>0·70), with about half of children in the therapy groups responding compared with less than 10% of those in control groups.
+115 Effects of behavioural 
+interventions on depression have been more difficult to document.
+116
+A manualised treatment called parent-child inter  action 
+therapy increased shared positive affect and child adaptability
+,117 consistent with the general finding that 
+hands-on parent training reduces disruptive behaviour more than parent education alone (effect sizes d=–0·62 to d=0·70).
+118 Interventions for aggression and 
+oppositional disorders remain an underserved need for many families of children with ASD, and traditional behaviour management can help.
+42 An ongoing debate is 
+whether new behavioural descriptions, such as patho -
+logical demand avoidance119 (a term of rising popularity 
+in the UK), are helpful or harmful, particularly when they are primarily based on questionnaires or non-specific items from caregiver reports. There are many Seminarwww.thelancet.com   Published online August 2, 2018   http://dx.doi.org/10.1016/S0140-6736(18)31129-2  9unknowns about how best to consider the complexity of 
+the associations between the deficits of ASD, emotional regulation, and existing diagnoses (such as oppositional defiant disorder) and other behavioural difficulties.
+120
+Few studies have investigated behavioural treatments 
+in adults, except those for anxiety and depression discussed earlier. This area warrants more research, moving beyond cognitive behavioural therapy and social skills groups to include broader life skills and, for example, anger management and self-advocacy, as well as medical issues such as obesity.
+19 Another area of 
+focus has been how to increase employability in adults with ASD, with an emphasis on helping secondary school students and young adults to enter community-integrated programmes as soon as possible, rather than practising work in special workshops or schools.
+121
+Another area of concern is the disparity in services—in 
+terms of availability, quality, and utilisation—across racial and ethnic groups and between families with different levels of educational and financial resources. Research showed that services such as family peer advocates (who focus on families’ involvement rather than a more medical or traditional therapeutic per
+ spective) increase 
+knowledge and decrease stress for underserved popu -
+lations,122 but with no change in use of services. The 
+increasing prevalence of ASD in the USA among diverse populations suggests improved identification of the disorder, but the same information is not available about the dissemination of treatments and educational approaches. Concerns about appropriate services and accurate diagnoses for girls and women with ASD have also received increasing attention recently. Although ASD is consistently more prevalent in male individuals, estimates of sex ratios vary markedly across populations,
+50 
+as do patterns of symptoms, interacting with differences in distributions of intelligence, motor skills, and known genetic factors.
+117
+Pharmacology
+Evidence-based pharmacology in ASD is currently limited to the treatment of co-occurring behaviours or diagnoses, not ASD itself. Risperidone
+123 and aripiprazole124 have 
+improved symptoms of irritability or agitation in children and adolescents with ASD in randomised controlled trials. Overall, with use of these two medications, the majority of (but not all) children show improvement in irritability and agitation, which includes aggression, self-injury, and other disruptive behaviours.
+125 Both drugs 
+are mixed dopamine-receptor and serotonin-receptor antagonists or partial agonists, and are in a class commonly termed atypical antipsychotics. Not all similar medications are helpful in ASD.
+126 Both drugs can also 
+cause adverse events, including sedation and weight gain, increasing risk of later health problems. Metformin is helpful in ameliorating weight gain due to these medications in ASD.
+127
+A few medications typically used to treat ADHD, 
+including methylphenidate,128 atomoxetine,129 and guan -
+facine130 (table), also show benefit for ADHD symptoms 
+in ASD, which occur in over a quarter of children.42 Each 
+of these drugs yields less benefit and more adverse events in individuals with ASD than in the general ADHD population. The available studies suggest that these three drugs should be limited to use in children with ASD who have co-occurring ADHD, which is made as a separate diagnosis according to DSM-5.
+Children with ASD and co-occurring epilepsy or other 
+neurological disorders should be treated on the basis of evidence in children without ASD.
+131 It is reasonable to 
+similarly adapt evidence from the general paediatric population for the treatment of mental illnesses that co-occur with ASD, such as anxiety and mood disorders. To date, despite the frequent co-occurrence of epilepsy, anxiety disorders, and mood disorders with ASD, no randomised controlled trials have evaluated whether medications for these co-occurring disorders show similar response rates or adverse events in people with ASD. Caution should therefore be used, with preference for lower-risk treatments, including behavioural or psychosocial interventions.
+Some clinicians, including those who describe their 
+practices as biomedical or holistic, prescribe various treatments that have no evidence and no biological plausibility in ASD.
+132 A few supplements, such as 
+sulforaphane133 and folic acid,134 have some biological 
+plausibility and some pilot evidence, but further study is Age (years) for 
+use as indicated by US FDATarget symptoms Effect size (d) Common adverse effects
+Risperidone 5–16 Agitation or irritability in ASD 0·94
+123Increased appetite, sedation, weight gain
+Aripiprazole 6–17 Agitation or irritability in ASD 0·87124Nausea, weight gain
+Atomoxetine 6–15 Typically for ADHD symptoms 0·68–0·84129Decreased appetite nausea, irritability
+Methylphenidate ≥6 ADHD –0·78 (95% CI –1·13 to 
+–0·43) (teacher-rated)128Sleep disruption, decreased appetite
+Guanfacine 6–12 ADHD 1·67130Fatigue, sedation, decrease in pulse and blood pressure
+ASD=autism spectrum disorder. ADHD=attention-deficit hyperactivity disorder. FDA=US Food & Drug Administration.
+Table: Evidence for use of medication in autism spectrum disorderSeminar10 www.thelancet.com   Published online August 2, 2018   http://dx.doi.org/10.1016/S0140-6736(18)31129-2needed. Care should be taken to avoid harm associated 
+with certain non-evidence-based treatments, such as toxicity due to chelating agents or hyperbaric oxygen.
+135 
+Clinicians should prevent these treatments from distracting or diverting resources from evidence-based behavioural or educational interventions.
+Future directions
+Given existing health systems, there are clear, continuing needs for coordination between health-care, education, and other services (such as intense support for challeng
+-
+ing behaviours and planning for adult residential and employment programmes for individuals with ASD). E
+ven the immediate demand on physicians’ time for 
+counselling and support of families facing potential early diagnoses is a controversy in the USA because these are generally not billable services for paediatricians. To date, scientific focus has primarily been on the development of more accurate tools for identification; however, using community resources to develop and promote use of more readily available treatment programmes in which young children and adults can participate might make more sense, because physicians are more likely to screen and refer when they perceive a benefit to the family from doing so. Economic data—such as a 2012 report that indicated that, in the USA, for every $1000 spent on respite care, there was an 8% decrease in spending on inpatient psychiatric services on Medicaid-enrolled children with ASD
+136—could be helpful in justifying the 
+cost of services such as respite care.
+In basic science research, much has been learned; 
+however, the clinical implications remain few, partly because of findings from both genetics and imaging studies that ASD is not typically caused by a specific gene or highly localised lesion, but might result from combined or not-yet-understood genetic risks and disruptions in very early developing neural pathways. Although the idea of continuous traits underlying ASD is appealing to many scientists, it should also be recognised that many of these traits, such as intelligence, language level, activity level, anxiety, motivation, and aggression, interact with each other in complex ways, and thus simple models do not represent actual development.
+In terms of global health, focusing on the goals of 
+children and adults with ASD and their families, rather than on how to plug gaps in existing systems, might help to set appropriate priorities. Innovative solutions, such as adaptations of evidence-based interventions for low-resource settings through empowering front-line health-care workers, are underway.
+137,138
+Conclusions
+Life for many children and adults with ASD is improved today compared with 50 years ago. More adults with ASD can talk, read, drive, graduate from school, and live in the community—even accounting for the differences in which people would meet the diagnostic criteria now and in the past, and their respective levels of intelligence. Caregivers can be reassured that the situation has improved, and will continue to improve, for most people with ASD. We hope that research directs attention to individuals who still have substantial difficulties and provides pathways to fuller inclusion and greater independence for more people. Science and public policy both have the potential to contribute to such changes. Working with families, schools, and community providers, clinicians can make differences in the lives of individual children and adults by providing accurate and realistic infor
+ mation, support, 
+and hope.
+Contributors
+All authors contributed to the conceptualisation, literature review, and writing of the manuscript.
+Declaration of interests
+CL receives royalties from sales of the Autism Diagnostic Interview-Revised (ADIR), Autism Diagnostic Observation Schedule (ADOS), and Autism Diagnostic Observation Schedule 2nd edition (ADOS-2); she donates all proceeds related to her clinical or research activities to charity. JV-V has consulted or served on advisory boards for Roche, Novartis, and SynapDx, has received research funding from Roche, Novartis, SynapDx, Seaside Therapeutics, and Forest, and receives stipends for editorial service from Wiley and Springer. All other authors declare no competing interests.
+Acknowledgments
+We thank Anya Urcuyo, Nancy Jaramillo, and Juliana Boucher (from Weill Cornell Medicine for their excellent help in preparing this manuscript, and David Skuse from Great Ormond Street Hospital for information and advice. This work was supported National Institute of Mental Health grants award to CL (R01MH104423-04, R01HD081199-04). JV-V is funded by the Mortimer D Sackler, MD Professorship. ME receives support from Fonds de Recherche du Québec—Santé and the Canadian Institutes for Health Research.
+References 
+1
+ Kanner L. Autistic disturbances of affective contact. Nervous Child
+ 
+1943; 2: 217–50.
+2 Lavelle TA, Weinstein MC, N
+ewhouse JP, Munir K, Kuhlthau KA, 
+Prosser LA. Economic burden of childhood autism spectrum disorders. Pediatrics 2014; 133: e520–29.
+3
+ Khan NZ, Gallo LA, Arghir A, et al. Autism and the grand challenges in global mental health. 
+Autism Res 2012; 5: 156–59.
+4 Bauman ML, Kemper TL. Neuroanatomic observations of the brain in autism: a review and future directions. 
+Int J Dev Neurosci 2005; 
+23: 183–87 .
+5 O’Reilly C, Lewis JD, Elsabbagh M. Is functional brain connectivity atypical in autism? A systematic review of EEG and MEG studies. PLoS One 2017; 
+12: e0175870.
+6 American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders (DSM-5), 5th edn. W
+ashington, DC: 
+American Psychiatric Association Publishing, 2013.
+7 Lord C, Petkova E, Hus V
+, et al. A multisite study of the clinical 
+diagnosis of different autism spectrum disorders. Arch Gen Psychiatry  
+2012; 69: 306–13.
+8 Maenner MJ, Rice CE, Arneson CL, et al. Potential impact of DSM-5 criteria on autism spectrum disorder prevalence estimates. JAMA Psychiatry
+ 2014; 71: 292–300.
+9 Weitlauf AS, Gotham KO, V
+ehorn AC, Warren ZE. Brief report: 
+DSM-5 “levels of support:” a comment on discrepant conceptualizations of severity in ASD. J Autism Dev Disord 2014; 44: 471–76.
+10
+ Mandell D, Mandy W
+. Should all young children be screened for 
+autism spectrum disorder? Autism 2015; 19: 895–96.
+11 Havdahl KA, Bishop SL, S
+urén P, et al. The influence of parental 
+concern on the utility of autism diagnostic instruments. Autism Res 2017; 10: 1672–86.Seminarwww.thelancet.com   Published online August 2, 2018   http://dx.doi.org/10.1016/S0140-6736(18)31129-2  1112 Pierce K, Carter C, W
+einfeld M, et al. Detecting, studying, and 
+treating autism early: the one-year well-baby check-up approach. 
+J Pediatr 2011; 159: 458–65.e1–6.
+13 McConachie H, Parr JR, Glod M, et al. Systematic review of tools to measure outcomes for young children with autism spectrum disorder
+. Health Technol Assess 2015; 19: 1–506.
+14 Emerson ND, Morrell HER, Neece C. Predictors of age of diagnosis for children with autism spectrum disorder
+: The role of a consistent 
+source of medical care, race, and condition severity. J Autism Dev Disord 2016; 46: 127–38.
+15
+ Sicherman N, Loewenstein G, Tavassoli T
+, Buxbaum JD. 
+Grandma knows best: Family structure and age of diagnosis of autism spectrum disorder. Autism 2018; 22: 368–76.
+16
+ Weitlauf AS, McPheeters ML, Peters B, et al. Therapies for children with autism spectrum disorder
+: behavioral interventions update. 
+Comparative Effectiveness Review No. 137 . Rockville, MD: Agency for Healthcare Research and Quality, 2014.
+17
+ National Institute for Health and C
+are Excellence. Autism 
+spectrum disorder in adults: diagnosis and management. June 27, 2012. https://www.nice.org.uk/guidance/CG142 (accessed July 11, 2018).
+18
+ Scottish Intercollegiate Guidelines Network. SIGN 145:
+ 
+Assessment, diagnosis and interventions for autism spectrum disorders. Edinburgh: Scottish Intercollegiate Guidelines Network, 2016.
+19
+ Lord C, McGee J. Educating children with autism spectrum disorders: report of the Committee on Early Intervention in A
+utism. 
+Washington, DC: National Academy of Sciences, 2001.
+20 Kim SH, Lord C. Combining information from multiple sources for the diagnosis of autism spectrum disorders for toddlers and young preschoolers from 12 to 47 months of age. J Child Psychol Psychiatry
+ 
+2012; 53: 143–51.
+21 Developmental Disabilities Monitoring Network S
+urveillance 
+Year 2010 Principal Investigators; Centers for Disease Control and Prevention. Prevalence of autism spectrum disorder among children aged 8 years—Autism and Developmental Disabilities Monitoring Network, 11 sites, United States, 2010. MMWR Surveill Summ 2014; 63: 1–21.
+22
+ Dykens EM, Fisher MH, Taylor JL, Lambert W
+, Miodrag N. 
+Reducing distress in mothers of children with autism and other disabilities: a randomized trial. Pediatrics 2014; 134: e454–63.
+23
+ Wetherby AM, Guthrie W
+, Woods J, et al. Parent-implemented 
+social intervention for toddlers with autism: an RCT. Pediatrics 2014; 134: 1084–93.
+24
+ Autism and Developmental Disabilities Monitoring N
+etwork 
+Surveillance Year 2008 Principal Investigators; Centers for Disease Control and Prevention. Prevalence of autism spectrum disorders—Autism and Developmental Disabilities Monitoring Network, 14 Sites, United States, 2008. MMWR Surveill Summ 2012; 61: 1–19.
+25
+ Baron-Cohen S, Wheelwright S, Skinner R, Martin J, Clubley E. The autism-spectrum quotient (AQ): evidence from Asperger syndrome/high-functioning autism, males and females, scientists and mathematicians. 
+J Autism Dev Disord 2001; 31: 5–17 .
+26 Department for Education. Special educational needs in England: January 2017
+. July 27, 2017 . https://www.gov.uk/government/
+statistics/special-educational-needs-in-england-january-2017 (accessed July 11, 2018).
+27
+ Havdahl KA, von Tetzchner S, H
+uerta M, Lord C, Bishop SL. 
+Utility of the child behavior checklist as a screener for autism spectrum disorder. Autism Res 2016; 9: 33–42.
+28
+ Brugha TS, McManus S, Bankart J, et al. Epidemiology of autism spectrum disorders in adults in the community in England. Arch Gen Psychiatry
+ 2011; 68: 459–65.
+29 Bishop SL, Seltzer MM. S
+elf-reported autism symptoms in adults 
+with autism spectrum disorders. J Autism Dev Disord 2012; 42: 2354–63.
+30
+ Ashwood KL, Gillan N, Horder J, et al. Predicting the diagnosis of autism in adults using the A
+utism-Spectrum Quotient (AQ) 
+questionnaire. Psychol Med 2016; 46: 2595–604.
+31 Happé FG, Mansour H, Barrett P, Brown T
+, Abbott P, Charlton RA. 
+Demographic and cognitive profile of individuals seeking a diagnosis of autism spectrum disorder in adulthood. J Autism Dev Disord 2016; 46: 3469–80.32
+ Schendel DE, Overgaard M, Christensen J, et al. Association of psychiatric and neurologic comorbidity with mortality among persons with autism spectrum disorder in a Danish population. JAMA Pediatr 2016; 
+170: 243–50.
+33 Hirvikoski T, M
+ittendorfer-Rutz E, Boman M, Larsson H, 
+Lichtenstein P, Bölte S. Premature mortality in autism spectrum disorder. Br J Psychiatry 2016; 208: 232–38.
+34
+ Anderson DK, Liang JW, Lord C. Predicting young adult outcome among more and less cognitively able individuals with autism spectrum disorders. J Child Psychol Psychiatry
+ 2014; 55: 485–94.
+35 Howlin P, Moss P, S
+avage S, Rutter M. Social outcomes in mid- to 
+later adulthood among individuals diagnosed with autism and average nonverbal IQ as children. J Am Acad Child Adolesc Psychiatry 2013; 52: 572–81.e1.
+36
+ Mandy W, Clarke K, McK
+enner M, et al. Assessing Autism in Adults: 
+An Evaluation of the Developmental, Dimensional and Diagnostic Interview-Adult Version (3Di-Adult). J Autism Dev Disord 2018; 48: 549–60.
+37
+ Chan W, Smith LE, Hong J, G
+reenberg JS, Mailick MR. 
+Validating the social responsiveness scale for adults with autism. Autism Res 2017; 10: 1663–71.
+38
+ Hus V, Lord C. The autism diagnostic observation schedule, module 4: revised algorithm and standardized severity scores. J A
+utism Dev Disord 2014; 44: 1996–2012.
+39 Brugha TS. The psychiatry of adult autism and Asperger syndrome: a practical guide. Oxford: Oxford University Press, 2018.
+40
+ Halladay AK, Bishop S, C
+onstantino JN, et al. Sex and gender 
+differences in autism spectrum disorder: summarizing evidence gaps and identifying emerging areas of priority. Mol Autism 2015; 6: 36.
+41
+ Bishop DVM, Snowling MJ, Thompson PA, Greenhalgh T
+. 
+Phase 2 of CATALISE: a multinational and multidisciplinary Delphi consensus study of problems with language development: terminology. J Child Psychol Psychiatry 2017; 58: 1068–80.
+42
+ Simonoff E, Pickles A, Charman T
+, Chandler S, Loucas T, Baird G. 
+Psychiatric disorders in children with autism spectrum disorders: prevalence, comorbidity, and associated factors in a population-derived sample. J Am Acad Child Adolesc Psychiatry 2008; 47: 921–29.
+43
+ Hartman CA, Geurts HM, F
+ranke B, Buitelaar JK, Rommelse NNJ. 
+Changing ASD-ADHD symptom co-occurrence across the lifespan with adolescence as crucial time window: Illustrating the need to go beyond childhood. Neurosci Biobehav Rev 2016; 71: 529–41.
+44
+ Ung D, Wood JJ, Ehrenreich-May J, et al. Clinical characteristics of high-functioning youth with autism spectrum disorder and anxiety
+. 
+Neuropsychiatry (London) 2013; 3: 147–57 .
+45 Gotham K, Brunwasser SM, Lord C. Depressive and anxiety symptom trajectories from school age through young adulthood in samples with autism spectrum disorder and developmental delay. J Am A
+cad Child Adolesc Psychiatry 2015; 54: 369–76.e3.
+46 Hill AP, Zuckerman KE, H
+agen AD, et al. Aggressive behavior 
+problems in children with autism spectrum disorders: Prevalence and correlates in a large clinical sample. Res Autism Spectr Disord 2014; 8: 1121–33.
+47
+ Clark ML, Barbaro J, Dissanayake C. Continuity and change in cognition and autism severity from toddlerhood to school age. J Autism Dev Disord
+ 2017; 47: 328–39.
+48 Pickles A, Anderson DK, Lord C. Heterogeneity and plasticity in the
+ 
+development of language: a 17-year follow-up of children referred early for possible autism. J Child Psychol Psychiatry 2014; 55: 1354–62.
+49
+ Jones RM, Pickles A, Lord C. E
+valuating the quality of peer 
+interactions in children and adolescents with autism with the Penn Interactive Peer Play Scale (PIPPS). Mol Autism 2017; 8: 28.
+50
+ Elsabbagh M, Divan G, Koh YJ, et al. Global prevalence of autism and other pervasive developmental disorders. A
+utism Res 2012; 
+5: 160–79.
+51 Lyall K, Croen L, Daniels J, et al. The changing epidemiology of
+ 
+autism spectrum disorders. Annu Rev Public Health 2017; 38: 81–102.
+52 Mandell DS, Barry CL, Marcus SC, et al. Effects of autism spectrum disorder insurance mandates on the treated prevalence of autism spectrum disorder
+. JAMA Pediatr 2016; 170: 887–93.
+53 Mandy W, Lai MC. T
+owards sex- and gender-informed autism 
+research. Autism 2017; 21: 643–45.Seminar12 www.thelancet.com   Published online August 2, 2018   http://dx.doi.org/10.1016/S0140-6736(18)31129-254 Idring S, Magnusson C, Lundberg M, et al. P arental age and the 
+risk of autism spectrum disorders: findings from a Swedish 
+population-based cohort. Int J Epidemiol 2014; 43: 107–15.
+55 Zerbo O, Yoshida C, G
+underson EP, Dorward K, Croen LA. 
+Interpregnancy interval and risk of autism spectrum disorders. Pediatrics 2015; 136: 651–57 .
+56
+ Lyall K, Ashwood P, Van de W
+ater J, Hertz-Picciotto I. 
+Maternal immune-mediated conditions, autism spectrum disorders, and developmental delay. J Autism Dev Disord 2014; 44: 1546–55.
+57
+ Christensen J, Grønborg TK, Sørensen MJ, et al. Prenatal valproate exposure and risk of autism spectrum disorders and childhood autism. 
+JAMA 2013; 309: 1696–703.
+58 Brown HK, Ray JG, Wilton AS, L
+unsky Y , Gomes T, Vigod SN. 
+Association between serotonergic antidepressant use during pregnancy and autism spectrum disorder in children. JAMA 2017; 317: 1544–52.
+59
+ Lampi KM, Lehtonen L, Tran PL, et al. Risk of autism spectrum disorders in low birth weight and small for gestational age infants. J Pediatr
+ 2012; 161: 830–36.
+60 Moore GS, Kneitel A W
+, Walker CK, Gilbert WM, Xing G. 
+Autism risk in small- and large-for-gestational-age infants. Am J Obstet Gynecol 2012; 206: 314.e1–9.
+61
+ Schmidt RJ, Tancredi DJ, Ozonoff S, et al. Maternal periconceptional
+ 
+folic acid intake and risk of autism spectrum disorders and developmental delay in the CHARGE (CHildhood Autism Risks from Genetics and Environment) case-control study. Am J Clin Nutr  
+2012; 96: 80–89.
+62
+ Zerbo O, Qian Y , Y
+oshida C, Fireman BH, Klein NP, Croen LA. 
+Association between influenza infection and vaccination during pregnancy and risk of autism spectrum disorder. JAMA Pediatr 2017; 171: e163609.
+63
+ Charman T, Pickles A, S
+imonoff E, Chandler S, Loucas T, Baird G. 
+IQ in children with autism spectrum disorders: data from the Special Needs and Autism Project (SNAP). Psychol Med 2011; 41: 619–27 .
+64
+ Jones CR, Happé F, G
+olden H, et al. Reading and arithmetic in 
+adolescents with autism spectrum disorders: peaks and dips in attainment. Neuropsychology 2009; 23: 718–28.
+65
+ Kim SH, Bal VH, Lord C. Longitudinal follow-up of academic achievement in children with autism from age 2 to 18. J Child Psychol Psychiatry 2018; 59:
+ 258–67 .
+66 Woynaroski T, Y
+oder P, Watson LR. Atypical cross-modal profiles 
+and longitudinal associations between vocabulary scores in initially minimally verbal children with ASD. Autism Res 2016; 9: 301–10.
+67
+ Fountain C, Winter AS, Bearman PS. S
+ix developmental trajectories 
+characterize children with autism. Pediatrics 2012; 129: e1112–20.
+68 Sivertsen B, Posserud M-B, G
+illberg C, Lundervold AJ, Hysing M. 
+Sleep problems in children with autism spectrum problems: a longitudinal population-based study. Autism 2012; 16: 139–50.
+69
+ Soke GN, Maenner MJ, Christensen D, K
+urzius-Spencer M, 
+Schieve LA. Prevalence of co-occurring medical and behavioral conditions/symptoms among 4- and 8-year-old children with autism spectrum disorder in selected areas of the United States in 2010. J Autism Dev Disord 2018; published online March 9. DOI:10.1007/s10803-018-3521-1.
+70
+ Curtin C, Hubbard K, Anderson SE, Mick E, M
+ust A, Bandini LG. 
+Food selectivity, mealtime behavior problems, spousal stress, and family food choices in children with and without autism spectrum disorder. J Autism Dev Disord 2015; 45: 3308–15.
+71
+ Must A, Eliasziw M, Phillips SM, et al. The effect of age on the prevalence of obesity among US youth with autism spectrum disorder. 
+Child Obes 2017; 13: 25–35.
+72 Chaidez V, Hansen RL, H
+ertz-Picciotto I. Gastrointestinal problems 
+in children with autism, developmental delays or typical development. J Autism Dev Disord 2014; 44: 1117–27 .
+73
+ Gorrindo P, Williams KC, Lee EB, W
+alker LS, McGrew SG, Levitt P. 
+Gastrointestinal dysfunction in autism: parental report, clinical evaluation, and associated factors. Autism Res 2012; 5: 101–08.
+74
+ Thomas S, Hovinga ME, Rai D, Lee BK. Brief report: prevalence of co-occurring epilepsy and autism spectrum disorder
+: the U.S. 
+National Survey of Children’s Health 2011–2012. J Autism Dev Disord 2017; 47: 224–29.
+75
+ Tick B, Bolton P, Happé F, R
+utter M, Rijsdijk F. Heritability of 
+autism spectrum disorders: a meta-analysis of twin studies. J Child Psychol Psychiatry 2016; 57: 585–95.76
+ Ozonoff S, Young GS, Carter A, et al. R ecurrence risk for autism 
+spectrum disorders: a Baby Siblings Research Consortium study. Pediatrics 2011; 128: e488–95.
+77
+ Sandin S, Lichtenstein P, Kuja-H
+alkola R, Larsson H, Hultman CM, 
+Reichenberg A. The familial risk of autism. JAMA 2014; 311: 1770–77 .
+78 Messinger DS, Young GS, W
+ebb SJ, et al. Early sex differences are 
+not autism-specific: A Baby Siblings Research Consortium (BSRC) study. Mol Autism 2015; 6: 32.
+79
+ Gaugler T, Klei L, S
+anders SJ, et al. Most genetic risk for autism 
+resides with common variation. Nat Genet 2014; 46: 881–85.
+80 Weiner DJ, Wigdor EM, Ripke S, et al. P
+olygenic transmission 
+disequilibrium confirms that common and rare variation act additively to create risk for autism spectrum disorders. Nat Genet 2017; 49: 978–85.
+81
+ Niu M, Han Y
+, Dy ABC, et al. Autism symptoms in fragile X 
+syndrome. J Child Neurol 2017; 32: 903–09.
+82 Sundberg M, Sahin M. C
+erebellar development and autism 
+spectrum disorder in tuberous sclerosis complex. J Child Neurol 2015; 30: 1954–62.
+83
+ Duyzend MH, Nuttle X, Coe BP, et al. M
+aternal modifiers and 
+parent-of-origin bias of the autism-associated 16p11.2 CNV. Am J Hum Genet 2016; 98: 45–57 .
+84
+ Kalsner L, Chamberlain SJ. Prader-Willi, Angelman, and 15q11–q13
+ 
+duplication syndromes. Pediatr Clin North Am 2015; 62: 587–606.
+85 Bernier R, Golzio C, Xiong B, et al. Disruptive CHD8 mutations define a subtype of autism early in development. C
+ell 2014; 
+158: 263–76.
+86 C Yuen RK, Merico D, Bookman M, et al. Whole genome sequencing resource identifies 18 new candidate genes for autism spectrum disorder
+. Nat Neurosci 2017; 20: 602–11.
+87 Krumm N, Turner TN, Baker C, et al. Excess of rare, inherited truncating mutations in autism. Nat G
+enet 2015; 47: 582–88.
+88 Shea L, Newschaffer CJ, Xie M, Myers SM, Mandell DS. G
+enetic testing and genetic counseling among Medicaid-enrolled 
+children with autism spectrum disorder in 2001 and 2007 . Hum Genet 2014; 133: 111–16.
+89
+ Geschwind DH, State MW. G
+ene hunting in autism spectrum 
+disorder: on the path to precision medicine. Lancet Neurol 2015; 14: 1109–20.
+90
+ Hazlett HC, Gu H, M
+unsell BC, et al. Early brain development in 
+infants at high risk for autism spectrum disorder. Nature 2017; 542: 348–51.
+91
+ Ecker C, Bookheimer SY , Murphy DG. N
+euroimaging in autism 
+spectrum disorder: brain structure and function across the lifespan. Lancet Neurol 2015; 14: 1121–34.
+92
+ Lewis JD, Evans AC, Pruett JR, et al. Network inefficiencies in autism
+ 
+spectrum disorder at 24 months. Transl Psychiatry 2014; 4: e388.
+93 Rane P, Cochran D, H
+odge SM, Haselgrove C, Kennedy DN, 
+Frazier JA. Connectivity in autism: A review of MRI connectivity studies. Harv Rev Psychiatry 2015; 23: 223–44.
+94
+ Elsabbagh M, Johnson MH. Autism and the social brain: The first-year puzzle. 
+Biol Psychiatry 2016; 80: 94–99.
+95 Raznahan A, Wallace GL, Antezana L, et al. C
+ompared to what? 
+Early brain overgrowth in autism and the perils of population norms. Biol Psychiatry 2013; 74: 563–75.
+96
+ Salomone E, Beranová Š, Bonnet-Brilhault F, et al. Use of early intervention for young children with autism spectrum disorder across Europe. A
+utism 2016; 20: 233–49.
+97 Sealy J, Glovinsky IP. Strengthening the reflective functioning capacities of parents who have a child with a neurodevelopmental disability through a brief, relationship-focused intervention. Infant Ment H
+ealth J 2016; 37: 115–24.
+98 Oono IP, Honey EJ, McConachie H. P
+arent-mediated early 
+intervention for young children with autism spectrum disorders (ASD). Cochrane Database Syst Rev 2013; CD009774.
+99
+ Rogers S. Early Start Denver Model. In: R
+omanczyk RG, 
+McEachin J (eds). Comprehensive models of autism spectrum disorder treatment. Cham: Springer International Publishing, 2016: 45–62. 
+100
+ Schreibman L, Dawson G, Stahmer AC, et al. Naturalistic developmental behavioral interventions: empirically validated
+ 
+treatments for autism spectrum disorder. J Autism Dev Disord 2015; 45: 2411–28.Seminarwww.thelancet.com   Published online August 2, 2018   http://dx.doi.org/10.1016/S0140-6736(18)31129-2  13101 Green J, Charman T, McC
+onachie H, et al, and the PACT 
+Consortium. Parent-mediated communication-focused treatment in 
+children with autism (PACT): a randomised controlled trial. Lancet 2010; 375: 2152–60. 
+102
+ Prizant BM, Wetherby AM, Rubin E, Laurent AC, Rydell PJ.
+ 
+The SCERTS model: a comprehensive educational approach for children with autism spectrum disorders, 1st edn. Baltimore: Brookes Publishing, 2005.
+103
+ Pickles A, Le Couteur A, Leadbitter K, et al. P
+arent-mediated social 
+communication therapy for young children with autism (PACT): long-term follow-up of a randomised controlled trial. Lancet 2016; 388: 2501–09.
+104
+ Carter AS, Messinger DS, Stone WL, C
+elimli S, Nahmias AS, 
+Yoder P. A randomized controlled trial of Hanen’s ‘More Than Words’ in toddlers with early autism symptoms. J Child Psychol Psychiatry 2011; 52: 741–52.
+105
+ Reichow B, Barton EE, Boyd BA, Hume K. Early intensive behavioral intervention (EIBI) for young children with autism spectrum disorders (ASD). 
+Cochrane Database Syst Rev 2012; 
+10: CD009260.
+106 Mesibov GB, Shea V, Schopler E. The TEACCH approach to autism
+ 
+spectrum disorders. New York: Springer Science & Business Media, 2005.
+107
+ Hampton LH, Kaiser AP. Intervention effects on spoken-language outcomes for children with autism: a systematic review and meta-analysis. J Intellect Disabil Res
+ 2016; 60: 444–63.
+108 Weitlauf AS, Sathe NA, McPheeters ML, W
+arren Z. 
+Interventions targeting sensory challenges in children with autism spectrum disorder—an update. Comparative Effectiveness Review No. 186. Rockville, MD: Agency for Healthcare Research and Quality, 2017 .
+109
+ Silva LM, Schalock M, Gabrielsen KR, B
+udden SS, Buenrostro M, 
+Horton G. Early intervention with a parent-delivered massage protocol directed at tactile abnormalities decreases severity of autism and improves child-to-parent interactions: A replication study. Autism Res Treat 2015; 2015: 904585.
+110
+ Gates JA, Kang E, Lerner MD. Efficacy of group social skills interventions for youth with autism spectrum disorder: A systematic review and meta-analysis. 
+Clin Psychol Rev 2017; 
+52 (suppl C): 164–81.
+111 Kenworthy L, Anthony LG, Naiman DQ, et al. R
+andomized controlled effectiveness trial of executive function 
+intervention for children on the autism spectrum. J Child Psychol Psychiatry 2014; 55: 374–83.
+112
+ Hutchins TL, Prelock PA. The social validity of Social Stories™ for
+ 
+supporting the behavioural and communicative functioning of children with autism spectrum disorder. Int J Speech-Language Pathol  
+2013; 15: 383–95.
+113
+ Wood JJ, Drahota A, Sze K, Har K, Chiu A, Langer DA. C
+ognitive behavioral therapy for anxiety in children with autism 
+spectrum disorders: a randomized, controlled trial. J Child Psychol Psychiatry 2009; 50: 224–34.
+114
+ McConachie H, McLaughlin E, Grahame V
+, et al. Group therapy for 
+anxiety in children with autism spectrum disorder. Autism 2014; 18: 723–32.
+115
+ Reaven J, Blakeley-Smith A, Culhane-Shelburne K, H
+epburn S. 
+Group cognitive behavior therapy for children with high-functioning autism spectrum disorders and anxiety: a randomized trial. J Child Psychol Psychiatry 2012; 53: 410–19.
+116
+ Santomauro D, Sheffield J, Sofronoff K. Depression in adolescents with ASD: A pilot RCT of a group intervention. J A
+utism Dev Disord 2016; 46: 572–88.
+117 Mazurek MO, Lu F, Symecko H, et al. A prospective study of the concordance of DSM-IV and DSM-5 diagnostic criteria for autism spectrum disorder
+. J Autism Dev Disord 2017; 47: 2783–94.
+118 Bearss K, Johnson C, Smith T, et al. Effect of parent training vs parent education on behavioral problems in children with autism spectrum disorder
+: a randomized clinical trial. JAMA 2015; 
+313: 1524–33.119 Green J, Absoud M, G
+rahame V, et al. Pathological demand 
+avoidance: symptoms but not a syndrome. Lancet Child Adolesc Health 2018; 2: 455–64.
+120
+ O’Nions E, Viding E, G
+reven CU, Ronald A, Happé F. 
+Pathological demand avoidance: exploring the behavioural profile. Autism 2014; 18: 538–44.
+121
+ Cimera RE, Wehman P, West M, B
+urgess S. Do sheltered 
+workshops enhance employment outcomes for adults with autism spectrum disorder? Autism 2012; 16: 87–94.
+122
+ Jamison JM, Fourie E, S
+iper PM, et al. Examining the efficacy of a 
+family peer advocate model for black and hispanic caregivers of children with autism spectrum disorder. J Autism Dev Disord 2017; 47: 1314–22.
+123
+ Kent JM, Kushner S, N
+ing X, et al. Risperidone dosing in children 
+and adolescents with autistic disorder: a double-blind, placebo-controlled study. J Autism Dev Disord 2013; 43: 1773–83.
+124
+ Owen R, Sikich L, Marcus RN, et al. Aripiprazole in the treatment of irritability in children and adolescents with autistic disorder
+. 
+Pediatrics 2009; 124: 1533–40.
+125 Fung LK, Mahajan R, N
+ozzolillo A, et al. Pharmacologic treatment 
+of severe irritability and problem behaviors in autism: a systematic review and meta-analysis. Pediatrics 2016; 137 (suppl 2): S124–35.
+126
+ Politte LC, McDougle CJ. Atypical antipsychotics in the treatment of children and adolescents with pervasive developmental disorders. Psychopharmacology (Berl)
+ 2014; 231: 1023–36.
+127 Anagnostou E, Aman MG, Handen BL, et al. Metformin for treatment of overweight induced by atypical antipsychotic medication in young people with autism spectrum disorder
+: 
+A randomized clinical trial. JAMA Psychiatry 2016; 73: 928–37 .
+128 Sturman N, Deckx L, van Driel ML. Methylphenidate for children and adolescents with autism spectrum disorder. Cochrane Database Syst Rev
+ 2017; 11: CD011144.
+129 Handen BL, Aman MG, Arnold LE, et al. Atomoxetine, parent training, and their combination in children with autism spectrum disorder and attention-deficit/hyperactivity disorder
+. 
+J Am Acad Child Adolesc Psychiatry 2015; 54: 905–15.
+130 Scahill L, McCracken JT, King BH, et al, and the R
+esearch Units on 
+Pediatric Psychopharmacology Autism Network. Extended-release guanfacine for hyperactivity in children with autism spectrum disorder. Am J Psychiatry 2015; 172: 1197–206.
+131
+ Lee BH, Smith T, Paciorkowski AR. A
+utism spectrum disorder and 
+epilepsy: Disorders with a shared biology. Epilepsy Behav 2015; 47: 191–201.
+132
+ Levy SE, Hyman SL. Complementary and alternative medicine treatments for children with autism spectrum disorders. Child Adolesc Psychiatr Clin N Am
+ 2015; 24: 117–43.
+133 Singh K, Connors SL, M
+acklin EA, et al. Sulforaphane treatment of 
+autism spectrum disorder (ASD). Proc Natl Acad Sci USA 2014; 111: 15550–55.
+134
+ Frye RE, Sequeira JM, Quadros EV
+, James SJ, Rossignol DA. 
+Cerebral folate receptor autoantibodies in autism spectrum disorder. Mol Psychiatry 2013; 18: 369–81.
+135
+ Singer A, Ravi R. C
+omplementary and alternative treatments for 
+autism part 2: identifying and avoiding non-evidence-based treatments. AMA J Ethics 2015; 17: 375–80.
+136
+ Mandell DS, Xie M, Morales KH, Lawer L, McC
+arthy M, Marcus SC. 
+The interplay of outpatient services and psychiatric hospitalization among Medicaid-enrolled children with autism spectrum disorders. Arch Pediatr Adolesc Med 2012; 166: 68–73.
+137
+ Rahman A, Divan G, Hamdani SU, et al. Effectiveness of the parent-mediated intervention for children with autism spectrum disorder in south Asia in India and P
+akistan (PASS): a randomised 
+controlled trial. Lancet Psychiatry 2016; 3: 128–36.
+138 Pellicano E, Dinsmore A, Charman T. What should autism research focus upon? C
+ommunity views and priorities from the 
+United Kingdom. Autism 2014; 18: 756–70.
+© 2018 Elsevier Ltd. All rights reserved.

@@ -1,0 +1,1349 @@
+CLINICAL REPORT
+Management of Children With
+Autism Spectrum Disorders
+Scott M. Myers, MD, Chris Plauche ´ Johnson, MD, MEd, the Council on Children With Disabilities
+ABSTRACT
+Pediatricians have an important role not only in early recognition and evaluation
+of autism spectrum disorders but also in chronic management of these disorders.The primary goals of treatment are to maximize the child’s ultimate functionalindependence and quality of life by minimizing the core autism spectrum disorderfeatures, facilitating development and learning, promoting socialization, reducingmaladaptive behaviors, and educating and supporting families. To assist pediatri-cians in educating families and guiding them toward empirically supported inter-ventions for their children, this report reviews the educational strategies andassociated therapies that are the primary treatments for children with autismspectrum disorders. Optimization of health care is likely to have a positive effect onhabilitative progress, functional outcome, and quality of life; therefore, importantissues, such as management of associated medical problems, pharmacologic andnonpharmacologic intervention for challenging behaviors or coexisting mentalhealth conditions, and use of complementary and alternative medical treatments,are also addressed.
+INTRODUCTION
+The term autism spectrum disorders (ASDs) has been used to include the Diagnostic
+and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR)
+1
+diagnostic categories autistic disorder, Asperger disorder, and pervasive develop-mental disorder–not otherwise speciﬁed.
+2Recent estimates of the prevalence of
+ASDs are in the range of 6.5 to 6.6 per 1000, and pediatricians, therefore, are likelyto care for children and adolescents with these diagnoses.
+3–5In the companion
+document to this clinical report,2the American Academy of Pediatrics has sum-
+marized pertinent background information on ASDs and emphasized the impor-tance of surveillance and screening as well as other potential physician roles in thediagnostic process. However, the role of the primary health care professionalextends beyond recognizing signs of ASDs, referring for diagnostic evaluation,conducting an etiologic investigation, providing genetic counseling, and educatingcaregivers about ASDs and includes ongoing care and management.
+ASDs, similar to other neurodevelopmental disabilities, are generally not “cur-
+able,” and chronic management is required. Although outcomes are variable andspeciﬁc behavioral characteristics change over time, most children with ASDsremain within the spectrum as adults and, regardless of their intellectual func-tioning, continue to experience problems with independent living, employment,social relationships, and mental health.
+6–8The primary goals of treatment are to
+minimize the core features and associated deﬁcits, maximize functional indepen-www.pediatrics.org/cgi/doi/10.1542/
+peds.2007-2362
+doi:10.1542/peds.2007-2362
+All clinical reports from the American
+Academy of Pediatrics automatically expire5 years after publication unless reafﬁrmed,revised, or retired at or before that time.
+The guidance in this report does not
+indicate an exclusive course of treatmentor serve as a standard of medical care.Variations, taking into account individualcircumstances, may be appropriate.
+Key Words
+autism, autism spectrum disorders,Asperger syndrome, pervasivedevelopmental disorders, complementaryand alternative medicine, earlyintervention
+Abbreviations
+ASD—autism spectrum disorderTEACCH—Treatment and Education ofAutistic and Related CommunicationHandicapped ChildrenABA—applied behavior analysisDTT— discrete trial trainingDIR— developmental, individual-difference, relationship-basedRDI—relationship-developmentinterventionRT—responsive teachingSI—sensory integrationEEG— electroencephalographySSRI—selective serotonin-reuptakeinhibitorCAM— complementary and alternativemedicine
+PEDIATRICS (ISSN Numbers: Print, 0031-4005;
+Online, 1098-4275). Copyright © 2007 by theAmerican Academy of Pediatrics
+1162 AMERICAN ACADEMY OF PEDIATRICSGuidance for the Clinician in Rendering
+Pediatric Care
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023dence and quality of life, and alleviate family distress.
+Facilitating development and learning, promoting social-ization, reducing maladaptive behaviors, and educatingand supporting families can help accomplish these goals.Ideally, interventions should help mitigate the core fea-tures of ASDs, which include impairment in social reci-procity, deﬁcits in communication, and restricted, repet-itive behavioral repertoire.
+Educational interventions, including behavioral strat-
+egies and habilitative therapies, are the cornerstones ofmanagement of ASDs. These interventions address com-munication, social skills, daily-living skills, play and lei-sure skills, academic achievement, and maladaptive be-haviors.
+Optimization of medical care is also likely to have a
+positive impact on habilitative progress and quality oflife. In addition to routine preventive care and treatmentof acute illnesses, management of sleep dysfunction,coexisting challenging behaviors or psychiatric condi-tions, and associated medical problems, such as seizures,may be particularly important. Medications have notbeen proven to correct the core deﬁcits of ASDs and arenot the primary treatment. However, associated mal-adaptive behaviors or psychiatric comorbidities may in-terfere with educational progress, socialization, health orsafety, and quality of life. These behaviors may be ame-nable to psychopharmacologic intervention or, in somecases, treatment of underlying medical conditions thatare causing or exacerbating the behaviors. Effectivemedical management may allow a child with an ASD tobeneﬁt more optimally from educational interventions.
+EDUCATIONAL INTERVENTIONS
+Education has been deﬁned as the fostering of acquisi-tion of skills and knowledge to assist a child to developindependence and personal responsibility; it encom-passes not only academic learning but also socialization,adaptive skills, communication, amelioration of interfer-ing behaviors, and generalization of abilities across mul-tiple environments.
+9Physicians and other clinicians are
+often in a position to guide families to empirically sup-ported practices and help them evaluate the appropri-ateness of the educational services that are being offered.
+Comprehensive Programs for Young Children
+In the last 2 decades, research and program developmentin the area of educational intervention have focusedlargely on very young children with ASDs because ofearlier identiﬁcation and evidence that early intensiveintervention may result in substantially better out-comes.
+9,10Model early childhood educational programs
+for children with ASDs have been described in thoroughreviews.
+9,11,12 These model programs are often catego-
+rized as behavior analytic, developmental, or structuredteaching on the basis of the primary philosophical ori-entation. Although the approaches have important dif-ferences, they also overlap. For example, contemporary
+comprehensive behavioral curricula borrow from devel-opmental or cognitive approaches (such as addressingjoint attention, reciprocal imitation, symbolic play, andtheory of mind and using indirect language stimulationand contingent imitation techniques), and some devel-opmental models (eg, the Denver model) and the struc-tured teaching approach of the Treatment and Educationof Autistic and Related Communication HandicappedChildren (TEACCH) program use behavioral techniquesto fulﬁll their curriculum goals.
+10,13
+Although programs may differ in philosophy and rel-
+ative emphasis on particular strategies, they share manycommon goals, and there is a growing consensus thatimportant principles and components of effective earlychildhood intervention for children with ASDs includethe following
+9,10,14–16 :
+●entry into intervention as soon as an ASD diagnosis is
+seriously considered rather than deferring until a de-ﬁnitive diagnosis is made;
+●provision of intensive intervention, with active en-
+gagement of the child at least 25 hours per week, 12months per year, in systematically planned, develop-mentally appropriate educational activities designed toaddress identiﬁed objectives;
+●low student-to-teacher ratio to allow sufﬁcient
+amounts of 1-on-1 time and small-group instructionto meet speciﬁc individualized goals;
+●inclusion of a family component (including parent
+training as indicated);
+●promotion of opportunities for interaction with typi-
+cally developing peers to the extent that these oppor-tunities are helpful in addressing speciﬁed educationalgoals;
+●ongoing measurement and documentation of the in-
+dividual child’s progress toward educational objec-tives, resulting in adjustments in programming whenindicated;
+●incorporation of a high degree of structure through
+elements such as predictable routine, visual activityschedules, and clear physical boundaries to minimizedistractions;
+●implementation of strategies to apply learned skills to
+new environments and situations (generalization) andto maintain functional use of these skills; and
+●use of assessment-based curricula that address:
+●functional, spontaneous communication;
+●social skills, including joint attention, imitation, re-
+ciprocal interaction, initiation, and self-manage-ment;
+PEDIATRICS Volume 120, Number 5, November 2007 1163
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023●functional adaptive skills that prepare the child for
+increased responsibility and independence;
+●reduction of disruptive or maladaptive behavior by
+using empirically supported strategies, includingfunctional assessment;
+●cognitive skills, such as symbolic play and perspec-
+tive taking; and
+●traditional readiness skills and academic skills as de-
+velopmentally indicated.
+Speciﬁc Strategies
+A variety of speciﬁc methodologies are used in educa-tional programs for children with ASDs. Detailed re-views of intervention strategies to enhance communica-tion,
+9,17–20 teach social skills,21–24and reduce interfering
+maladaptive behaviors21,25,26 have been published in re-
+cent years. Brief descriptions of selected methodologiesare provided below.
+Applied Behavior Analysis
+Applied behavior analysis (ABA) is the process of apply-ing interventions that are based on the principles oflearning derived from experimental psychology researchto systematically change behavior and to demonstratethat the interventions used are responsible for the ob-servable improvement in behavior. ABA methods areused to increase and maintain desirable adaptive behav-iors, reduce interfering maladaptive behaviors or narrowthe conditions under which they occur, teach new skills,and generalize behaviors to new environments or situ-ations. ABA focuses on the reliable measurement andobjective evaluation of observable behavior within rele-vant settings including the home, school, and commu-nity. The effectiveness of ABA-based intervention inASDs has been well documented through 5 decades ofresearch by using single-subject methodology
+21,25,27,28 and
+in controlled studies of comprehensive early intensivebehavioral intervention programs in university andcommunity settings.
+29–40Children who receive early in-
+tensive behavioral treatment have been shown to makesubstantial, sustained gains in IQ, language, academicperformance, and adaptive behavior as well as somemeasures of social behavior, and their outcomes havebeen signiﬁcantly better than those of children in controlgroups.
+31–40
+Highly structured comprehensive early intervention
+programs for children with ASDs, such as the YoungAutism Project developed by Lovaas
+35,41at the University
+of California Los Angeles, rely heavily on discrete trialtraining (DTT) methodology, but this is only one ofmany techniques used within the realm of ABA. DTTmethods are useful in establishing learning readiness byteaching foundation skills such as attention, compliance,imitation, and discrimination learning, as well as a vari-ety of other skills. However, DTT has been criticizedbecause of problems with generalization of learned be-
+haviors to spontaneous use in natural environments andbecause the highly structured teaching environment isnot representative of natural adult-child interactions.Traditional ABA techniques have been modiﬁed to ad-dress these issues. Naturalistic behavioral interventions,such as incidental teaching and natural language para-digm/pivotal response training, may enhance generali-zation of skills.
+13
+Functional behavior analysis, or functional assess-
+ment, is an important aspect of behaviorally based treat-ment of unwanted behaviors. Most problem behaviorsserve an adaptive function of some type and are rein-forced by their consequences, such as attainment of (1)adult attention, (2) a desired object, activity, or sensa-tion, or (3) escape from an undesired situation or de-mand. Functional assessment is a rigorous, empiricallybased method of gathering information that can be usedto maximize the effectiveness and efﬁciency of behav-ioral support interventions.
+42It includes formulating a
+clear description of the problem behavior (including fre-quency and intensity); identifying the antecedents, con-sequences, and other environmental factors that main-tain the behavior; developing hypotheses that specifythe motivating function of the behavior; and collectingdirect observational data to test the hypothesis. Func-tional analysis also is useful in identifying antecedentsand consequences that are associated with increasedfrequency of desirable behaviors so that they can be usedto evoke new adaptive behaviors.
+Structured Teaching
+The TEACCH method, developed by Schopler and col-leagues,
+43emphasizes structure and has come to be
+called “structured teaching.” Important elements ofstructured teaching include organization of the physicalenvironment, predictable sequence of activities, visualschedules, routines with ﬂexibility, structured work/ac-tivity systems, and visually structured activities.
+43There
+is an emphasis on both improving skills of individualswith ASDs and modifying the environment to accom-modate their deﬁcits. Several reports have documentedprogress in children who have received TEACCH ser-vices as well as parent satisfaction and improvement inparent teaching skills, but these reports were not fromcontrolled studies of treatment outcomes.
+44–49In a con-
+trolled trial, Ozonoff and Cathcart50found that children
+treated with a TEACCH-based home program for 4months in addition to their local day treatment programsimproved signiﬁcantly more than children in the controlgroup who received local day treatment services only.
+Developmental Models
+Developmental models are based on use of developmen-tal theory to organize hypotheses regarding the funda-mental nature of ASDs and design approaches to address
+1164 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023the deﬁcits. The Denver model, for example, is based
+largely on remediating key deﬁcits in imitation, emotionsharing, theory of mind, and social perception by usingplay, interpersonal relationships, and activities to fostersymbolic thought and teach the power of communica-tion.
+12This program has shifted from a center-based
+treatment unit to service delivery in homes and inclusiveschool environments. Several studies have demon-strated improvements in cognitive, motor, play, and so-cial skills beyond what would be expected on the basis ofinitial developmental rates in children who are treatedaccording to the Denver model, but controlled trials arelacking.
+51–54
+Relationship-focused early intervention models in-
+clude Greenspan and Wieder’s developmental, indi-vidual-difference, relationship-based (DIR) model,
+55
+Gutstein and Sheely’s relationship-development inter-vention (RDI),
+56and the responsive-teaching (RT) cur-
+riculum developed by Mahoney et al.57,58The DIR ap-
+proach focuses on (1) “ﬂoor-time” play sessions andother strategies that are purported to enhance relation-ships and emotional and social interactions to facilitateemotional and cognitive growth and development and(2) therapies to remediate “biologically based processingcapacities,” such as auditory processing and language,motor planning and sequencing, sensory modulation,and visual-spatial processing. Published evidence of theefﬁcacy of the DIR model is limited to an unblindedreview of case records (with signiﬁcant methodologicﬂaws, including inadequate documentation of the inter-vention, comparison to a suboptimal control group, and
+lack of documentation of treatment integrity and howoutcomes were assessed by informal procedures
+55) and a
+descriptive follow-up study of a small subset (8%) of theoriginal group of patients.
+59RDI focuses on activities that
+elicit interactive behaviors with the goal of engaging thechild in a social relationship so that he or she discoversthe value of positive interpersonal activity and becomesmore motivated to learn the skills necessary to sustainthese relationships.
+56Some reviewers have praised the
+face validity of this model, which targets the core im-pairment in social reciprocity. However, the evidence ofefﬁcacy of RDI is anecdotal; published empirical scien-tiﬁc research is lacking at this time. One study reportedbeneﬁcial effects of RT on young children with ASDs orother developmental disabilities.
+58Parents were taught
+to use RT strategies to encourage their children to ac-quire and use pivotal developmental behaviors (atten-tion, persistence, interest, initiation, cooperation, jointattention, and affect). Children in both groups improvedsigniﬁcantly on nonstandardized play-based measures ofcognition and communication and standardized parentratings of socioemotional functioning. Although a con-trol group was lacking and the potential role of concur-rent educational services was unclear, the improvementswere beyond what the authors expected from matura-
+tional factors alone.
+58
+Speech and Language TherapyA variety of approaches have been reported to be effec-tive in producing gains in communication skills in chil-dren with ASDs.
+9,17,20 Didactic and naturalistic behavioral
+methodologies (eg, DTT, verbal behavior, natural lan-guage paradigm, pivotal response training, milieu teach-ing) have been studied most thoroughly, but there is alsosome empirical support for developmental-pragmaticapproaches (eg, Social Communication Emotional Reg-ulation Transactional Support, Denver model, RDI,Hanen model).
+People with ASDs have deﬁcits in social communica-
+tion, and treatment by a speech-language pathologistusually is appropriate. Most children with ASDs candevelop useful speech, and chronologic age, lack of typ-ical prerequisite skills, failure to beneﬁt from previouslanguage intervention, and lack of discrepancy betweenlanguage and IQ scores should not exclude a child fromreceiving speech-language services.
+60However, tradi-
+tional, low-intensity pull-out service delivery modelsoften are ineffective, and speech-language pathologistsare likely to be most effective when they train and workin close collaboration with teachers, support personnel,families, and the child’s peers to promote functionalcommunication in natural settings throughout the day.
+60
+The use of augmentative and alternative communi-
+cation modalities, including gestures, sign language, andpicture communication programs, often is effective inenhancing communication.
+17,20,61 The Picture Exchange
+Communication System (PECS)62,63is used widely. The
+PECS method incorporates ABA and developmental-pragmatic principles, and the child is taught to initiate apicture request and persist with the communication un-til the partner responds. Some nonverbal people withASDs may beneﬁt from the use of voice-output commu-nication aids, but published evidence for these aids isscant.
+20,64Introduction of augmentative and alternative
+communication systems to nonverbal children withASDs does not keep them from learning to talk, andthere is some evidence that they may be more stimu-lated to learn speech if they already understand some-thing about symbolic communication.
+61,62,65
+Social Skills InstructionThere is some objective evidence to support traditionaland newer naturalistic behavioral strategies and otherapproaches to teaching social skills.
+22–24,66–68 Joint atten-
+tion training may be especially beneﬁcial in young,preverbal children with ASDs, because joint attentionbehaviors precede and predict social language develop-ment.
+69,70A recent randomized, controlled trial demon-
+strated that joint attention and symbolic play skills canbe taught and that these skills generalize to different
+PEDIATRICS Volume 120, Number 5, November 2007 1165
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023settings and people.71Families can facilitate joint atten-
+tion and other reciprocal social interaction experiencesthroughout the day in the child’s regular activities. Ex-amples of these techniques are described in the Ameri-can Academy of Pediatrics parent booklet “ Understanding
+Autism Spectrum Disorders .”
+72
+A social skills curriculum should target responding to
+the social overtures of other children and adults, initiat-ing social behavior, minimizing stereotyped persevera-tive behavior while using a ﬂexible and varied repertoireof responses, and self-managing new and establishedskills.
+10Social skills groups, social stories, visual cueing,
+social games, video modeling, scripts, peer-mediatedtechniques, and play and leisure curricula are supportedprimarily by descriptive and anecdotal literature, but thequantity and quality of research is increasing.
+10,15,73 A
+number of social skills curricula and guidelines are avail-able for use in school programs and at home.
+10,66,74,75
+Occupational Therapy and Sensory Integration TherapyTraditional occupational therapy often is provided topromote development of self-care skills (eg, dressing,manipulating fasteners, using utensils, personal hy-giene) and academic skills (eg, cutting with scissors,writing). Occupational therapists also may assist in pro-moting development of play skills, modifying classroommaterials and routines to improve attention and organi-zation, and providing prevocational training. However,research regarding the efﬁcacy of occupational therapyin ASDs is lacking. Sensory integration (SI) therapy of-ten is used alone or as part of a broader program ofoccupational therapy for children with ASDs. The goal ofSI therapy is not to teach speciﬁc skills or behaviors butto remediate deﬁcits in neurologic processing and inte-gration of sensory information to allow the child tointeract with the environment in a more adaptive fash-ion. Unusual sensory responses are common in childrenwith ASDs, but there is not good evidence that thesesymptoms differentiate ASDs from other developmentaldisorders, and the efﬁcacy of SI therapy has not beendemonstrated objectively.
+76–78 Available studies are
+plagued by methodologic limitations, but proponents ofSI note that higher-quality SI research is forthcoming.
+79
+“Sensory” activities may be helpful as part of an overallprogram that uses desired sensory experiences to calmthe child, reinforce a desired behavior, or help withtransitions between activities.
+Comparative Efﬁcacy of Educational Interventions for Young
+ChildrenAll treatments, including educational interventions,should be based on sound theoretical constructs, rigor-ous methodologies, and empirical studies of efﬁcacy.
+15
+Proponents of behavior analytic approaches have beenthe most active in using scientiﬁc methods to evaluatetheir work, and most studies of comprehensive treat-ment programs that meet minimal scientiﬁc standards
+involve treatment of preschoolers using behavioral ap-proaches.
+16,38However, there is still a need for additional
+research, including large controlled studies with ran-domization and assessment of treatment ﬁdelity. Empir-ical scientiﬁc support for developmental models andother interventions is more limited, and well-controlledsystematic studies of efﬁcacy are needed.
+Most educational programs available to young chil-
+dren with ASDs are based in their communities, andoften, an “eclectic” treatment approach is used, whichdraws on a combination of methods including appliedbehavior analytic methods such as DTT; structuredteaching procedures; speech-language therapy, with orwithout picture communication or related augmentativeor alternative communication strategies; SI therapy; andtypical preschool activities. Three studies that comparedintensive ABA programs (25–40 hours/week) to equallyintensive eclectic approaches have suggested that ABAprograms were signiﬁcantly more effective.
+31,32,34 An-
+other study that involved children with ASDs and globaldevelopmental delay/mental retardation retrospectivelycompared a less intensive ABA program (mean: 12hours) to a comparably intensive eclectic approach andfound statistically signiﬁcant but clinically modest out-comes that favored those in the ABA group.
+33Although
+the groups of children were similar on key dependentmeasures before treatment began, these studies werelimited because of parent-determined rather than ran-dom assignment to treatment group. Additional studiesto evaluate and compare educational treatment ap-proaches are warranted.
+Programs for Older Children and Adolescents
+Some model programs provide programming through-out childhood and into adulthood.
+11More commonly,
+the focus of specialized programs is on early childhood,and published research evaluating comprehensive edu-cational programs for older children and adolescentswith ASDs is lacking. However, there is empirical sup-port for the use of certain educational strategies, partic-ularly those that are based on ABA, across all age groupsto increase and maintain desirable adaptive behaviors,reduce interfering maladaptive behaviors or narrow theconditions under which they occur, teach new skills, andgeneralize behaviors to new environments or situa-tions.
+13,21,28
+When children with ASDs move beyond preschool
+and early elementary programs, educational interven-tion continues to involve assessment of existing skills,formulation of individualized goals and objectives, selec-tion and implementation of appropriate interventionstrategies and supports, assessment of progress, and ad-aptation of teaching strategies as necessary to enablestudents to acquire target skills. The focus on achievingsocial communication competence, emotional and be-
+1166 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023havioral regulation, and functional adaptive skills nec-
+essary for independence continues. Educational pro-grams should be individualized to address the speciﬁcimpairments and needed supports while capitalizing onthe child’s assets rather than being based on a particulardiagnostic label.
+Speciﬁc goals and objectives and the supports that are
+required to achieve them are listed in a child’s individ-ualized education plan and should be the driving forcebehind decisions regarding the most appropriate, leastrestrictive classroom placement. Appropriate settingsmay range from self-contained special education class-rooms to full inclusion in regular classrooms. Often, amix of specialized and inclusive experience is appropri-ate. Even highly functioning students with ASDs oftenrequire accommodations and other supports such as pro-vision of explicit directions, modiﬁcation of classroomand homework assignments, organizational supports,access to a computer and word-processing software forwriting tasks, and social communication skills training.When a paraprofessional aide is assigned, it is importantthat there be an infrastructure of expertise and supportfor the child beyond the immediate presence of theaide.
+80The speciﬁc duties of the aide should be outlined,
+the strategies to be used should be deﬁned, and the aideshould receive adequate training.
+In adolescence, the term “transition” is used to de-
+scribe the movement from child-centered activities toadult-oriented activities. The major transitions are fromthe school environment to the workplace and fromhome to community living. In schools, transition-plan-ning activities may begin at as early as 14 years of age,and by 16 years of age, the individualized education planshould include an individualized transition plan. Theemphasis may shift from academic to vocational servicesand from remediating deﬁcits to fostering abilities. Avocational assessment is often conducted to evaluate theadolescent’s interests and strengths and to determine theservices and supports needed to promote independencein the workplace and in the community. Comprehensivetransition planning involves the student, parents, teach-ers, the medical home, and representatives from all con-cerned community agencies. Depending on the individ-ual’s cognitive level, social skills, health condition, workhabits, and behavioral challenges, preparation for com-petitive, supported, or sheltered employment is targeted.Regardless of the type of employment, attention to skilldevelopment should never stop. Skills necessary for in-dependent living should be taught to the degree possiblegiven the abilities of the person. Sexuality educationinstruction should be included, and there is a growingbody of literature that has addressed the topic.
+81–83
+MEDICAL MANAGEMENTChildren with ASDs have the same basic health careneeds as children without disabilities and beneﬁt fromthe same health-promotion and disease-prevention ac-
+tivities, including immunizations. In addition, they mayhave unique health care needs that relate to underlyingetiologic conditions, such as fragile X syndrome or tu-berous sclerosis, or to other conditions, such as epilepsy,that often are associated with ASDs. Those with pica orpersistent mouthing of ﬁngers or objects should be mon-itored for elevated blood lead concentrations, particu-larly if the history suggests potential for environmentalexposure.
+84These health care needs are most appropri-
+ately met within the context of a medical home.85,86
+To deliver appropriate and effective medical care, the
+history, approach to the patient, physical evaluation,and treatment options must be considered in the contextof the patient’s ASD.
+87,88Familiarizing the patient with
+the ofﬁce setting and staff, allowing ample time whiletalking before touching the patient, allowing the child tomanipulate instruments and materials, keeping instruc-tions simple, using visual cues and supports, slowingdown the pace, exaggerating social cues, and havingfamily and/or familiar staff available may be helpful inreducing the obstacles to health care provision presentedby patients’ difﬁculties with social interaction, commu-nication, and accepting novelty.
+88Often, more time is
+required for outpatient appointments. In a nationallyrepresentative sample, it was found that children withASDs spent twice as much time with the physician peroutpatient visit compared with children in controlgroups.
+89
+Associated Morbidity and MortalityHealth care utilization and costs are substantially higherfor children and adolescents with ASDs compared withchildren without ASDs,
+89–91and available data suggest
+that mortality is increased as well (standardized mortal-ity ratio: 2.4–2.6).
+92,93The increased mortality in ASDs is
+thought to be largely, but not completely, accounted forby the increased mortality associated with mental retar-dation and epilepsy. Cases of suicide in higher-function-ing individuals have been reported.
+6
+SeizuresThe reported prevalence of epilepsy among people withASDs ranges from 11% to 39%.
+94Comorbid severe
+global developmental delay/mental retardation and mo-tor deﬁcits are associated with a high prevalence ofseizures (42%),
+95whereas the prevalence of seizures is
+only 6% to 8% in children with ASDs without severemental retardation, a motor deﬁcit, an associated etio-logic medical disorder, or a positive family history ofepilepsy.
+95,96The prevalence of epilepsy also was higher
+in studies that included adolescents and young adults,because the onset of epilepsy in ASDs has 2 peaks: 1before 5 years of age and another in adolescence.
+97An-
+ticonvulsant treatment in children with ASDs is based onthe same criteria that are used for other children with
+PEDIATRICS Volume 120, Number 5, November 2007 1167
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023epilepsy, including accurate diagnosis of the particular
+seizure type.98
+Epileptiform abnormalities on electroencephalogra-
+phy (EEG) are common in children with ASDs, withreported frequencies ranging from 10% to 72%.
+99Some
+studies have suggested that epileptiform abnormalitieson EEG
+100and/or epilepsy101are more common in the
+subgroup of children with ASDs who have a history ofregression, whereas other studies have not demon-strated this association.
+102,103 Autistic regression with ep-
+ileptiform abnormalities on EEG has been compared byanalogy with Landau-Kleffner syndrome and electricalstatus epilepticus in sleep, but there are important dif-ferences between these conditions, and the treatmentimplications are unclear.
+94,104 Whether subclinical sei-
+zures have adverse effects on language, cognition, andbehavior is debated, and there is no evidence-based rec-ommendation for the treatment of children with ASDsand epileptiform abnormalities on EEG, with or withoutregression.
+104Universal screening of patients with ASDs
+by EEG in the absence of a clinical indication is notcurrently supported.
+2,99However, because of the in-
+creased prevalence of seizures in this population, a highindex of clinical suspicion should be maintained, andEEG should be considered when there are clinical spellsthat might represent seizures.
+Gastrointestinal Problems
+The relationship between gastrointestinal problems andASDs is unclear, because most studies have not exam-ined representative groups of children with ASDs com-pared with appropriate controls.
+105,106 Surveys published
+in the gastroenterology literature have stated that gas-trointestinal problems, such as chronic constipation ordiarrhea, occur in 46% to 85% of children with ASDs.
+107–109
+Lower rates in the range of 17% to 24% have beenreported in other population-based studies,
+110–112 and a
+nested case-control study in the United Kingdom foundthat only 9% of children with ASDs and the same per-centage of controls had a history of gastrointestinal com-plaints.
+113However, in a recent cross-sectional study that
+used structured interviews and matched control groups,a lifetime history of gastrointestinal symptoms (includ-ing abnormal stool pattern, frequent constipation, fre-quent vomiting, and frequent abdominal pain) was elic-ited in 70% of the children with ASDs, compared with42% of the children with other developmental disabili-ties ( P/H11005.03) and 28% of the children without devel-
+opmental disabilities ( P/H11021.001).
+114
+In children with ASDs undergoing endoscopy, who
+may or may not be representative of the general popu-lation of children with ASDs, high rates of lymphoidnodular hyperplasia and, often, histologically subtleesophagitis, gastritis, duodenitis, and colitis have beendescribed, and preliminary evidence suggests that someimmunohistochemical features may be unique to in-ﬂammation associated with ASDs.
+105,115,116 The existing
+literature does not support routine specialized gastroen-terological testing for asymptomatic children withASDs.
+105However, if a child with an ASD presents with
+symptoms such as chronic or recurrent abdominal pain,vomiting, diarrhea, or constipation, it is reasonable toevaluate the gastrointestinal tract. Occult gastrointesti-nal discomfort also should be considered in a child whopresents with a change in behavior, such as outbursts ofaggression or self-injury. Radiographic evidence of con-stipation has been found to be more common in childrenwith ASDs than in controls with abdominal pain (36%vs 10%),
+117and effective management may provide
+global beneﬁt.
+Sleep Disturbance
+Sleep problems are common in children and adolescentswith ASDs at all levels of cognitive functioning.
+118–122
+Sleep problems correlate with family distress and mayhave signiﬁcant effects on daytime functioning and qual-ity of life of children with ASDs.
+123–125 In some cases,
+there may be an identiﬁable etiology such as obstructivesleep apnea or gastroesophageal reﬂux; assessment andtreatment are guided by history and physical examina-tion. When there is not an identiﬁable medical cause,behavioral interventions including sleep-hygiene mea-sures, restriction of daytime sleep, positive bedtime rou-tines, and extinction procedures often are effective.
+118,126–129
+Relatively little empirical information is available re-
+garding pharmacologic management of sleep problemsin children with ASDs or other developmental disabili-ties. Recommendations typically are based on case re-ports and open-label trials, extrapolation from the adultliterature, and expert consensus (Table 1).
+128There is
+some evidence of abnormality of melatonin regulation inchildren with ASDs,
+125,130 and melatonin may be effective
+for improving sleep onset in children with ASDs as wellas children with other developmental disabilities
+131–134
+and otherwise healthy children with sleep/wake disor-ders.
+135A recent open-label study suggested that con-
+trolled-release melatonin improved sleep in a group of25 children with ASDs and that treatment gains weremaintained at 1- and 2-year follow-up,
+136but random-
+ized, double-blind, placebo-controlled studies areneeded. Recently, a child and a young adult with ASDswith signiﬁcant insomnia were reported to have re-sponded well, with no apparent adverse effects, to open-label treatment with the high-afﬁnity melatonin recep-tor agonist ramelteon.
+137Antihistamines, /H92512-agonists,
+benzodiazepines, chloral hydrate, trazodone, and newernonbenzodiazepine hypnotic agents, such as zolpidemand zaleplon, sometimes are used to treat pediatric in-somnia.
+128In some cases, other conditions or symptoms,
+such as epilepsy, depression, anxiety, or aggressive out-bursts, warrant pharmacologic treatment, and an agentthat also may assist with sleep can be chosen.
+118
+1168 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023Evaluation of Challenging Behaviors
+Problematic emotional reactions and behaviors such asaggression and self-injury are common in children andadolescents with ASDs. In some cases, medical factorsmay cause or exacerbate maladaptive behaviors, andrecognition and treatment of medical conditions mayeliminate the need for psychopharmacologic agents. For
+example, in the case of an acute onset or exacerbation ofaggressive or self-injurious behavior, a source of pain ordiscomfort may be identiﬁed and treated.
+138Sources of
+discomfort may include otitis media, otitis externa, phar-yngitis, sinusitis, dental abscess, constipation, urinaryTABLE 1 Selected Potential Medication Options for Common Target Symptoms or Coexisting Diagnoses in Children With ASDs
+Target Symptom Cluster Potential Coexisting Diagnoses Selected Medication Considerations Selected References
+Repetitive behavior, behavioral
+rigidity, obsessive-compulsivesymptomsObsessive-compulsive disorder,
+stereotypic movement disorderSSRIs (ﬂuoxetine,
+aﬂuvoxamine,a
+citalopram, escitalopram, paroxetine,
+sertraline)McDougle et al,158,bBuchsbaum et al,180,b
+Sugie et al,159,bHollander et al,157,bMoore
+et al,160,cNamerow et al,181,dOwley et
+al182,d
+Atypical antipsychotic agents
+(risperidone,aaripiprazole, olanzapine,
+quetiapine, ziprasidone)McDougle et al164,b
+Valproic acida Hollander et al183,b
+Hyperactivity, impulsivity,
+inattentionAttention-deﬁcit/hyperactivity
+disorderStimulants (methylphenidate,a
+dextroamphetamine, mixed
+amphetamine salts)Quintana et al,168,bHanden et al,169,bRUPP
+Autism Network170,b
+/H92512-agonists (clonidine,aguanfacine) Fankhauser et al,172,bJaselskis et al,173,b
+Posey et al,175,dScahill et al (RUPP Autism
+Network)174,d
+Atomoxetinea Arnold et al,178,bJou et al,176,dPosey et al177,d
+Atypical antipsychotic agents
+(risperidone,aaripiprazole, olanzapine,a
+quetiapine, ziprasidone)McCracken et al,162,bArnold et al,163,bShea
+et al,165,bRUPP Autism Network,166,b
+Troost et al167,d
+Aggression, explosive outbursts,
+self-injuryIntermittent explosive disorder Atypical antipsychotic agents
+(risperidone,aaripiprazole, olanzapine,
+quetiapine, ziprasidone)McCracken et al,162,bArnold et al,163,bShea
+et al,165,bRUPP Autism Network,166,b
+Troost et al167,d
+/H92512-agonists (clonidine,aguanfacine) Fankhauser et al,172,bJaselskis et al,173,b
+Posey et al175,d
+Anticonvulsant mood stabilizers
+(levetiracetam, topiramate, valproicacid)Hollander et al
+184,d, Rugino and
+Samsock185,d, Hardan et al186,d, Myers148,c,
+Myers and Challman149,c
+SSRIs (ﬂuoxetine,aﬂuvoxamine,a
+citalopram, escitalopram, paroxetine,sertraline)McDougle et al,
+158,bMoore et al,160,c
+Namerow et al,181,dOwley et al182,d
+/H9252-blockers (propranolol, nadolol,
+metoprolol, pindolol)Connor et al,187,dRatey et al,188,dMyers and
+Challman149,c
+Sleep dysfunction Circadian rhythm sleep disorder,
+dyssomnia–not otherwise speciﬁedMelatonin Giannotti et al,136,dJan and Freeman,131,c
+Phillips and Appleton,133,cTurk,134,c
+Owens et al128,c
+Ramelteon Stigler et al137,e
+Antihistamines (diphenhydramine,
+hydroxyzine)Reed and Findling,189,cOwens et al128,c
+/H92512-agonists (clonidine, guanfacine) Mehta et al,190,dIngrassia and Turk,191,d
+Posey et al,175,dOwens et al128,c
+Mirtazapine Posey et al192,d
+Anxiety Generalized anxiety disorder, anxiety
+disorder–not otherwise speciﬁedSSRIs (ﬂuoxetine,aﬂuvoxamine,a
+citalopram, escitalopram, paroxetine,
+sertraline)McDougle et al,158,bBuchsbaum et al,180,b
+Sugie et al,159,bHollander et al,157,bMoore
+et al,160,cNamerow et al,181,dOwley et
+al182,d
+Buspirone Buitelaar et al193,d
+Mirtazapine Posey et al192,d
+Depressive phenotype (marked
+change from baseline includingsymptoms such as socialwithdrawal, irritability, sadnessor crying spells, decreasedenergy, anorexia, weight loss,sleep dysfunction)Major depressive disorder, depressive
+disorder–not otherwise speciﬁedSSRIs (ﬂuoxetine,
+aﬂuvoxamine,a
+citalopram, escitalopram, paroxetine,
+sertraline)McDougle et al,158,bMoore et al,160,c
+Namerow et al,181,dOwley et al182,d
+Mirtazapine Posey et al192,d
+PEDIATRICS Volume 120, Number 5, November 2007 1169
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023tract infection, fracture, headache, esophagitis, gastritis,
+colitis, allergic rhinitis, and others. When behavioraldeterioration is temporally related to menstrual cycles inan adolescent female,
+139use of an analgesic or oral or
+injectable contraceptive may be helpful. Obstructivesleep apnea may contribute to behavioral deteriorationand may be amenable to weight reduction, tonsillectomyand adenoidectomy, or continuous positive airway pres-sure.
+140Extreme food selectivity has the potential to lead
+to protein-calorie malnutrition or speciﬁc vitamin ormineral deﬁciencies; however, most studies that evalu-ated nutritional status in children with ASDs have sug-gested that despite dietary selectivity, malnutrition isuncommon.
+105,141 Although the prevalence in children
+with ASDs is unknown, pica related to iron or zincdeﬁciency may respond to supplementation with theappropriate mineral. It should be noted that it is not clearhow frequently medical factors cause or exacerbate se-rious maladaptive behaviors in children with ASDs, andthe efﬁcacy of these interventions is based on anecdotes,case reports, and conventional clinical practice ratherthan empirical support from clinical trials.
+It is also important to consider environmental factors
+that may precipitate challenging behaviors. Parents,teachers, or other caregivers may inadvertently reinforcemaladaptive behaviors, and in such cases, the most ap-propriate and effective interventions are behavioral. Insome instances, a mismatch between educational or be-havioral expectations and cognitive ability of the child isresponsible for disruptive behavior (eg, when the diag-nosis of mental retardation has not been recognized),and adjustment of expectations is the most appropriateintervention. In both situations, a functional analysis ofbehavior, completed by a behavior specialist in the set-tings in which the problems occur, will identify factors inthe environment that exacerbate or maintain the prob-lematic behavior. A strategy for intervention throughbehavioral techniques and environmental manipula-
+tions can then be formulated and tested.
+Psychopharmacology
+Pharmacologic interventions may be considered for mal-adaptive behaviors such as aggression, self-injurious be-havior, repetitive behaviors (eg, perseveration, obses-sions, compulsions, and stereotypic movements), sleepdisturbance, mood lability, irritability, anxiety, hyperac-tivity, inattention, destructive behavior, or other disrup-tive behaviors. After treatable medical causes and mod-iﬁable environmental factors have been ruled out, atherapeutic trial of medication may be considered if thebehavioral symptoms cause signiﬁcant impairment infunctioning and are suboptimally responsive to behav-ioral interventions. In some cases, the diagnosis of acomorbid disorder, such as major depression, bipolardisorder, or an anxiety disorder, can be made reasonablyand the patient can be treated with medications that areuseful for treating these conditions in otherwise typicallydeveloping children and adolescents. Modiﬁcations ofdiagnostic criteria may be necessary to account for clin-ical presentations of psychiatric conditions in individualswith developmental disabilities,
+142,143 and tools such as
+behavior checklists144and structured interviews145may
+be helpful. In other cases, clinicians opt to target speciﬁcinterfering maladaptive behaviors or symptom clustersin the absence of a clear comorbid psychiatric diagnosis(a target-symptom approach).
+146–151
+Recent surveys indicate that approximately 45% of
+children and adolescents152–154 and up to 75% of
+adults8,155with ASDs are treated with psychotropic med-
+ication. Greater age, lower adaptive skills and socialcompetence, and higher levels of challenging behaviorare associated with the likelihood of medication use.
+154
+The evidence regarding the efﬁcacy of psychopharmaco-logic interventions in patients with ASDs has been de-TABLE 1 Continued
+Target Symptom Cluster Potential Coexisting Diagnoses Selected Medication Considerations Selected References
+Bipolar phenotype (behavioral
+cycling with rages andeuphoria, decreased need forsleep, manic-like hyperactivity,irritability, aggression, self-injury, sexual behaviors)Bipolar I disorder, bipolar disorder–not
+otherwise speciﬁedAnticonvulsant mood stabilizers
+(carbamazepine, gabapentin,lamotrigine, oxcarbazepine,topiramate, valproic acid)Kowatch and DelBello,
+194,cMyers and
+Challman149,c
+Atypical antipsychotic agents
+(risperidone, aripiprazole, olanzapine,quetiapine, ziprasidone)Cheng-Shannon et al,
+195,cKowatch and
+DelBello,194,cMyers,148,cMyers and
+Challman149,c
+Lithium DeLong,196,eKerbeshian et al,197,eSteingard
+and Biederman,198,eMyers,148,cMyers and
+Challman149,c
+RUPP indicates Research Units on Pediatric Psychopharmacology.
+aAt least 1 published double-blind, placebo-controlled trial supports use in patients with an ASD.
+bDouble-blind, placebo-controlled trial.
+cReview article.
+dOpen-label trial or retrospective chart study.
+eCase report.
+1170 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023tailed in recent reviews.148,150,151,156 Although most psych-
+otropic medications have been used in children withASDs, there is currently insufﬁcient literature to estab-lish consensus regarding an evidence-based approach topharmacologic management. However, in recent years,there has been an increase in publication of randomized,double-blind, placebo-controlled clinical trials to guideclinical practice.
+Surveys performed in the United States suggest that
+selective serotonin-reuptake inhibitors (SSRIs), atypicalantipsychotic agents, stimulants, and
+/H92512-adrenergic ag-
+onist antihypertensive agents are the most commonlyprescribed classes of psychotropic medications for chil-dren with ASDs.
+152,153 Double-blind, placebo-controlled
+trials have demonstrated efﬁcacy of the SSRIs ﬂuox-etine
+157and ﬂuvoxamine158,159 in the treatment of repet-
+itive and other maladaptive behaviors in patients withASDs, and open-label trials of these and other SSRIshave shown improvements in target symptoms, includ-ing repetitive behaviors, irritability, depressive symp-toms, tantrums, anxiety, aggression, difﬁculty with tran-sitions, and aspects of social interaction and language.
+157–161
+Potential adverse effects of SSRIs include but are notlimited to nausea, drowsiness, sexual dysfunction, con-stipation, abdominal discomfort, fatigue, headache, diz-ziness, dry mouth, agitation, behavioral activation, hy-pomania or mania, apathy, suicidal ideation, andalteration of sleep.
+Risperidone has become the ﬁrst medication with US
+Food and Drug Administration–approved labeling forthe symptomatic treatment of irritability (including ag-gressive behavior, deliberate self-injury, and temper tan-trums) in children and adolescents with ASDs. Twolarge, multisite, randomized, controlled trials have con-ﬁrmed the short-term efﬁcacy of risperidone for thesesevere disruptive behaviors in youth with ASDs,
+162–165
+and 2 open-label studies, each with a double-blind dis-continuation component, have suggested long-termbeneﬁts and tolerance.
+166,167 Potential adverse effects in-
+clude but are not limited to excessive appetite andweight gain, insulin resistance, dyslipidemia, hyperpro-lactinemia, extrapyramidal symptoms, tardive dyskine-sia, neuroleptic malignant syndrome, QTc prolongation,dry mouth, urinary retention, constipation, seizures, he-matologic abnormalities, and sedation.
+Although early studies of the effects of stimulants
+yielded negative results, recent double-blind, placebo-controlled trials of methylphenidate have demonstratedimprovement in hyperactivity, impulsivity, and inatten-tion in children with ASDs.
+168–170 Methylphenidate is
+effective in some children with ASDs, but the responserate is lower than that in children with isolated atten-tion-deﬁcit/hyperactivity disorder, adverse effects aremore frequent, and it is unclear whether the results canbe generalized to other stimulants.
+170,171 Potential ad-
+verse effects of stimulant medications include but are notlimited to appetite reduction, inhibition of growth, de-
+layed sleep onset, jitteriness, exacerbation of tics, ab-dominal discomfort, increased blood pressure, increasedheart rate, irritability, increased anxiety, and repetitivebehaviors.
+Two small double-blind, placebo-controlled trials
+have documented modest beneﬁts of clonidine in reduc-ing hyperarousal symptoms including hyperactivity,irritability and outbursts, impulsivity, and repetitive be-haviors in children with ASDs.
+172,173 A prospective open-
+label trial174and a retrospective record review175have
+suggested that guanfacine was similarly effective in somepatients. Potential adverse effects of these centrally act-ing
+/H92512-agonists include but are not limited to drowsiness,
+sedation, dry mouth, decreased blood pressure, dizzi-ness, constipation, and irritability, and these drugs canbe dangerous in overdose. Recently, a retrospectivestudy,
+176an open-label trial,177and a small double-blind,
+placebo-controlled crossover trial178suggested that ato-
+moxetine may be effective for attention-deﬁcit/hyperac-tivity disorder–like symptoms in children and adoles-cents with ASDs, and additional research is warranted.Appetite suppression, nausea, fatigue, mood swings, sui-cidal ideation, dizziness, and liver injury are among thepotential adverse effects of atomoxetine.
+A summary of selected target symptoms, potential
+psychiatric diagnoses, and medication options is pro-vided in Table 1. Pediatricians and other practitionersshould only prescribe medications with which they havesufﬁcient expertise, including knowledge of indicationsand contraindications, dosing, potential adverse effects,drug-drug interactions, and monitoring requirements. Itwill be important for future research to address the needfor more rigorous evaluation of safety and efﬁcacy ofpsychotropic agents in children with ASDs; the value ofcombining behavioral and medical interventions; thepractice of polypharmacy; delineation of clinical andbiological subgroups of patients who may be responsiveto particular treatments; the role of drugs in treatingdeﬁcits in language and nonlanguage cognition, socialinteraction, and behavioral rigidity; and the potential toalter the neural substrate during early critical periods toaffect brain development and future function. Severalmultisite trials are underway, and others undoubtedlywill be forthcoming.
+179
+Principles to guide the approach to psychopharmaco-
+logic management of ASDs in clinical practice have beenproposed by several authors in recent years, and anapproach is outlined in Table 2.
+148–151 When medications
+are used, potential beneﬁts and adverse effects should beexplained, informed consent should be obtained, base-line data regarding behaviors and somatic complaintsshould be collected, and potential strategies for dealingwith treatment failure or partial response should bereviewed. It is important to have some quantiﬁablemeans of assessing the efﬁcacy of the medication and to
+PEDIATRICS Volume 120, Number 5, November 2007 1171
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023obtain input from a variety of sources, such as parents,
+teachers, therapists, and aides. Consistent use of vali-dated, treatment-sensitive rating scales and medicationadverse-effect scales is desirable. A wide variety of out-come measures have been used in research trials and inclinical practice to measure maladaptive behavior treat-ment effects.
+199Among the most common are the Clin-
+ical Global Impression Scale, Aberrant Behavior Check-list, and Nisonger Child Behavior Rating Form.
+Complementary and Alternative Medicine
+Complementary and alternative medicine (CAM) is de-ﬁned by the National Center for Complementary andAlternative Medicine as “a group of diverse medical andhealth care systems, practices, and products that are notpresently considered to be part of conventional medi-cine.”
+200The deﬁnition of CAM adopted by the CochraneCollaboration is “a broad domain of healing resources
+that encompasses all health systems, modalities, andpractices and their accompanying theories and beliefs,other than those intrinsic to the politically dominanthealth systems of a particular society or culture in agiven historical period.”
+201Detailed reviews of CAM as
+related to developmental disabilities and ASD-speciﬁcCAM have been published recently.
+202–204
+Use of CAM is common in children with ASDs.152,205–207
+Levy et al206reported that by the time their clinical
+population received a formal diagnostic evaluation for asuspected ASD, almost one third of the children alreadyhad received a complementary or alternative therapy,and a survey conducted in a predominantly white, mid-dle-to-upper socioeconomic-status private-practice pop-ulation found that 92% of parents who responded hadused CAM therapies for their children with ASDs.
+205TABLE 2 Clinical Approach to Psychopharmacologic Management
+Identify and assess target behaviors
+Parent/caregiver interview
+IntensityDurationExacerbating factors/triggers (time, setting/location, demand situations, denials, transitions, etc)Ameliorating factors and response to behavioral interventionsTime trends (increasing, decreasing, stable)Degree of interference with functioning
+Consider baseline behavior-rating scales and/or baseline performance measures/direct observational dataInclude input from school staff and other caregivers
+Assess existing and available supports
+Behavioral services and supportsEducational program, habilitative therapiesRespite care, family psychosocial supports
+Search for medical factors that may be causing or exacerbating target behavior(s)
+Consider sources of pain or discomfort (infectious, gastrointestinal, dental, allergic, etc)Consider other medical causes or contributors (sleep disorders, seizures, menstrual cycle, etc)
+Complete any medical tests that may have a bearing on treatment choiceConsider psychotropic medication on the basis of the presence of
+Evidence that the target symptoms are interfering substantially with learning/academic progress, socialization, health/safety (of the patient a nd/or others around him
+or her), or quality of life
+Suboptimal response to available behavioral interventions and environmental modiﬁcationsResearch evidence that the target behavioral symptoms or coexisting psychiatric diagnoses are amenable to pharmacologic intervention
+Choose a medication on the basis of
+Likely efﬁcacy for the speciﬁc target symptomsPotential adverse effectsPractical considerations such as formulations available, dosing schedule, cost, and requirement for laboratory or electrocardiographic monitor ing
+Informed consent (verbal or written) from parent/guardian and, when possible, assent from the patient
+Establish plan for monitoring of effects
+Identify outcome measuresDiscuss time course of expected effectsArrange follow-up telephone contact, completion of rating scales, reassessment of behavioral data, and visits accordinglyOutline a plan regarding what might be tried next if there is a negative or suboptimal response or to address additional target symptoms
+Change to a different medicationAdd another medication to augment a partial or suboptimal therapeutic response to the initial medication (same target symptoms)Add a different medication to address additional target symptoms that remain problematic
+Obtain baseline laboratory data if necessary for the drug being prescribed and plan appropriate follow-up monitoring
+Explore the reasonable dose range for a single medication for an adequate length of time before changing to or adding a different medicationMonitor for adverse effects systematicallyConsider careful withdrawal of the medication after 6–12 mo of therapy to determine whether it is still needed
+Adapted from Myers SM. The status of pharmacotherapy for autism spectrum disorders. Expert Opin Pharmacother . 2007;8:1579 –1603; and Myers SM, Challman TD. Psychopharmacology: an
+approach to management in autism and intellectual disabilities. In: Accardo PJ, ed. Capute & Accardo’s Neurodevelopmental Disabilities in Infancy and Childhood . 3rd ed. Baltimore, MD: Paul H. Brookes;
+2007: In press.
+1172 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023Another recent parent survey found that 52% of the
+children with an ASD had been treated with at least 1CAM therapy, compared with 28% of a group of controlchildren without disabilities.
+207Surveys indicate that
+only 36% to 62% of caregivers who used CAM therapiesfor their children with ASDs had informed the child’sprimary care physician,
+207,208 although more information
+on CAM is something that families indicate that theywant from their child’s primary health care profession-als.
+209
+It is important that health care professionals under-
+stand how to evaluate the evidence used to support alltreatments, including CAM, psychopharmacologic, andother interventions. Ideally, the evidence supporting orrefuting a treatment should include peer-reviewed stud-ies with appropriately diagnosed, well-deﬁned homoge-neous study populations; a randomized, double-blind,placebo-controlled design; an adequate sample size tosupport the statistical analysis presented; control for con-founding factors; and use of appropriate, validated out-come measures. When evaluating the efﬁcacy of studies,it is particularly important to keep in mind confoundingfactors, such as the placebo effect, and the natural his-tory of the disorder. Participation in a study may alterthe way a parent interacts with a child and confound theperceived outcome,
+210and improvements are expected
+with maturation and educational interventions. Onlyappropriately controlled studies are helpful in provingthat an effect is attributable to the intervention beingstudied.
+The practitioner should encourage families to seek
+additional information when they encounter the follow-ing claims or situations
+211:
+●treatments that are based on overly simpliﬁed scien-
+tiﬁc theories;
+●therapies that are claimed to be effective for multiple
+different, unrelated conditions or symptoms;
+●claims that children will respond dramatically and
+some will be cured;
+●use of case reports or anecdotal data rather than care-
+fully designed studies to support claims for treatment;
+●lack of peer-reviewed references or denial of the need
+for controlled studies; or
+●treatments that are said to have no potential or re-
+ported adverse effects.
+To help to describe their proposed rationales and
+mechanisms, CAM therapies used to treat ASDs havebeen categorized as “nonbiological” or “biological.”
+204
+Examples of nonbiological interventions include treat-ments such as auditory integration training, behavioraloptometry, craniosacral manipulation, dolphin-assistedtherapy, music therapy, and facilitated communication.Examples of biological therapies include immunoregu-latory interventions (eg, dietary restriction of food aller-
+gens or administration of immunoglobulin or antiviralagents), detoxiﬁcation therapies (eg, chelation), gastro-intestinal treatments (eg, digestive enzymes, antifungalagents, probiotics, “yeast-free diet,” gluten/casein-freediet, and vancomycin), and dietary supplement regi-mens that are purported to act by modulating neuro-transmission or through immune factors or epigeneticmechanisms (eg, vitamin A, vitamin C, vitamin B
+6and
+magnesium, folic acid, folinic acid, vitamin B12, dimeth-
+ylglycine and trimethylglycine, carnosine, omega-3 fattyacids, inositol, various minerals, and others).
+203,204
+For most of the aforementioned CAM interventions,
+there is not enough scientiﬁc evidence yet to support orrefute their use as treatment for ASDs. However, evalu-ation of treatments is possible, and a few CAM treat-ments have been appropriately studied. For example,more than a dozen randomized, double-blind, placebo-controlled trials involving more than 700 patients havedemonstrated that secretin (a biological treatment) is notan effective treatment for ASDs.
+212,213 Evaluation of non-
+biological treatments also is feasible. This has been dem-onstrated in the case of facilitated communication, atechnique that uses a trained facilitator to provide phys-ical support to a nonverbal person’s hand or arm whilethat person uses a computer keyboard or other device tospell. Evidence suggests that the communications pro-duced actually originate from the facilitator
+214,215 and
+that facilitated communication is not a valid treatmentfor ASDs.
+216–218
+Because of methodologic ﬂaws, insufﬁcient numbers
+of patients, or lack of replication, many CAM therapieshave been inadequately evaluated; therefore, evidence-based recommendations for their use are not possible.The most recent and most appropriately designed trialshave demonstrated no signiﬁcant beneﬁt of dimethyl-glycine,
+219,220 vitamin B6and magnesium,221,222 or audi-
+tory integration training.223–225 Both positive226and neg-
+ative227,228 results have been described for small,
+methodologically ﬂawed studies of intravenous immu-noglobulin. A recent double-blind, placebo-controlledtrial revealed no statistically signiﬁcant differences onAberrant Behavior Checklist subscale scores betweensmall groups of children with ASDs who were givenomega-3 fatty acids and those who were given place-bo.
+229However, the investigators noted a trend toward
+superiority of omega-3 fatty acids over placebo for hy-peractivity, which suggests that further investigationmay be warranted.
+229The gluten/casein-free diet is based
+on a hypothesis of abnormal gut permeability and exog-enous opiate excess. Although use of the gluten/casein-free diet for children with ASDs is popular, there is littleevidence to support or refute this intervention, and re-viewers have determined that meaningful conclusionscannot be drawn from the existing literature.
+230,231 Sub-
+sequent to these reviews, a randomized, double-blind
+PEDIATRICS Volume 120, Number 5, November 2007 1173
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023pilot study demonstrated no signiﬁcant beneﬁt.232Dou-
+ble-blind, placebo-controlled elimination and challengestudies are in progress, and it is anticipated that thesestudies will provide substantially more useful informa-tion regarding the efﬁcacy of the gluten/casein-free di-et.
+204,230 Measurement of urinary peptides has not been
+proven to be clinically useful as a marker for ASDs or asa tool to determine if dietary restriction is warranted orwould be effective.
+Many popular interventions, such as chelation of
+heavy metals, antifungal agents to decrease presumedyeast overgrowth, and antiviral agents to modulate theimmune system, have not yet been studied in peoplewith ASDs; their popularity is based on unproven theo-ries and anecdotes or case reports. None of these inter-ventions can be endorsed as treatment for ASDs outsideof well-designed and appropriately monitored clinicaltrials. Some treatments, such as intravenous chelation,may be particularly dangerous and should be discour-aged. One child with autism died as a result of chelationwith edetate disodium (Na
+2EDTA) despite the facts that
+a causal association between mercury and ASDs has notbeen demonstrated, there is no scientiﬁc evidence thatchelation is an effective treatment for ASDs, and theeffectiveness of chelation therapy to improve nervoussystem symptoms of chronic mercury toxicity has notbeen established.
+233Unless there is clear evidence of
+current heavy metal toxicity, chelation by any method isnot indicated outside of monitored clinical trials.
+In some cases, interesting ﬁndings await replication or
+further investigation. For example, in a double-blind,placebo-controlled trial of vitamin C, improvement wasfound in total and sensory motor scores on the Ritvo-Freeman Real Life Rating Scale,
+234and several small
+studies have suggested that music therapy had someshort-term beneﬁt on communication skills but not onbehavior problems of children with ASDs.
+235Recently, a
+group of 20 children with ASDs were compared withchildren without ASDs and found to have an imbalanceof methionine and homocysteine metabolism, whichwas interpreted to represent impaired capacity for meth-ylation and increased oxidative stress.
+236Treatment with
+trimethylglycine, folinic acid, and methylcobalamin re-sulted in normalization of laboratory ﬁndings. The studydid not measure clinical response to the intervention,but anecdotal improvements were noted. Interpretationof these preliminary ﬁndings awaits further investiga-tion.
+Health care practitioners who diagnose and treat chil-
+dren with ASDs should recognize that many of theirpatients will use nonstandard therapies. The importanceof becoming knowledgeable about CAM therapies, in-quiring about current and past CAM use, providing bal-anced information and advice about treatment options,identifying risks or potential harmful effects, avoidingbecoming defensive or dismissing CAM in ways thatconvey a lack of sensitivity or concern, maintaining open
+communication, and continuing to work with familieseven if there is disagreement about treatment choiceshas been emphasized.
+237It also is essential to critically
+evaluate the scientiﬁc merits of speciﬁc therapies andshare this information with families, educate familiesabout how to evaluate information and recognizepseudoscience, and insist that studies that examine CAMbe held to the same scientiﬁc and ethical standards as allclinical research.
+202,238
+Parents of children with ASDs will understandably
+pursue interventions that they believe may present somehope of helping their child, particularly if the therapiesare viewed as being unlikely to have any adverse effects.Unfortunately, families are often exposed to unsubstan-tiated, pseudoscientiﬁc theories and related clinical prac-tices that are, at best, ineffective and, at worst, competewith validated treatments or lead to physical, emotional,or ﬁnancial harm. Time, effort, and ﬁnancial resourcesexpended on ineffective therapies can create an addi-tional burden on families. Health care professionals canhelp parents and other caregivers to distinguish empiri-cally validated treatment approaches from treatmentsthat have been proven to be ineffective and those thatare unproven and potentially ineffective and/or harm-ful.
+FAMILY SUPPORT
+Management should focus not only on the child but alsoon the family. Although parents once were viewed er-roneously as the cause of a child’s ASD, it is now recog-nized that parents play a key role in effective treatment.
+9
+Having a child with an ASD has a substantial effect on afamily. Parents and siblings of children with ASDs expe-rience more stress and depression than those of childrenwho are typically developing or even those who haveother disabilities.
+239–243 Supporting the family and ensur-
+ing its emotional and physical health is an extremelyimportant aspect of overall management of ASDs.
+Physicians and other health care professionals can
+provide support to parents by educating them aboutASDs; providing anticipatory guidance; training and in-volving them as cotherapists; assisting them in obtainingaccess to resources; providing emotional supportthrough traditional strategies such as empathetic listen-ing and talking through problems; and assisting them inadvocating for their child’s or sibling’s needs.
+244In some
+cases, referral of parents for counseling or other appro-priate mental health services may be required. The needfor support is longitudinal, although the speciﬁc needsmay vary throughout the family life cycle.
+One of the chief strategies for helping families raise
+children with ASDs is helping to provide them withaccess to needed ongoing supports and additional ser-vices during critical periods and/or crises. Natural sup-ports include spouses, extended family members, neigh-
+1174 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023bors, religious institutions, and friends who can help
+with caregiving and who can provide psychological andemotional support. Informal supports include social net-works of other families of children with ASDs and com-munity agencies that provide training, respite, socialevents, and recreational activities. Formal supports in-clude publicly funded, state-administrated programssuch as early intervention, special education, vocationaland residential/living services, respite services, Medicaid,in-home and community-based waiver services, Supple-mental Security Income beneﬁts, and other ﬁnancialsubsidies. The breadth and depth of services vary, evenwithin the same state or region. Few services exist inmany rural areas, and public programs may have longwaiting lists.
+Sibling support groups offer the opportunity to learn
+important information and skills while sharing experi-ences and connecting with other siblings of childrenwith ASDs.
+244Although the research on support groups
+for siblings of children with disabilities is difﬁcult tointerpret because of study-design problems and incon-sistent outcome effects on sibling adjustment, thesegroups generally have been evaluated positively by partic-ipating siblings and parents,
+244and there is some evidence
+of beneﬁcial effects for siblings of children with ASDs.245
+Because each state has organized its services and ac-
+cess mechanisms differently, physicians and familiesmust learn their own state’s unique rules to access sup-ports by contacting the state or county ofﬁces of the
+states’ Department of Health and Human Services orMental Health and Mental Retardation or the state de-velopmental disabilities organization. In addition, localparent advocacy organizations, national autism and re-lated developmental disability organizations, early inter-vention administrators, and school district special edu-cation coordinators often are knowledgeable aboutvarious programs and their respective eligibility require-ments.
+CONCLUSIONS
+ASDs are chronic conditions that affect nearly 1 of every150 children and require ongoing medical and nonmed-ical intervention. There is a growing body of evidencethat supports the efﬁcacy of certain interventions inameliorating symptoms and enhancing functioning, butmuch remains to be learned. In addition to their impor-tant roles in identifying ASDs through screening andsurveillance, establishing the diagnosis, conducting anetiologic evaluation, and providing genetic counselingafter a diagnosis is made,
+2pediatricians and other pri-
+mary health care professionals are in a position to pro-vide important longitudinal medical care and to supportand educate families and guide them to empirically sup-ported interventions for their children.COUNCIL ON CHILDREN WITH DISABILITIES EXECUTIVE COMMITTEE,
+2006–2007
+Paul H. Lipkin, MD, Chairperson
+J. Daniel Cartwright, MDLarry W. Desch, MDJohn C. Duby, MDEllen Roy Elias, MDChris Plauche ´ Johnson, MD, MEd
+Eric B. Levey, MDGregory S. Liptak, MDNancy A. Murphy, MDScott M. Myers, MDAnn Henderson Tilton, MD
+LIAISONS
+Donald Lollar, EdD
+Centers for Disease Control and Prevention
+Michelle Macias, MD
+Section on Developmental and Behavioral Pediatrics
+Merle McPherson, MD, MPH
+Maternal and Child Health Bureau
+Donna Gore Olson
+Family Voices
+Bonnie Strickland, PhD
+Maternal and Child Health Bureau
+STAFF
+Stephanie Mucha Skipper, MPHJill Ackermann, MSMark Del Monte, JD
+CONTRIBUTORS
+Thomas D. Challman, MDSusan L. Hyman, MDSusan E. Levy, MDS. Andrew Spooner, MD
+Partnership for Policy Implementation
+Marshalyn Yeargin-Allsopp, MD
+REFERENCES
+1. American Psychiatric Association. Diagnostic and Statistical
+Manual of Mental Disorders, 4th Edition, Text Revision (DSM-IV-TR). Washington, DC: American Psychiatric Publishing; 2000
+2. Johnson CP, Myers SM; American Academy of Pediatrics,
+Council on Children With Disabilities. Identiﬁcation and eval-uation of children with autism spectrum disorders. Pediatrics.
+2007;120:1183–1215
+3. Fombonne E, Zakarian R, Bennett A, Meng L, McLean-
+Heywood D. Pervasive developmental disorders in Montreal,Quebec, Canada: prevalence and links with immunizations.Pediatrics. 2006;118(1). Available at: www.pediatrics.org/cgi/
+content/full/118/1/e139
+4. Dosreis S, Weiner CL, Johnson L, Newschaffer CJ. Autism
+spectrum disorder screening and management practicesamong general pediatric providers. J Dev Behav Pediatr. 2006;
+27(2 suppl):S88–S94
+5. Autism and Developmental Disabilities Monitoring Network
+Surveillance Year 2002 Principal Investigators; Centers forDisease Control and Prevention. Prevalence of autism spec-trum disorders: Autism and Developmental Disabilities Mon-
+PEDIATRICS Volume 120, Number 5, November 2007 1175
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023itoring Network, 14 sites, United States, 2002. MMWR Surveill
+Summ. 2007;56:12–28
+6. Howlin P. Outcomes in autism spectrum disorders. In: Volk-
+mar FR, Paul R, Klin A, Cohen D, eds. Handbook of Autism and
+Pervasive Developmental Disorders . 3rd ed. Vol II. Hoboken, NJ:
+John Wiley & Sons; 2005:201–220
+7. Howlin P, Goode S, Hutton J, Rutter M. Adult outcome for
+children with autism. J Child Psychol Psychiatry. 2004;45:
+212–229
+8. Seltzer MM, Shattuck P, Abbeduto L, Greenberg JS. Trajectory
+of development in adolescents and adults with autism. Ment
+Retard Dev Disabil Res Rev. 2004;10:234–247
+9. National Research Council, Committee on Educational Inter-
+ventions for Children with Autism. Educating Children With
+Autism . Lord C, McGee JP, eds. Washington, DC: National
+Academies Press; 2001
+10. Olley JG. Curriculum and classroom structure. In: Volkmar
+FR, Paul R, Klin A, Cohen D, eds. Handbook of Autism and
+Pervasive Developmental Disorders . 3rd ed. Vol II. Hoboken, NJ:
+John Wiley & Sons; 2005:863–881
+11. Handleman JS, Harris SL. Preschool Education Programs for Chil-
+dren With Autism . 2nd ed. Austin, TX: Pro-Ed; 2000
+12. Harris SL, Handleman JS, Jennett HK. Models of educational
+intervention for students with autism: home, center, andschool-based programming. In: Volkmar FR, Paul R, Klin A,Cohen D, eds. Handbook of Autism and Pervasive Developmental
+Disorders . 3rd ed. Vol II. Hoboken, NJ: John Wiley & Sons;
+2005:1043–1054
+13. Schreibman L, Ingersoll B. Behavioral interventions to pro-
+mote learning in individuals with autism. In: Volkmar FR,Paul R, Klin A, Cohen D, eds. Handbook of Autism and Pervasive
+Developmental Disorders . 3rd ed. Vol II. Hoboken, NJ: John
+Wiley & Sons; 2005:882–896
+14. Dawson G, Osterling J. Early intervention in autism. In: Gu-
+ralnick MJ, ed. The Effectiveness of Early Intervention: Second
+Generation Research . Baltimore, MD: Brookes; 1997:307–326
+15. Mastergeorge AM, Rogers SJ, Corbett BA, et al. Nonmedical
+interventions for autism spectrum disorders. In: Ozonoff S,Rogers SJ, Hendren RL, eds. Autism Spectrum Disorders: A Re-
+search Review for Practitioners . Washington, DC: American Psy-
+chiatric Publishing; 2003:133–160
+16. Rogers SJ. Empirically supported comprehensive treatments
+for young children with autism. J Clin Child Psychol. 1998;27:
+168–179
+17. Goldstein H. Communication intervention for children with
+autism: a review of treatment efﬁcacy. J Autism Dev Disord.
+2002;32:373–396
+18. Koegel LK. Interventions to facilitate communication in au-
+tism. J Autism Dev Disord. 2000;30:383–391
+19. Marans WD, Rubin E, Laurent A. Addressing social commu-
+nication skills in individuals with high-functioning autismand Asperger syndrome: critical priorities in educational pro-gramming. In: Volkmar FR, Paul R, Klin A, Cohen D, eds.Handbook of Autism and Pervasive Developmental Disorders . 3rd
+ed. Vol II. Hoboken, NJ: John Wiley & Sons; 2005:977–1002
+20. Paul R, Sutherland D. Enhancing early language in children
+with autism spectrum disorders. In: Volkmar FR, Paul R, KlinA, Cohen D, eds. Handbook of Autism and Pervasive Developmen-
+tal Disorders . 3rd ed. Vol II. Hoboken, NJ: John Wiley & Sons;
+2005:946–976
+21. Bregman JD, Zager D, Gerdtz J. Behavioral interventions. In:
+Volkmar FR, Paul R, Klin A, Cohen D, eds. Handbook of Autism
+and Pervasive Developmental Disorders . 3rd ed. Vol II. Hoboken
+NJ: John Wiley & Sons; 2005:897–924
+22. Lorimer PA, Simpson RL, Myles BS, et al. The use of social
+stories as a preventative behavioral intervention in a homesetting with a child with autism. J Posit Behav Interv. 2002;4:
+53–60
+23. Taylor BA. Teaching peer social skills to children with autism.
+In: Maurice C, Green G, Foxx RM, eds. Making a Difference:
+Behavioral Intervention for Autism . Austin, TX: Pro-Ed; 2001:
+83–96
+24. Weiss MJ, Harris SL. Teaching social skills to people with
+autism. Behav Modif. 2001;25:785–802
+25. Campbell JM. Efﬁcacy of behavioral interventions for reduc-
+ing problem behavior in persons with autism: a quantitativesynthesis of single-subject research. Res Dev Disabil. 2003;24:
+120–138
+26. Horner RH, Carr EG, Strain PS, Todd AW, Reed HK. Problem
+behavior interventions for young children with autism: aresearch synthesis. J Autism Dev Disord. 2002;32:423–446
+27. DeMyer MK, Hingtgen JN, Jackson RK. Infantile autism
+reviewed: a decade of research. Schizophr Bull. 1981;7:
+388–451
+28. Matson JL, Benavidez DA, Compton LS, Paclawskyj T, Baglio
+C. Behavioral treatment of autistic persons: a review of re-search from 1980 to the present. Res Dev Disabil. 1996;17:
+433–465
+29. Anderson SR, Avery DL, DiPietro EK, Edwards GL, Christian
+WP. Intensive home-based intervention with autistic chil-dren. Educ Treat Child. 1987;10:352–366
+30. Birnbrauer JS, Leach DJ. The Murdoch Early Intervention
+Program after 2 years. Behav Change. 1993;10:63–74
+31. Cohen H, Amerine-Dickens M, Smith T. Early intensive be-
+havioral treatment: replication of the UCLA model in a com-munity setting. J Dev Behav Pediatr. 2006;27(2 suppl):
+S145–S155
+32. Eikeseth S, Smith T, Jahr E, Eldevik S. Intensive behavioral
+treatment at school for 4- to 7-year-old children with autism:a 1-year comparison controlled study. Behav Modif. 2002;26:
+49–68
+33. Eldevik S, Eikeseth S, Jahr E, Smith T. Effects of low-intensity
+behavioral treatment for children with autism and mentalretardation. J Autism Dev Disord. 2006;36:211–224
+34. Howard JS, Sparkman CR, Cohen HG, Green G, Stanislaw H.
+A comparison of intensive behavior analytic and eclectictreatments for young children with autism. Res Dev Disabil.
+2005;26:359–383
+35. Lovaas OI. Behavioral treatment and normal educational and
+intellectual functioning in young autistic children. J Consult
+Clin Psychol. 1987;55:3–9
+36. McEachin JJ, Smith T, Lovaas OI. Long-term outcome for
+children with autism who received early intensive behavioraltreatment. Am J Ment Retard. 1993;97:359–372
+37. Sallows GO, Graupner TD. Intensive behavioral treatment for
+children with autism: four-year outcome and predictors. Am J
+Ment Retard. 2005;110:417–438
+38. Smith T. Outcome of early intervention for children with
+autism. Clin Psychol Sci Pract. 1999;6:33–49
+39. Smith T, Groen AD, Wynne JW. Randomized trial of intensive
+early intervention for children with pervasive developmentaldisorder. Am J Ment Retard. 2000;105:269–285
+40. Weiss M. Differential rates of skill acquisition and outcomes of
+early intensive behavioral intervention for autism. Behav In-
+terv.1999;14:3–22
+41. Lovaas OI, ed. Teaching Individuals With Developmental Delays:
+Basic Intervention Techniques . Austin, TX: Pro-Ed; 2003
+42. O’Neill R, Horner R, Albin R, et al. Functional Assessment and
+Program Development for Problem Behavior: A Practical Handbook .
+Paciﬁc Grove, CA: Brookes/Cole Publishing; 1996
+43. Mesibov GB, Shea V, Schopler E. The TEACCH Approach to
+Autism Spectrum Disorders . New York, NY: Kluwer Academic/
+Plenum; 2005
+1176 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 202344. Lord C, Schopler E. The role of age at assessment, develop-
+mental level, and test in the stability of intelligence scores inyoung autistic children. J Autism Dev Disord. 1989;19:483–499
+45. Marcus LM, Lansing M, Andrews CE, Schopler E. Improve-
+ment of teaching effectiveness in parents of autistic children.J Am Acad Child Psychiatry. 1978;17:625–639
+46. Mesibov GB. Formal and informal measures on the effective-
+ness or the TEACCH programme. Autism. 1997;1:25–35
+47. Schopler E, Mesibov GB, Baker A. Evaluation of treatment for
+autistic children and their parents. J Am Acad Child Psychiatry.
+1982;21:262–267
+48. Short AB. Short-term treatment outcome using parents as
+co-therapists for their own autistic children. J Child Psychol
+Psychiatry. 1984;25:443–458
+49. Venter AC, Lord C, Schopler E. A follow-up study of high-
+functioning autistic children. J Child Psychol Psychiatry. 1992;
+33:489–507
+50. Ozonoff S, Cathcart K. Effectiveness of a home program in-
+tervention for young children with autism. J Autism Dev Dis-
+ord.1998;28:25–32
+51. Rogers SJ, Herbison JM, Lewis HC, et al. An approach for
+enhancing the symbolic, communicative, and interpersonalfunctioning of young children with autism or severe emo-
+tional handicaps. J Div Early Child. 1986;10:135–148
+52. Rogers SJ, DiLalla DL. A comparative study of the effects of a
+developmentally based instructional model on young chil-dren with autism and young children with other disorders ofbehavior and development. Top Early Child Spec Educ. 1991;
+11:29–47
+53. Rogers SJ, Lewis H. An effective day treatment model for
+young children with pervasive developmental disorders. JA m
+Acad Child Adolesc Psychiatry. 1989;28:207–214
+54. Rogers SJ, Lewis HC, Reis K. An effective procedure for train-
+ing early special education teams to implement a model pro-gram. J Div Early Child. 1987;11:180–188
+55. Greenspan SI, Wieder S. Developmental patterns and out-
+comes in infants and children with disorders in relating andcommunicating: a chart review of 200 cases of children withautistic spectrum diagnoses. J Dev Learn Disord. 1997;1:87–141
+56. Gutstein SE, Sheely RK. Relationship Development Intervention
+With Children, Adolescents, and Adults . New York, NY: Jessica
+Kingsley; 2002
+57. Mahoney G, McDonald J. Responsive Teaching: Parent-Mediated
+Developmental Intervention . Baltimore, MD: Paul H. Brookes;
+2003
+58. Mahoney G, Perales F. Relationship-focused early interven-
+tion with children with pervasive developmental disordersand other disabilities: a comparative study. J Dev Behav Pediatr.
+2005;26:77–85
+59. Wieder S, Greenspan SI. Can children with autism master the
+core deﬁcits and become empathetic, creative, and reﬂective?A ten to ﬁfteen year follow-up of a subgroup of children withautism spectrum disorders (ASD) who received a comprehen-sive developmental, individual-difference, relationship-based(DIR) approach. J Dev Learn Disord. 2005;9:39–61
+60. American Speech-Language-Hearing Association, Ad Hoc
+Committee on Autism Spectrum Disorders. Principles forspeech-language pathologists in diagnosis, assessment, andtreatment of autism spectrum disorders across the life span.Available at: www.asha.org/NR/rdonlyres/D0370FEA-98EF-48EE-A9B6-952913FB131B/0/v3TR_autismLSpan.pdf. Ac-cessed February 22, 2007
+61. Millar DC, Light JC, Schlosser RW. The impact of augmenta-
+tive and alternative communication intervention on thespeech production of individuals with developmentaldisabilities: a research review. J Speech Lang Hear Res. 2006;
+49:248–26462. Bondy A, Frost L. The picture exchange communication sys-
+tem. Focus Autistic Behav. 1994;9:1–19
+63. Bondy A, Frost L. The picture exchange communication sys-
+tem. Semin Speech Lang. 1998;19:373–388
+64. Schepis MM, Reid DH, Behrmann MM, Sutton KA. Increasing
+communicative interactions of young children with autismusing a voice output communication aid and naturalisticteaching. J Appl Behav Anal. 1998;31:561–578
+65. Layton TL. Language training with autistic children using four
+different modes of presentation. J Commun Disord. 1988;21:
+333–350
+66. Krasny L, Williams BJ, Provencal S, Ozonoff S. Social skills
+interventions for the autism spectrum: essential ingredientsand a model curriculum. Child Adolesc Psychiatr Clin N Am.
+2003;12:107–122
+67. McConnell S. Interventions to facilitate social interaction for
+young children with autism: review of available research andrecommendations for educational intervention and future re-search. J Autism Dev Disord. 2002;32:351–372
+68. Rogers SJ. Interventions that facilitate socialization in chil-
+dren with autism. J Autism Dev Disord. 2000;30:399–409
+69. Bruinsma Y, Koegel RL, Koegel LK. Joint attention and chil-
+dren with autism: a review of the literature. Ment Retard Dev
+Disabil Res Rev. 2004;10:169–175
+70. Whalen C, Schreibman L. Joint attention training for children
+with autism using behavior modiﬁcation procedures. J Child
+Psychol Psychiatry. 2003;44:456–468
+71. Kasari C, Freeman S, Paparella T. Joint attention and symbolic
+play in young children with autism: a randomized controlledintervention study. J Child Psychol Psychiatry. 2006;47:
+611–620
+72. American Academy of Pediatrics. Understanding Autism Spec-
+trum Disorders [pamphlet]. Elk Grove Village, IL: American
+Academy of Pediatrics; 2005
+73. Reynhout G, Carter M. Social stories for children with dis-
+abilities. J Autism Dev Disord. 2006;36:445–469
+74. Gray C, McAndrew S. My Social Stories Book . London, England:
+Jessica Kingsley; 2002
+75. Taylor BA, Jasper S. Teaching programs to increase peer in-
+teraction. In: Maurice C, Green G, Foxx RM, eds. Making a
+Difference: Behavioral Intervention for Autism . Austin, TX: Pro-
+Ed; 2001:97–162
+76. Baranek GT. Efﬁcacy of sensory and motor interventions for
+children with autism. J Autism Dev Disord. 2002;32:397–422
+77. Dawson G, Watling R. Interventions to facilitate auditory,
+visual, and motor integration in autism: a review of the evi-dence. J Autism Dev Disord. 2000;30:415–421
+78. Rogers SJ, Ozonoff S. Annotation: what do we know about
+sensory dysfunction in autism? A critical review of the em-pirical evidence. J Child Psychol Psychiatry. 2005;46:1255–1268
+79. Schaaf RC, Miller LJ. Occupational therapy using a sensory
+integrative approach for children with developmental disabil-ities. Ment Retard Dev Disabil Res Rev. 2005;11:143–148
+80. Klin A, Volkmar FR. Treatment and intervention guidelines
+for individuals with Asperger syndrome. In: Klin A, VolkmarFR, Sparrow SS, eds. Asperger Syndrome . New York, NY: Guil-
+ford Press; 2000:340–366
+81. Konstantareas MM, Lunsky YJ. Sociosexual knowledge, ex-
+perience, attitudes, and interests of individuals with autisticdisorder and developmental delay. J Autism Dev Disord. 1997;
+27:397–413
+82. Murphy N. Sexuality in children and adolescents with disabil-
+ities. Dev Med Child Neurol. 2005;47:640–644
+83. Murphy NA, Elias ER; American Academy of Pediatrics,
+Council on Children With Disabilities. Sexuality of childrenand adolescents with developmental disabilities. Pediatrics.
+2006;118:398–403
+PEDIATRICS Volume 120, Number 5, November 2007 1177
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 202384. Shannon M, Graef JW. Lead intoxication in children with
+pervasive developmental disorders. J Toxicol Clin Toxicol. 1996;
+34:177–181
+85. American Academy of Pediatrics, Medical Home Initiatives for
+Children With Special Needs Project Advisory Committee.The medical home. Pediatrics. 2004;113(5 suppl):1545–1547
+86. Cooley WC. Redeﬁning primary pediatric care for children
+with special health care needs: the primary care medicalhome. Curr Opin Pediatr. 2004;16:689–692
+87. La Camera RG, La Camera AC. Routine health care. In: Cohen
+DJ, Volkmar FR, eds. Handbook of Autism and Pervasive Devel-
+opmental Disorders . 2nd ed. New York, NY: John Wiley & Sons;
+1997:730–740
+88. Volkmar FR, Wiesner LA, Westphal A. Healthcare issues for
+children on the autism spectrum. Curr Opin Psychiatry. 2006;
+19:361–366
+89. Liptak GS, Stuart T, Auinger P. Health care utilization and
+expenditures for children with autism: data from U.S. na-tional samples. J Autism Dev Disord. 2006;36:871–879
+90. Croen LA, Najjar DV, Ray GT, Lotspeich L, Bernal P. A com-
+parison of health care utilization and costs of children withand without autism spectrum disorders in a large group-model health plan. Pediatrics. 2006;118(4). Available at:
+www.pediatrics.org/cgi/content/full/118/4/e1203
+91. Mandell DS, Cao J, Ittenbach R, Pinto-Martin J. Medicaid
+expenditures for children with autistic spectrum disorders:1994 to 1999. J Autism Dev Disord. 2006;36:475–485
+92. Shavelle RM, Strauss DJ, Pickett J. Causes of death in autism.
+J Autism Dev Disord. 2001;31:569–576
+93. Pickett JA, Paculdo DR, Shavelle RM, Strauss DJ. 1998–2002
+update on “Causes of Death in Autism. ” J Autism Dev Disord.
+2006;36:287–288
+94. Ballaban-Gil K, Tuchman R. Epilepsy and epileptiform EEG:
+association with autism and language disorders. Ment Retard
+Dev Disabil Res Rev. 2000;6:300–308
+95. Tuchman R, Rapin I, Shinnar S. Autistic and dysphasic chil-
+dren II: epilepsy [published correction appears in Pediatrics .
+1992;90:264]. Pediatrics. 1991;88:1219–1225
+96. Pavone P, Incorpora G, Fiumara A, Parano E, Triﬁletti RR,
+Ruggieri M. Epilepsy is not a prominent feature of primaryautism. Neuropediatrics. 2004;35:207–210
+97. Volkmar FR, Nelson DS. Seizure disorders in autism. JA m
+Acad Child Adolesc Psychiatry. 1990;29:127–129
+98. Sankar E. Initial treatment of epilepsy with antiepileptic
+drugs: pediatric issues. Neurology. 2004;63(10 suppl 4):
+S30–S39
+99. Kagan-Kushnir T, Roberts SW, Snead OC III. Screening elec-
+troencephalograms in autism spectrum disorders: evidence-based guideline. J Child Neurol. 2005;20:197–206
+100. Tuchman RF, Rapin I. Regression in pervasive developmental
+disorders: seizures and epileptiform electroencephalogramcorrelates. Pediatrics. 1997;99:560–566
+101. Hrdlicka M, Komarek V, Propper L, et al. Not EEG abnormal-
+ities but epilepsy is associated with autistic regression andmental functioning in childhood autism. Eur Child Adolesc
+Psychiatry. 2004;13:209–213
+102. Canitano R, Luchetti A, Zappella M. Epilepsy, electroen-
+cephalographic abnormalities, and regression in children withautism. J Child Neurol. 2005;20:27–31
+103. Chez MG, Chang M, Krasne V, Coughlan C, Kominsky M,
+Schwartz A. Frequency of epileptiform EEG abnormalities ina sequential screening of autistic patients with no knownclinical epilepsy from 1996 to 2005. Epilepsy Behav. 2006;8:
+267–271
+104. Tuchman R, Rapin I. Epilepsy in autism. Lancet Neurol. 2002;
+1:352–358
+105. Erickson CA, Stigler KA, Corkins MR, Posey DJ, Fitzgerald JF,McDougle CJ. Gastrointestinal factors in autistic disorder: a
+critical review. J Autism Dev Disord. 2005;35:713–727
+106. Kuddo T, Nelson KB. How common are gastrointestinal dis-
+orders in children with autism? Curr Opin Pediatr. 2003;15:
+339–343
+107. Horvath K, Perman JA. Autism and gastrointestinal symp-
+toms. Curr Gastroenterol Rep. 2002;4:251–258
+108. Lightdale JR, Siegel B, Heyman MB. Gastrointestinal symp-
+toms in autistic children. Clin Perspect Gastroenterol. 2001;1:
+56–58
+109. Melmed RD, Schneider CK, Fabes RA, Philips J, Reichelt K.
+Metabolic markers and gastrointestinal symptoms in childrenwith autism and related disorders [abstract]. J Pediatr Gastro-
+enterol Nutr. 2000;31(suppl 2):S31
+110. Fombonne E, Chakrabarti S. No evidence for a new variant of
+measles-mumps-rubella-induced autism. Pediatrics. 2001;
+108(4). Available at: www.pediatrics.org/cgi/content/full/108/4/e58
+111. Molloy CA, Manning-Courtney P. Prevalence of chronic gas-
+trointestinal symptoms in children with autism and autisticspectrum disorders. Autism. 2003;7:165–171
+112. Taylor B, Miller E, Lingam R, Andrews N, Simmons A, Stowe
+J. Measles, mumps, and rubella vaccination and bowel prob-
+lems or developmental regression in children with autism:population-based study. BMJ. 2002;324:393–396
+113. Black C, Kaye JA, Jick H. Relation of childhood gastrointes-
+tinal disorders to autism: nested case-control study using datafrom the UK General Practice Research Database. BMJ. 2002;
+325:419–421
+114. Valicenti-McDermott M, McVicar K, Rapin I, Wershil BK,
+Cohen H, Shinnar S. Frequency of gastrointestinal symptomsin children with autistic spectrum disorders and associationwith family history of autoimmune disease. J Dev Behav Pedi-
+atr.2006;27(2 suppl):S128–S136
+115. Horvath K, Papadimitriou JC, Rabsztyn A, Drachenberg C,
+Tildon JT. Gastrointestinal abnormalities in children with au-tistic disorder. J Pediatr. 1999;135:559–563
+116. Torrente F, Anthony A, Heuschkel RB, Thomson MA, Ash-
+wood P, Murch SH. Focal-enhanced gastritis in regressiveautism with features distinct from Crohn’s and Helicobacter
+pylori gastritis. Am J Gastroenterol. 2004;99:598–605
+117. Afzal N, Murch S, Thirrupathy K, Berger L, Fagbemi A, Heus-
+chkel R. Constipation with acquired megarectum in childrenwith autism. Pediatrics. 2003;112:939–942
+118. Malow BA. Sleep disorders, epilepsy, and autism. Ment Retard
+Dev Disabil Res Rev. 2004;10:122–125
+119. Oyane NM, Bjorvatn B. Sleep disturbances in adolescents and
+young adults with autism and Asperger syndrome. Autism.
+2005;9:83–94
+120. Polimeni MA, Richdale AL, Francis AJ. A survey of sleep
+problems in autism, Asperger’s disorder and typically devel-oping children. J Intellect Disabil Res. 2005;49:260–268
+121. Wiggs L, Stores G. Sleep patterns and sleep disorders in chil-
+dren with autistic spectrum disorders: insights using parentreport and actigraphy. Dev Med Child Neurol. 2004;46:372–380
+122. Williams G, Sears LL, Allaed A. Sleep problems in children
+with autism. J Sleep Res. 2004;13:265–268
+123. Patzold LM, Richdale AL, Tonge BJ. An investigation into
+sleep characteristics of children with autism and Asperger’sdisorder. J Paediatr Child Health. 1998;34:528–533
+124. Schreck KA, Mulick JA, Smith AF. Sleep problems as possible
+predictors of intensiﬁed symptoms of autism. Res Dev Disabil.
+2004;25:57–66
+125. Tordjman S, Anderson GM, Pichard N, Charbuy H, Touitou Y.
+Nocturnal excretion of 6-sulphatoxymelatonin in childrenand adolescents with autistic disorder. Biol Psychiatry. 2005;
+57:134–138
+1178 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023126. Christodulu KV, Durand VM. Reducing bedtime disturbance
+and night waking using positive bedtime routines and sleeprestriction. Focus Autism Other Dev Disabl. 2004;19:130–139
+127. Meltzer LJ, Mindell JA. Nonpharmacologic treatments for
+pediatric sleeplessness. Pediatr Clin North Am. 2004;51:
+135–151
+128. Owens JA, Babcock D, Blumer J, et al. The use of pharma-
+cotherapy in the treatment of pediatric insomnia in primarycare: rational approaches—a consensus meeting summary.J Clin Sleep Med. 2005;1:49–59
+129. Weiskop S, Richdale A, Matthews J. Behavioural treatment to
+reduce sleep problems in children with autism or fragile Xsyndrome. Dev Med Child Neurol. 2005;47:94–104
+130. Kulman G, Lissoni P, Rovelli F, Roselli MG, Brivio, Sequeri P.
+Evidence of pineal endocrine hypofunction in autistic chil-dren. Neuro Endocrinol Lett. 2000;21:31–34
+131. Jan JE, Freeman RD. Melatonin therapy for circadian rhythm
+sleep disorders in children with multiple disabilities: whathave we learned in the last decade? Dev Med Child Neurol.
+2004;46:776–782
+132. Paavonen EJ, Nieminen-von Wendt T, Vanhala R, Aronen
+ET, von Wendt L. Effectiveness of melatonin in the treatmentof sleep disturbances in children with Asperger disorder.
+J Child Adolesc Psychopharmacol. 2003;13:83–95
+133. Phillips L, Appleton RE. Systematic review of melatonin treat-
+ment in children with neurodevelopmental disabilities andsleep impairment. Dev Med Child Neurol. 2004;46:771–775
+134. Turk J. Melatonin supplementation for severe and intractable
+sleep disturbance in young people with genetically deter-mined developmental disabilities: short review and commen-tary. J Med Genet. 2003;40:793–796
+135. Smits MG, van Stel HF, van der Heijden K, Meijer AM,
+Coenan AM, Kerkhof GA. Melatonin improves health statusand sleep in children with idiopathic chronic sleep-onsetinsomnia: a randomized placebo-controlled trial. J Am Acad
+Child Adolesc Psychiatry. 2003;42:1286–1293
+136. Giannotti F, Cortesi F, Cerquiglini A, Bernabei P. An open-
+label study of controlled-release melatonin in treatment ofsleep disorders in children with autism. J Autism Dev Disord.
+2006;36:741–752
+137. Stigler KA, Posey DJ, McDougle CJ. Ramelteon for insomnia
+in two youths with autistic disorder. J Child Adolesc Psycho-
+pharmacol. 2006;16:631–636
+138. Bosch J, Van Dyke C, Smith SM, Poulton S. Role of medical
+conditions in the exacerbation of self-injurious behavior: anexploratory study. Ment Retard. 1997;35:124–130
+139. Lee DO. Menstrually related self-injurious behavior in ado-
+lescents with autism. J Am Acad Child Adolesc Psychiatry. 2004;
+43:1193
+140. Malow BA, McGrew SG, Harvey M, et al. Impact of treating
+sleep apnea in a child with autism spectrum disorder. Pediatr
+Neurol. 2006;34:325–328
+141. Bowers L. An audit of referrals of children with autistic spec-
+trum disorder to the dietetic service. J Hum Nutr Diet. 2002;
+15:141–144
+142. Perry, DW, Marston GM, Hinder SA. The phenomenology of
+depressive illness in people with a learning disability andautism. Autism. 2001;5:265–275
+143. Syzmanski LS, King B, Goldberg B, et al. Diagnosis of mental
+disorders in people with mental retardation. In: Reiss S, AmanMG, eds. Psychotropic Medications and Developmental Disabilities:
+The International Consensus Handbook . Columbus, OH: Ohio
+State University Nisonger Center; 1998:3–17
+144. Brereton AV, Tonge BJ, Einfeld SL. Psychopathology in chil-
+dren and adolescents with autism compared to young peoplewith intellectual disability. J Autism Dev Disord. 2006;36:
+863–870145. Leyfer OT, Folstein SE, Bacalman S, et al. Comorbid psychi-
+atric disorders in children with autism: interview develop-ment and rates of disorders. J Autism Dev Disord. 2006;36:
+849–861
+146. Bostic JQ, Rho Y. Target-symptom psychopharmacology: be-
+tween the forest and the trees. Child Adolesc Psychiatr Clin N
+Am.2006;15:289–302
+147. Hollander E, Phillips AT, Yeh CC. Targeted treatments for
+symptom domains in child and adolescent autism. Lancet.
+2003;362:732–734
+148. Myers SM. The status of pharmacotherapy for autism spec-
+trum disorders. Expert Opin Pharmacother. 2007;8:1579–1603
+149. Myers SM, Challman TD. Psychopharmacology: an approach
+to management in autism and intellectual disabilities. In:Accardo PJ, ed. Capute & Accardo’s Neurodevelopmental Disabil-
+ities in Infancy and Childhood: Vol I. Neurodevelopmental Diagnosisand Treatment . 3rd ed. Baltimore, MD: Paul H. Brookes; 2008:
+577–614
+150. Steingard RJ, Connor DF, Au T. Approaches to psychophar-
+macology. In: Bauman ML, Kemper TL, eds. The Neurobiology
+of Autism . 2nd ed. Baltimore, MD: Johns Hopkins University
+Press; 2005:79–102
+151. Towbin KE. Strategies for pharmacologic treatment of high
+functioning autism and Asperger syndrome. Child Adolesc Psy-
+chiatr Clin N Am. 2003;12:23–45
+152. Aman MG, Lam KS, Collier-Crespin A. Prevalence and pat-
+terns of use of psychoactive medicines among individualswith autism in the Autism Society of Ohio. J Autism Dev
+Disord. 2003;33:527–534
+153. Langworthy-Lam KS, Aman MG, Van Bourgondien ME.
+Prevalence and patterns of use of psychoactive medicines inindividuals with autism in the autism society of North Caro-lina. J Child Adolesc Psychopharmacol. 2002;12:311–321
+154. Witwer A, Lecavalier L. Treatment incidence and patterns in
+children and adolescents with autism spectrum disorders.J Child Adolesc Psychopharmacol. 2005;15:671–681
+155. Tsakanikos E, Costello H, Holt G, et al. Psychopathology in
+adults with autism and intellectual disability. J Autism Dev
+Disord. 2006;36:1123–1129
+156. Posey DJ, McDougle CJ. The pharmacotherapy of target
+symptoms associated with autistic disorder and other perva-sive developmental disorders. Harv Rev Psychiatry. 2000;8:
+45–63
+157. Hollander E, Phillips A, Chaplin W, et al. A placebo controlled
+crossover trial of liquid ﬂuoxetine on repetitive behaviors inchildhood and adolescent autism. Neuropsychopharmacology.
+2005;30:582–589
+158. McDougle CJ, Naylor ST, Cohen DJ, Volkmar FR, Heninger
+GR, Price LH. A double-blind, placebo-controlled study ofﬂuvoxamine in adults with autistic disorder. Arch Gen Psychi-
+atry. 1996;53:1001–1008
+159. Sugie Y, Sugie H, Fukuda T, et al. Clinical efﬁcacy of ﬂuvox-
+amine and functional polymorphism in a serotonin trans-porter gene on childhood autism. J Autism Dev Disord. 2005;
+35:377–385
+160. Moore ML, Eichner SF, Jones JR. Treating functional impair-
+ment of autism with selective serotonin-reuptake inhibitors.Ann Pharmacother. 2004;38:1515–1519
+161. Posey DJ, Erickson CA, Stigler KA, McDougle CJ. The use of
+selective serotonin reuptake inhibitors in autism and relateddisorders. J Child Adolesc Psychopharmacol. 2006;16:181–186
+162. McCracken JT, McGough J, Shah B, et al. Risperidone in
+children with autism and serious behavioral problems. N Engl
+J Med. 2002;347:314–321
+163. Arnold LE, Vitiello B, McDougle C, et al. Parent-deﬁned
+target symptoms respond to risperidone in RUPP autism
+PEDIATRICS Volume 120, Number 5, November 2007 1179
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023study: customer approach to clinical trials. J Am Acad Child
+Adolesc Psychiatry. 2003;42:1443–1450
+164. McDougle CJ, Scahill L, Aman MG, et al. Risperidone for the
+core symptom domains of autism: results from the study bythe Autism Network of the Research Units on Pediatric Psy-chopharmacology. Am J Psychiatry. 2005;162:1142–1148
+165. Shea S, Turgay A, Carroll A, et al. Risperidone in the treat-
+ment of disruptive behavioral symptoms in children withautistic and other pervasive developmental disorders. Pediat-
+rics. 2004;114(5). Available at: www.pediatrics.org/cgi/
+content/full/114/5/e634
+166. Research Units on Pediatric Psychopharmacology Autism
+Network. Risperidone treatment of autistic disorder: longer-term beneﬁts and blinded discontinuation after 6 months.Am J Psychiatry. 2005;162:1361–1369
+167. Troost PW, Lahuis BE, Steenuis MP, et al. Long-term effects of
+risperidone in children with autism spectrum disorders: aplacebo discontinuation study. J Am Acad Child Adolesc Psychi-
+atry. 2005;44:1137–1144
+168. Quintana H, Birmaher B, Stedge D, et al. Use of methylpheni-
+date in the treatment of children with autistic disorder. J
+Autism Dev Disord. 1995;25:283–294
+169. Handen BL, Johnson CR, Lubetsky M. Efﬁcacy of methyl-
+phenidate among children with autism and symptoms ofattention-deﬁcit hyperactivity disorder. J Autism Dev Disord.
+2000;30:245–255
+170. Research Units on Pediatric Psychopharmacology Autism
+Network. Randomized, controlled, crossover trial of methyl-phenidate in pervasive developmental disorders with hyper-activity. Arch Gen Psychiatry. 2005;62:1266–1274
+171. Aman MG. Management of hyperactivity and other acting-
+out problems in autism spectrum disorder. Semin Pediatr Neu-
+rol.2004;11:225–228
+172. Fankhauser MP, Karumanchi VC, German ML, Yates A, Ka-
+rumanchi SD. A double-blind, placebo-controlled study of theefﬁcacy of transdermal clonidine in autism. J Clin Psychiatry.
+1992;53:77–82
+173. Jaselskis CA, Cook EH, Fletcher E, Leventhal BL. Clonidine
+treatment of hyperactive and impulsive children with autisticdisorder. J Clin Psychopharmacol. 1992;12:322–327
+174. Scahill L, Aman MG, McDougle CJ, et al. A prospective open
+trial of guanfacine in children with pervasive developmentaldisorders. Research Units on Pediatric Psychopharmacology(RUPP) Autism Network. J Child Adolesc Psychopharmacol.
+2006;16:589–598
+175. Posey DJ, Puntney JI, Sasher TM, Kem DL, McDougle CJ.
+Guanfacine treatment of hyperactivity and inattention in per-vasive developmental disorders: a retrospective analysis of 80cases. J Child Adolesc Psychopharmacol. 2004;14:233–241
+176. Jou RJ, Handen BL, Hardan AY. Retrospective assessment of
+atomoxetine in children and adolescents with pervasive de-velopmental disorders. J Child Adolesc Psychopharmacol. 2005;
+15:325–330
+177. Posey DJ, Wiegand RE, Wilkerson J, Maynard M, Stigler KA,
+McDougle CJ. Open-label atomoxetine for attention-deﬁcit/hyperactivity disorder symptoms associated with high-functioning pervasive developmental disorders. J Child Adolesc
+Psychopharmacol. 2006;16:599–610
+178. Arnold LE, Aman MG, Cook AM, et al. Atomoxetine for
+hyperactivity in autism spectrum disorders: placebo-controlled crossover pilot trial. J Am Acad Child Adolesc Psychi-
+atry. 2006;45:1196–1205
+179. Vitiello B. An update on publicly funded multisite trials in
+pediatric psychopharmacology. Child Adolesc Psychiatr Clin N
+Am.2006;15:1–12
+180. Buchsbaum MS, Hollander E, Haznedar MM, et al. Effect of
+ﬂuoxetine on regional cerebral metabolism in autistic spec-trum disorders: a pilot study. Int J Neuropsychopharmacol.
+2001;4:119–125
+181. Namerow LB, Thomas P, Bostic JQ, Prince J, Monuteaux MC.
+Use of citalopram in pervasive developmental disorders. J Dev
+Behav Pediatr. 2003;24:104–108
+182. Owley T, Walton L, Salt J, et al. An open-label trial of escita-
+lopram in pervasive developmental disorders. J Am Acad Child
+Adolesc Psychiatry. 2005;44:343–348
+183. Hollander E, Soorya L, Wasserman S, Esposito K, Chaplin W,
+Anagnostou E. Divalproex sodium vs. placebo in the treat-ment of repetitive behaviours in autism spectrum disorder. Int
+J Neuropsychopharmacol. 2006;9:209–213
+184. Hollander E, Dolgoff-Kaspar R, Cartwright C, Rawitt R, No-
+votny S. An open trial of divalproex sodium in autism spec-trum disorders. J Clin Psychiatry. 2001;62:530–534
+185. Rugino TA, Samsock TC. Levetiracetam in autistic children:
+an open-label study. J Dev Behav Pediatr. 2002;23:225–230
+186. Hardan AY, Jou RJ, Handen BL. A retrospective assessment of
+topiramate in children and adolescents with pervasive devel-opmental disorders. J Child Adolesc Psychopharmacol. 2004;14:
+426–432
+187. Connor DF, Ozbayrak KR, Benjamin S, Ma Y, Fletcher KE. A
+pilot study of nadolol for overt aggression in developmentally
+delayed individuals. J Am Acad Child Adolesc Psychiatry. 1997;
+36:826–834
+188. Ratey JJ, Mikkelsen E, Sorgi P, et al. Autism: the treatment of
+aggressive behaviors. J Clin Psychopharmacol. 1987;7:35–41
+189. Reed MD, Findling RL. Overview of current management of
+sleep disturbances in children: I—pharmacotherapy. Curr Ther
+Res.2002;63(suppl B):B18–B37
+190. Mehta UC, Patel I, Castello FV. EEG sedation for children with
+autism. J Dev Behav Pediatr. 2004;25:102–104
+191. Ingrassia A, Turk J. The use of clonidine for severe and
+intractable sleep problems in children with neurodevelop-mental disorders: a case series. Eur Child Adolesc Psychiatry.
+2005;14:34–40
+192. Posey DJ, Guenin KD, Kohn AE, Swiezy NB, McDougle CJ. A
+naturalistic open-label study of mirtazapine in autistic andother pervasive developmental disorders. J Child Adolesc Psy-
+chopharmacol. 2001;11:267–277
+193. Buitelaar JK, van der Gaag RJ, van der Hoeven J. Buspirone
+in the management of anxiety and irritability in children withpervasive developmental disorders: results of an open-labelstudy. J Clin Psychiatry. 1998;59:56–59
+194. Kowatch RA, DelBello MD. Pediatric bipolar disorder: emerg-
+ing diagnostic and treatment approaches. Child Adolesc Psychi-
+atr Clin N Am. 2006;15:73–108
+195. Cheng-Shannon J, McGough JJ, Pataki C, McCracken JT.
+Second-generation antipsychotic medications in children andadolescents. J Child Adolesc Psychopharmacol. 2004;14:372–394
+196. DeLong R. Children with autistic spectrum disorder and a
+family history of affective disorder. Dev Med Child Neurol.
+1994;36:674–687
+197. Kerbeshian J, Burd L, Fisher W. Lithium carbonate in the
+treatment of two patients with infantile autism and atypicalbipolar symptomatology. J Clin Psychopharmacol. 1987;7:
+401–405
+198. Steingard R, Biederman J. Lithium responsive manic-like
+symptoms in two individuals with autism and mental retar-dation. J Am Acad Child Adolesc Psychiatry. 1987;26:932–935
+199. Aman MG, Novotny S, Samango-Sprouse C, et al. Outcome
+measures for clinical drug trials in autism. CNS Spectr. 2004;
+9:36–47
+200. National Center for Complementary and Alternative Medi-
+cine. Expanding horizons of healthcare: ﬁve year strategicplan 2001–2005. Washington, DC: US Department of Healthand Human Services; 2000
+1180 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023201. Zollman C, Vickers A. What is complementary medicine?
+BMJ. 1999;319:693–696
+202. Challman TD, Voigt RG, Myers SM. Nonstandard therapies in
+developmental disabilities. In: Accardo PJ, ed. Capute & Accar-
+do’s Neurodevelopmental Disabilities in Infancy and Childhood: VolI. Neurodevelopmental Diagnosis and Treatment . 3rd ed. Balti-
+more, MD: Paul H. Brookes; 2008:721–743
+203. Gupta VB. Complementary and alternative treatments for
+autism. In: Gupta VB, ed. Autistic Spectrum Disorders in Children
+(Pediatric Habilitation Series Volume 12) . New York, NY: Marcel
+Dekker; 2004:239–254
+204. Levy SE, Hyman SL. Novel treatments for autistic spectrum
+disorders. Ment Retard Dev Disabil Res Rev. 2005;11:131–142
+205. Harrington JW, Rosen L, Garnecho A, Patrick PA. Parental
+perceptions and use of complementary and alternative med-icine practices for children with autistic spectrum disorders inprivate practice. J Dev Behav Pediatr. 2006;27:S156–S161
+206. Levy SE, Mandell DS, Merhar S, Ittenbach RF, Pinto-Martin
+JA. Use of complementary and alternative medicine amongchildren recently diagnosed with autistic spectrum disorder. J
+Dev Behav Pediatr. 2003;24:418–423
+207. Wong HHL, Smith RG. Patterns of complementary and alter-
+native medical therapy use in children diagnosed with autism
+spectrum disorders. J Autism Dev Disord. 2006;36:901–909
+208. Sibinga EM, Ottolini MC, Duggan AK, Wilson MH. Parent-
+pediatrician communication about complementary and alter-native medicine use for children. Clin Pediatr (Phila). 2004;43:
+367–373
+209. Liptak GS, Orlando M, Yingling JT, et al. Satisfaction with
+primary health care received by families of children withdevelopmental disabilities. J Pediatr Health Care. 2006;20:
+245–252
+210. Sandler A. Placebo effects in developmental disabilities: im-
+plications for research and practice. Ment Retard Dev Disabil Res
+Rev.2005;11:164–170
+211. Nickel R. Controversial therapies for young children with
+developmental disabilities. Infants Young Child. 1996;8:29–40
+212. Sturmey P. Secretin is an ineffective treatment for pervasive
+developmental disabilities: a review of 15 double-blind ran-domized controlled trials. Res Dev Disabil. 2005;26:87–97
+213. Williams KW, Wray JJ, Wheeler DM. Intravenous secretin for
+autism spectrum disorder. Cochrane Database Syst Rev. 2005;
+(3):CD003495
+214. Smith MD, Haas PJ, Belcher RG. Facilitated communication:
+the effects of facilitator knowledge and level of assistance onoutput. J Autism Dev Disord. 1994;24:357–367
+215. Cardinal DN, Hanson D, Wakeham J. Investigation of author-
+ship in facilitated communication. Ment Retard. 1996;34:
+231–242
+216. American Academy of Pediatrics, Committee on Children
+With Disabilities. Auditory integration training and facilitatedcommunication for autism. Pediatrics. 1998;102:431–433
+217. Jacobson JW, Mulick JA, Schwartz AA. A history of facilitated
+communication: science, pseudoscience, and antiscience. Sci-ence Working Group on Facilitated Communication. Am Psy-
+chol. 1995;50:750–765
+218. Mostert MP. Facilitated communication since 1995: a review
+of published studies. J Autism Dev Disord. 2001;31:287–313
+219. Bolman WM, Richmond JA. A double-blind, placebo con-
+trolled pilot trial of low dose dimethylglycine in patients withautistic disorder. J Autism Dev Disord. 1999;29:191–194
+220. Kern JK, Miller VS, Cauller PL, Kendall PR, Mehta PJ, Dodd
+M. Effectiveness of N,N-dimethylglycine in autism and per-
+vasive developmental disorder. J Child Neurol. 2001;16:
+169–173
+221. Findling RL, Maxwell K, Scotese-Wojtila L, Huang J, Ya-
+mashita T, Wiznitzer M. High-dose pyridoxine and magne-sium administration in children with autistic disorder: an
+absence of salutary effects in a double-blind, placebo-controlled study. J Autism Dev Disord. 1997;27:467–478
+222. Nye C, Brice A. Combined vitamin B
+6-magnesium treatment
+in autism spectrum disorder. Cochrane Database Syst Rev. 2005;
+(4):CD003497
+223. Mudford OC, Cross BA, Breen S, et al. Auditory integration
+training for children with autism: no behavioral beneﬁts de-tected. Am J Ment Retard. 2000;105:118–129
+224. Sinha Y, Silove N, Wheeler D, Williams K. Auditory integra-
+tion training and other sound therapies for autism spectrumdisorders. Cochrane Database Syst Rev. 2004;(1):CD003681
+225. Sinha Y, Silove N, Wheeler D, Williams K. Auditory integra-
+tion training and other sound therapies for autism spectrumdisorders: a systematic review. Arch Dis Child. 2006;91:
+1018–1022
+226. Gupta S, Aggarwal S, Heads C. Dysregulated immune system
+in children with autism: beneﬁcial effects of intravenous im-mune globulin on autistic characteristics. J Autism Dev Disord.
+1996;26:439–452
+227. DelGiudice-Asch G, Simon L, Schmeidler J, Cunningham-
+Rundles C, Hollander E. Brief report: a pilot open clinical trialof intravenous immunoglobulin in childhood autism. J Autism
+Dev Disord. 1999;29:157–160
+228. Plioplys AV. Intravenous immunoglobulin treatment of chil-
+dren with autism. J Child Neurol. 1998;13:79–82
+229. Amminger GP, Berger GE, Schafer MR, Klier C, Friedrich MH,
+Feucht M. Omega-3 fatty acids supplementation in childrenwith autism: a double-blind randomized, placebo-controlledpilot study. Biol Psychiatry. 2007;61:551–553
+230. Christison GW, Ivany K. Elimination diets in autism spectrum
+disorders: any wheat amidst the chaff? J Dev Behav Pediatr.
+2006;27(2 suppl):S162–S171
+231. Milward C, Ferriter M, Calver S, et al. Gluten- and casein-free
+diets for autistic spectrum disorder. Cochrane Database Syst Rev.
+2004;(2):CD003498
+232. Elder JH, Shankar M, Shuster J, Theriaque D, Burns S, Sherill
+L. The gluten-free, casein-free diet in autism: results of apreliminary double blind clinical trial. J Autism Dev Disord.
+2006;36:413–420
+233. Brown MJ, Willis T, Omalu B, Leiker R. Deaths resulting from
+hypocalcemia after administration of edetate disodium:2003–2005. Pediatrics. 2006;118(2). Available at: www.
+pediatrics.org/cgi/content/full/118/2/e534
+234. Dolske MC, Spollen J, McKay S, Lancashire E, Tolbert L. A
+preliminary trial of ascorbic acid as supplemental therapy forautism. Prog Neuropsychopharmacol Biol Psychiatry. 1993;17:
+765–774
+235. Gold C, Wigram T, Elefant C. Music therapy in autistic spec-
+trum disorder. Cochrane Database Syst Rev. 2006;(2):CD004381
+236. James SJ, Cutler P, Melnyks S, et al. Metabolic biomarkers of
+increased oxidative stress and impaired methylation capacityin children with autism. Am J Clin Nutr. 2004;80:1611–1617
+237. American Academy of Pediatrics, Committee on Children
+With Disabilities. Counseling families who choose comple-mentary and alternative medicine for their child with chronicillness or disability [published correction appears in Pediatrics .
+2001;108:507]. Pediatrics. 2001;107:598–601
+238. Hyman SL, Levy SE. Introduction: novel therapies in devel-
+opmental disabilities—hope, reason, and evidence. Ment Re-
+tard Dev Disabil Res Rev. 2005;11:107–109
+239. Bågenholm A, Gillberg C. Psychosocial effects on siblings of
+children with autism and mental retardation: a population-based study. J Ment Deﬁc Res. 1991;35:291–307
+240. Bouma R, Schweitzer R. The impact of chronic childhood
+illness on family stress: a comparison between autism andcystic ﬁbrosis. J Clin Psychol. 1990;46:722–730
+PEDIATRICS Volume 120, Number 5, November 2007 1181
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023241. Dumas JE, Wolf LC, Fisman SN, et al. Parenting stress, child
+behavior problems, and dysphoria in parents of children withautism, Down syndrome, behavior disorders, and normal de-velopment. Exceptionality. 1991;2:97–110
+242. Gold N. Depression and social adjustment in siblings of boys
+with autism. J Autism Dev Disord. 1993;23:147–163
+243. Gray DE. Ten years on: a longitudinal study of families of
+children with autism. J Intellect Dev Disabil. 2002;27:215–222
+244. Marcus LM, Kunce LJ, Schopler E. Working with families. In:
+Volkmar FR, Paul R, Klin A, Cohen D, eds. Handbook of Autismand Pervasive Developmental Disorders . 3rd ed. Vol II. Hoboken,
+NJ: John Wiley & Sons; 2005:1055–1086
+245. Smith T, Perry A. A sibling support group for brothers and
+sisters of children with autism. J Dev Disabil. 2005;11:77–88
+RESOURCE FOR FAMILIES
+American Academy of Pediatrics. Autism: Caring for Children With
+Autism Spectrum Disorders: A Resource Toolkit for Clinicians . Elk
+Grove Village, IL: American Academy of Pediatrics; 2007
+1182 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1162/1031146/zpe01107001162.pdf
+by guest
+on 08 May 2023

@@ -1,0 +1,647 @@
+review
+Ann Saudi Med 30(4) July-August 2010 www.saudiannals.net 295Autism is one of a group of neurodevelopmental 
+disorders known as pervasive developmental 
+disorders (PDD). These disorders are charac -
+terized by three core deficits: impaired communication, 
+impaired reciprocal social interaction and restricted, 
+repetitive and stereotyped patterns of behaviors or in -
+terests. The presentation of these impairments is vari -
+able in range and severity and often changes with the 
+acquisition of other developmental skills. 
+In 1943, the American psychiatrist Leo Kanner used 
+the term “early infantile autism” to describe children who 
+lacked interest in other people.1 In 1944, an Austrian 
+pediatrician, Hans Asperger, independently described 
+another group of children with similar behaviors, but 
+with milder severity and higher intellectual abilities. 
+Since then, his name has become attached to a higher 
+functioning form of autism, Asperger syndrome.2 It 
+was not until the 1980s that the term pervasive devel -
+opmental disorders was first used. 
+The definition and diagnosis of these disor -
+ders has been broadened over the years to include 
+milder forms of autism. The term autism spectrum 
+disorders (ASDs) is currently used to describe 
+three of the five pervasive developmental disorders 
+listed in the Diagnostic and Statistical Manual of 
+Mental Disorders, Fourth Edition (DSM-IV) and Autism spectrum disorders 
+Hadeel Faras,a Nahed Al Ateeqi,a Lee Tidmarshb
+From the aDevelopmental Pediatric Unit, Department of Pediatrics, Al-Sabah Hospital, Ministry of Health, Kuwait and bDepartment of Child 
+Psychiatry, Montreal Children’s Hospital, McGill University Health Centre, Montreal, Quebec, Canada 
+ 
+Correspondence: Hadeel Faras, MD, FAAP, FRCPC · Developmental Pediatric Unit, Department of Pediatrics, Al -Sabah Hospital, PO Box 4078, 
+Zip Code 13041, Kuwait · T: +965-2-481-2634 F: +965-2-481-4977 · hyfaras@yahoo.com · Accepted: July 2009 
+Ann Saudi Med 2010; 30(4): 295-300
+PMID: ******  DOI: 10.4103/0256-4947.65261
+Pervasive developmental disorders are a group of neurodevelopmental disorders characterized by im -
+pairments in communication, reciprocal social interaction and restricted repetitive behaviors or inter -
+ests. The term autism spectrum disorders (ASD) has been used to describe their variable presentation. 
+Although the cause of these disorders is not yet known, studies strongly suggest a genetic basis with a 
+complex mode of inheritance. More research is needed to explore environmental factors that could be 
+contributing to the cause of these disorders. The occurrence of ASD has been increasing worldwide, 
+with the most recent prevalence studies indicating that they are present in 6 per 1000 children. The 
+objectives of this article are to provide physicians with relevant information needed to identify and refer 
+children presenting with symptoms suggestive of ASDs to specialized centers early, and to make them 
+feel comfortable in dealing with public concerns regarding controversial issues about the etiology and 
+management of these disorders. 
+the International Classification of Diseases, T enth 
+Edition (ICD-10): autistic disorder, Asperger disor -
+der and pervasive developmental disorder-not other -
+wise specified (PDD-NOS), Table 1.3,4 
+A diagnosis of autistic disorder is made when 
+there are impairments in communication and recip -
+rocal social interaction with the presence of restricted 
+repetitive and stereotyped patterns of behaviors or 
+interests, prior to the age of 3 years. When autistic 
+symptoms are present with no significant general 
+delay in language and cognitive development, a di -
+agnosis of Asperger disorder is made. A diagnosis 
+of PDD-NOS is given when the triad of symptoms 
+is present but the criteria are not met for a specific 
+PDD.3 Often the label “high-functioning autism” is 
+used interchangeably with Asperger disorder.5 This 
+is controversial and there is considerable debate as to 
+whether children with Asperger disorder, who have 
+normal language milestones, should be considered to 
+comprise a subgroup distinct from high-functioning 
+children with autism, who have a history of delayed 
+language development.6 The other two PDD’s, Rett 
+syndrome and childhood disintegrative disorder, are 
+rare and are associated with significant developmental 
+regression, which makes them more distinct than the 
+other disorders in the PDD group.3 review AUTISM
+Ann Saudi Med 30(4) July-August 2010 www.saudiannals.net 296Epidemiology 
+ASD occurs more often in boys than girls, with a 4:1 
+male-to-female ratio.7 The reported prevalence rates of 
+autism and its related disorders have been increasing 
+worldwide over the past decades, from approximately 
+4 per 10 000 to 6 per 1000 children.8-12 The reasons for 
+this increase include wider public awareness of these 
+disorders, broadening of the diagnostic concepts, reclas -
+sifications of disorders and improved detection.7,13 The 
+possibility that the increase in the reported cases is a 
+result of unidentified risk factor(s) cannot be ruled out, 
+and therefore more research is needed to address this. 
+Etiology 
+The exact cause of autism and the other ASDs is still 
+not known. The etiologic theories have changed over 
+the years. It was once thought to be the result of faulty 
+child-rearing. This historical psychosocial theory has 
+been rejected, as research clearly indicates that the eti -
+ology is multi-factorial with a strong genetic basis.14 
+Although the etiology is not clear, there are a minority 
+of cases, less than 10%, where autism is part of another 
+condition. Such cases are often referred to as “second -
+ary” autism; these include tuberous sclerosis, fragile X 
+syndrome, phenylketonuria and congenital infections 
+secondary to rubella and cytomegalovirus.14-20 
+Genetic factors 
+Family studies have demonstrated that autism is both 
+familial and heritable. The recurrence rate in siblings 
+of an autistic child is 2% to 8%, which is higher than 
+that of the general population.8,17 Furthermore, twin 
+studies showed that monozygotic twins have a high -
+er concordance rate than dizygotic twins—90% and 
+10%, respectively.14,15,17 Other genetic studies suggest 
+a complex mode of inheritance, with linkage studies 
+suggesting genetic loci on several chromosomes in -
+cluding chromosome 717 and  chromosome X.15 
+Environmental factors 
+Various environmental factors have been explored as 
+possible causative agents in autism. Epidemiological studies indicate that some environmental factors, in -
+cluding prenatal infections with rubella and cytomeg -
+alovirus, account for few cases of autism.17 The role of 
+heavy metals in the etiology of autism is controversial 
+and requires more research.21 
+There are public concerns about vaccines being 
+possible triggers for autism. There have been two 
+separate hypothesis relating vaccination to autism, 
+the first is the potential adverse effect of the measle, 
+mumps, rubella (MMR) vaccine and the second is 
+that of thimerosal, a mercury-based preservative used 
+in some vaccines. These two hypotheses are distinct 
+from each other; MMR vaccines have never con -
+tained thimerosal, because it would inactivate a live 
+vaccine.7 
+Measles, mumps and rubella vaccine and the ASD 
+hypothesis 
+An article published in 1998 suggested a possible re -
+lationship between the MMR vaccine and ASD. Since 
+then, there has been a decline in the rate of MMR 
+vaccination among children.22,23 As a consequence of 
+that, there have been measles outbreaks.23 These fac -
+tors led to the conduction of large worldwide studies 
+to examine this potential relationship. These studies 
+showed that there is no association between MMR 
+vaccine and ASDs.24-29 The measles vaccine has been 
+proven to be safe and effective in preventing this po -
+tentially lethal disease. Therefore, with the lack of sci -
+entific evidence that MMR vaccine is causally related 
+to autism, the administration of MMR vaccine should 
+be encouraged to prevent measles outbreak. 
+Thimerosal and the ASD hypothesis 
+Thimerosal is a mercury-containing compound that 
+has been used as an additive to vaccines to prevent bac -
+terial contamination. In 1997, the United States Food 
+and Drug Administration called for assessment of the 
+risk of all mercury-containing foods and drugs. This 
+action stimulated the United States Public Health 
+Service and the American Academy of Pediatrics to 
+issue a joint statement in 1999 calling for the removal 
+of thimerosal from the vaccines. This action was un -
+dertaken as a precautionary measure. There was no 
+evidence that mercury was harmful at the doses be -
+ing administered in the vaccines.30 The evidence from 
+these studies does not support and favors rejection of 
+a causal relationship between thimerosal-containing 
+vaccines and autism.28,31-34 Further evidence contra -
+dicting this hypothesis is that rates of autism have 
+continued to increase despite the removal of thimero -
+sal from vaccines in 1999.7,33 Table 1 . The five pervasive developmental disorders. 
+   • Autistic Disorder 
+   • Asperger disorder 
+   • Rett disorder 
+   • Childhood disintegrative  disorder  
+   • Pervasive developmental disorder- not otherwise specified 
+      (PDD-NOS) review AUTISM
+Ann Saudi Med 30(4) July-August 2010 www.saudiannals.net 297Diagnosis 
+Physicians play an important role in early recognition of 
+ASD, because they are usually the first point of contact 
+for parents. Therefore, it is important that physicians be 
+able to recognize the various signs and symptoms of this 
+group of disorders.35 Physicians should be alerted to 
+the possibility of autism and its related disorders when 
+there are qualitative impairments in social, language and 
+communication skills, as well as repetitive interests and 
+behaviors. The severity of these impairments varies sig -
+nificantly among children with ASD. Even though the 
+typical age of onset is before 3 years, the impairments 
+can be subtle and may not be detected before school age. 
+An example of this are children with Asperger disorder, 
+who may be identified and diagnosed much later than 
+children with typical autism, on average at 11 years of 
+age.5 This is because parents of children with Asperger 
+disorder may not recognize the subtle abnormalities in 
+their child’s behavior, because they may not have an op -
+portunity to compare them to peers. Conversely, physi -
+cians and teachers compare a child’s behavior to typi -
+cally developing children and notice abnormalities and 
+impairments more easily.5 This reflects the importance 
+of gathering information about the child from multiple 
+sources, especially when diagnosing the broader perva -
+sive developmental disorders.5,36 
+The diagnosis is challenging in children at the both 
+ends of the spectrum. Children with severe autistic 
+symptoms may be hard to differentiate from those with 
+isolated severe intellectual disability, while those with 
+mild symptoms may be misdiagnosed as having a lan -
+guage disorder or a social anxiety. T able 2 lists some of 
+the general developmental warnings of possible ASD in 
+children and adolescents. 
+Several structured instruments have been used for 
+screening for ASDs in high-risk children, e.g. siblings 
+of autistic children, children with developmental de -
+lay or genetic syndromes. The Checklist for Autism in 
+T oddlers (CHAT), Modified-Checklist for Autism in 
+T oddlers (M-CHAT), Childhood Autism Rating Scale 
+(CARS) and Social Responsiveness Scale-Parent and 
+T eacher (SRS), are some of the widely used instruments 
+for screening these high-risk children.37-40 Although 
+these are well-structured instruments, they should be 
+used with caution as they are screening tests and should 
+not be used to rule out or confirm the diagnosis. 
+The diagnosis of ASD is best achieved by a team of 
+health care professionals who are well informed and ex -
+perienced in these disorders. Therefore, a primary care 
+health worker should refer any child suspected of hav -
+ing ASD to a specialist team for detailed assessment. 
+The specialist team makes the diagnosis of ASD based on an autism-specific history and clinical observation. 
+Specific tools commonly used in the assessment include 
+the Autism Diagnostic Interview-Revised (ADI-R) 
+and the Autism Diagnostic Observational Schedule 
+(ADOS).41-43 
+Most children with ASDs have a normal physical 
+examination. The physical examination should include 
+observations of any dysmorphic features or skin pig -
+mentations along with a detailed neurological examina -
+tion that may be suggestive of secondary causes, such 
+as fragile X syndrome or tuberous sclerosis. Currently, 
+there are no laboratory or radiologic tests to diagnose 
+ASD. The diagnostic yield from biomedical investiga -
+tions is low.44 Most guidelines and practice parameters 
+on ASD recommend conducting DNA analysis for frag -
+ile X syndrome, regular karyotyping, audiology testing 
+and other investigations where clinically relevant.45,46 
+The yield of an etiologic investigation may be increased 
+with the presence of coexisting developmental delay or 
+intellectual disability.8 
+Treatment 
+ASDs are lifelong chronic disabilities. At present, there 
+is no cure for the core symptoms of autism. However, 
+several groups of medications, including atypical neu -
+roleptics, have been used to treat associated behavioral 
+problems such as aggression and self-injurious behav -
+iors.47,48 
+Research has shown that the most effective therapy 
+is use of early intensive behavioral interventions that 
+aim to improve the functioning of the affected child. 
+These interventions focus on developing language, 
+social responsiveness, imitation skills, and appropri -
+ate behaviors. Examples of these behavioral thera -
+pies include ABA (Applied Behavior Analysis) and 
+TEACCH (Treatment and Education of Autistic and 
+Related Communication Handicapped Children). The 
+ABA approach involves teaching new behaviors by ex -
+plicit reinforcement; problem behaviors are addressed 
+by analyzing triggers in order to change factors in the 
+environment that are contributing to that behavior.49 
+The TEACCH approach takes advantage of relative 
+strengths in visual information processing using strate -
+gies such as visual schedules, clearly structured and or -
+ganized classrooms, and highly structured learning ac -
+tivities that are broken down into manageable, visually 
+organized steps.49 These behavioral techniques should 
+begin early in the pre-school period and be followed by 
+highly individualized educational intervention in the 
+school.50-54 
+Since conventional medicine has failed to find a cure 
+for ASD, families have been seeking complementary review AUTISM
+Ann Saudi Med 30(4) July-August 2010 www.saudiannals.net 298Table 2. Red flags indicating possible autism spectrum disorder.* 
+   Pre-school children   
+   Communication impairment      •  Delayed or absent speech 
+   •  Deficient nonverbal communication e.g. lack pointing, difficulty following a point 
+   Social impairment    •  Lack of response to others’ facial expression/feeling 
+   •  Lack of pretend play; little or no imagination              
+   •  Lack of showing typical interest in or play near peers purposefully 
+   •  Lack of initiation of activity 
+   •  Inability to share pleasure 
+   Impairments of interests, activities and/or 
+   behaviors     •  Unusual or repetitive hand and finger mannerism 
+   •  Liking sameness/inability to cope with change 
+   •  Repetitive play with toys (eg, lining up toys; turning lights on and off) 
+   School-age children   
+   Communication impairment      •  Abnormalities in language development including muteness 
+   •  Persistent echolalia 
+   •  Unusual vocabulary for child’s age/social group 
+   Social impairment    •  Inappropriate attempts at joint play (eg, may manifest as aggressive or disruptive 
+       behavior) 
+   •  Lack of awareness to classroom ‘norms’ (criticizing teachers, unwilling to 
+      cooperate in classroom activities) 
+   Impairments of interests, activities and/or 
+   behaviors    •  Lack of flexible cooperative imaginative play/creativity 
+   •  Inability to cope with change 
+   •  Presence of odd behaviors including unusual response to sensory stimuli 
+   Adolescents:   
+   Language, non-verbal skills and social   
+   communication     •  Problems with communication, even if wide vocabulary and normal use of 
+       grammar. May be unduly quiet, may talk at others rather than hold a to-and-fro   
+       conversation, or may provide excessive information on topics of own interest. 
+   •  Unable to adapt style of communication to social situations (eg, may sound like 
+       ‘a little professor’ (overly formal) or be inappropriately familiar . 
+   •  May have speech peculiarities including ‘flat’, unmodulated speech, 
+       repetitiveness, use of stereotyped phrases. 
+   •  May take things literally and fail to understand sarcasm or metaphor . 
+   •  Unusual use and timing of non-verbal interaction (eg, eye contact, gesture and 
+       facial expression) 
+   Social problems     •  Difficulty making and maintaining peer friendships, though may find it easier with 
+       adults or younger children. 
+   •  Can appear unaware or uninterested in peer group ‘norms’, may alienate by 
+       behaviors which transgress ‘unwritten rules’.  
+   •  May lack awareness of personal space, or be intolerant of intrusions on 
+       own space.
+   Rigidity in thinking and behavior    •  Preference for highly specific, narrow interests or hobbies, or may enjoy 
+       collecting, numbering or listing. 
+   •  Strong preferences for familiar routines, may have repetitive behaviors or intrusive 
+       rituals 
+   •  Problems using imagination e.g. in writing, future planning. 
+   •  May have unusual reactions to sensory stimuli (eg sounds, tastes, smell, touch,
+       hot or cold.   
+  *From the Scottish Intercollegiate Guidelines Network (SIGN) 98.45 review AUTISM
+Ann Saudi Med 30(4) July-August 2010 www.saudiannals.net 299and alternative therapies in search of a cure. These in -
+clude the use of mega-vitamins and other nutritional 
+supplements, chelation therapy and hyperbaric oxygen 
+therapy. Currently, there is no evidence to support the 
+use of nutritional supplements as an intervention for 
+ASD.21,55,56 There have been claims that diets free of 
+casein and/or gluten are effective interventions for 
+autism. The latest Cochrane review in 2008 reported 
+lack of evidence to support the use of these diets for 
+children with ASD, and stated that there is a lack of re -
+search on the potential harms and disbenefits of these 
+diets.56 Therefore, families who desire to try these di -
+ets should be counseled on the need for calcium and 
+vitamin D supplements with attention to the protein 
+intake, since milk and dairy products represent major 
+sources of calcium and protein intake for these young 
+children. 
+Despite the lack of scientific evidence, desperate 
+and vulnerable parents seek chelation therapy for their 
+affected children in an attempt to remove heavy metals 
+that are thought to cause autism.57 The use of chela -
+tion therapy in children with autism and its related 
+disorders has not been validated. Furthermore, it is an 
+invasive procedure and can have fatal consequences.57 
+Recently, hyperbaric oxygen therapy has increased in 
+popularity as an alternative therapy for ASDs.58 This therapy involves inhaling up to 100% oxygen in a pres -
+surized chamber to increase plasma oxygen to the tis -
+sues including the brain.58,59 Because of the limited 
+research in this field, conclusions about the efficacy of 
+hyperbaric oxygen therapy as a treatment for children 
+with ASDs cannot be drawn at this time.58-60 
+Conclusion 
+ASDs are a group of disorders characterized by im -
+pairments in three domains, namely communication, 
+reciprocal social interaction and behaviors that are 
+restricted and repetitive in nature. Physicians play a 
+crucial role in the early identification of children with 
+these disorders since they are the first point of con -
+tact and the starting point for referral to appropriate 
+centers for further evaluation and management. These 
+disorders are increasing in prevalence, so that physi -
+cians are more likely to encounter them during their 
+practice. Therefore, physicians need to be aware of 
+the variable presentation of these disorders in order 
+to identify affected children early and refer them ap -
+propriately to specialized centers for evaluation, coun -
+seling and intervention. Furthermore, physicians need 
+to feel comfortable in dealing with public concerns 
+regarding controversial issues about the etiology and 
+management of these disorders. 
+1. Kolvin I. Studies in childhood psychoses: I. Di -
+agnostic criteria and classification. Brit J Psychia -
+try 1971;118:381-4. 
+2. Klin A. Asperger syndrome: an update. Rev Bras 
+Psiquiatr 2003;25:103-9. 
+3. American Psychiatric Association. Diagnostic 
+and Statistical Manual of Mental Disorders. 4th ed. 
+Arlington, VA: American Psychiatric Publishing, 
+Inc; 2000. p. 69-84. 
+4. World Health Organization. International Statis -
+tical Classification of Diseases and Related Health 
+Problems, 10th Revision. World Health Organiza -
+tion; 2007 Available from: http://www.who.int/
+classifications/apps/icd/icd10online/. [last cited on 
+2009 Mar 19].
+5. Mattila ML, Kielinen M, Jussila K, Linna SL, 
+Bloigu R, Ebeling H, Moilanen I. An epidemiologi -
+cal and diagnostic study of Asperger syndrome 
+according to four sets of diagnostic criteria. J Am 
+Acad Child Adolesc Psychiatry 2007;46:636-46. 
+6. McAlonan GM, Suckling J, Wong N, Cheung 
+V, Lienenkaemper N, Cheung C, et al. Distinct 
+patterns of grey matter abnormality in high-func -
+tioning autism and Asperger’s syndrome. J Child 
+Psychol Psychiatry 2008;49:1287-95. 
+7. Fombonne E, Zakarian R, Bennett A, Meng L, 
+McLean-Heywood D. Pervasive developmental 
+disorders in Montreal, Quebec, Canada: preva -
+lence and links with immunizations. Pediatrics 
+2006;118:e139-50. Available from: http://pediatrics.
+aappublications.org/cgi/reprint/118/1/e139. [last 
+cited on 2009 Jun 19].
+8. Chakrabarti S, Fombonne E. Pervasive devel -opmental disorders in preschool children. JAMA 
+2001;285:3093-9. 
+9. Chakrabarti S, Fombonne E. Pervasive devel -
+opmental disorders in preschool children: con -
+firmation of high prevalence. Am J Psychiatry 
+2005;162:1133-41. 
+10. Centers for Disease Control and Prevention. 
+Mental health in the United States: parental re -
+port of diagnosed autism in children aged 4-17 
+years, United States, 2003-2004. MMWR Morb 
+Mortal Wkly Rep 2006;55:481-6. Available from: 
+http://www.cdc.gov/mmwr/preview/mmwrhtml/
+mm5517a3.htm. [last cited on 2009 Mar 19].
+11. Bertrand J, Mars A, Boyle C, Bove F, 
+Yeargin-Allsop M, DeCoufle P . Prevalence of 
+autism in a United States population: the Brick 
+Township, New Jersey, investigation. Pediatr 
+2001;108:1155-61. 
+12. Yeargin-Allsopp M, Rice C, Karapurkar T, 
+Doernberg N, Boyle C, Murphy C. Prevalence 
+of autism in a US metropolitan area. JAMA 
+2003;289:49-55. 
+13. Shattuck PT. The contribution of diagnostic 
+substitution to the growing administrative preva -
+lence of autism in US special education data. Pe -
+diatr 2006;117:1028-37. 
+14. Bailey A, Le Couteur A, Gottesman, Bolton P , 
+Simonoff E, Yuzda E, et al. Autism as a strongly ge -
+netic disorder: evidence from a British twin study. 
+Psychol Med 1995;25:63-77. 
+15. Marco EJ, Skuse DH. Autism-lessons from 
+the X chromosome. Soc Cogn Affect Neurosci 
+2006;1:183-93. 16. Kothur K, Ray M, Malhi P . Correlation of autism 
+with temporal tubers in tuberous sclerosis com -
+plex. Neurol India 2008;56:74-6. 
+17. Muhle R, Trentacoste SV, Rapin I. The genetics 
+of autism. Pediatrics 2004;113:e472-86. Available 
+from: http://www.pediatrics.aappublications.org/
+cgi/reprint/113/5/e472. [last cited on 2009 Jun 19].
+18. Bolton PF, Park RJ, Higgins JN, Griffiths PD, 
+Pickles A. Neuro-epileptic determinants of autism 
+spectrum disorders in tuberous sclerosis complex. 
+Brain 2002;125:1247-55. 
+19. Trottier G, Srivastava L, Walker CD. Etiology of 
+infantile autism: a review of recent advances in 
+genetic and neurobiological research. J Psychia -
+try Neurosci 1999;24:103-15. 
+20. Steiner CE, Acosta AX, Guerreiro MM, 
+Marques-de-Faria AP . Genotype and natural his -
+tory in unrelated individuals with phenylketon -
+uria and autistic behavior. Arq Neuropsiquiatr 
+2007;65:202-5. Available from: http://www.scielo.
+br/scielo.php?script=sci_arttextandpid=S0004-
+282X2007000200003andlng=enandnrm=isoandtlng=
+en. [last cited on 2009 Jun 19].
+21. Levy SE, Hyman SL. Complementary and alter -
+native medicine treatments for children with au -
+tism spectrum disorders. Child Adolesc Psychiatr 
+Clin N Am 2008;17:803-20. 
+22. Wakefield AJ, Murch SH, Anthony A, Linnell 
+J, Casson DM, Malik M, et al. Ileal-lymphoid-
+nodular hyperplasia, non-specific colitis and per -
+vasive developmental disorder in children. Lancet 
+1998;351:637-41. 
+23. Jansen VA, Stollenwerk N, Jensen HJ, Ram -REFERENCESreview AUTISM
+Ann Saudi Med 30(4) July-August 2010 www.saudiannals.net 300say ME, Edmunds WJ, Rhodes CJ. Measles out -
+breaks in a population with declining vaccine 
+uptake. Science 2003;301:804. 
+24. Kaye JA, del Mar Melero-Montes M, Jick H. 
+Mumps, measles, and rubella vaccine and the 
+incidence of autism recorded by general practitio -
+ners: a time trend analysis. BMJ 2001;322:460-3. 
+25. Madsen KM, Hviid A, Vestergaard M, Wohl -
+fahrt J, Thorsen P , Olsen J, et al. A population-
+based study of measles, mumps and rubella vacci -
+nation and autism. N Engl J Med 2002;347:1477-82. 
+26. Dales L, Hammer SJ, Smith NJ. Time trends 
+in autism and in MMR immunization coverage in 
+California. JAMA 2001;285:1183-5. 
+27. Taylor B, Miller E, Lingam R, Andrews N, Sim -
+mons A, Stowe J. Measles, mumps, and rubella 
+vaccination and bowel problems or developmen -
+tal regression in children with autism: population 
+study. BMJ 2002;324:393-6. 
+28. Institute of Medicine of National Academies 
+[Internet]. Immunization Safety Review: Vaccines 
+and Autism. Institute of Medicine of National 
+Academies: Immunization safety review commit -
+tee. Academies 2004. Available from: http://www.
+iom.edu/CMS/3793/4705/20155.aspx. [last cited on 
+2009 Jun 20].
+29. DeStefano F, Bhasin TK, Thompson WW, 
+Yeargin-Allsopp M, Boyle C. Age at first measles-
+mumps-rubella vaccination in children with autism 
+and school-matched control subjects: a popula -
+tion-based study in metropolitan Atlanta. Pediatr 
+2004;113:259-66. 
+30. Infectious Diseases and Immunization Com -
+mittee, Canadian Paediatric Society. Autistic 
+spectrum disorder: No causal relationship with 
+vaccines. Paediatr Child Health 2007;12:393-5. 
+Available from: http://www.pubmedcentral.nih.
+gov/picrender.fcgi?artid=2528717andblobtype=p
+df. [last cited on 2009 Jun 20].
+31. Hviid A, Stellfeld M, Wohlfahrt J, Melbye M. 
+Association between thimerosal-containing vac -
+cine and autism. JAMA 2003;290:1763-6. 
+32. Andrews N, Miller E, Grant A, Stowe J, Os -
+borne V, Taylor B. Thimerosal exposure in infants 
+and developmental disorders: a retrospective co -
+hort study in the United Kingdom does not support 
+a causal association. Pediatrics 2004;114:584-91. 
+33. Madsen KM, Lauritsen MB, Pedersen CB, 
+Thorsen P , Plesner AM, Andersen PH, et al. Thi -
+merosal and the occurrence of autism: Negative 
+ecological evidence from Danish population-
+based data. Pediatrics 2003;112:604-6. 
+34. Parker SK, Schwartz B, Todd J, Pickering 
+LK. Thimerosal-containing vaccines and autistic 
+spectrum disorder: a critical review of published 
+original data. Pediatrics 2004;114:793-804. 
+35. Johnson CP , Myers SM; American Academy 
+of Pediatrics Council on Children With Disabili -
+ties. Identification and evaluation of children 
+with autism spectrum disorders. Pediatrics 
+2007;120:1183-215. 36. Risi S, Lord C, Gotham K, Corsello C, Chrysler C, 
+Szatmari P , et al. Combining information from mul -
+tiple sources in the diagnosis of autism spectrum 
+disorders. J Am Acad Child Adolesc Psychiatry 
+2006;45:1094-103. 
+37. Baron-Cohen S, Wheelwright S, Cox A, Baird 
+G, Charman T , Swettenham J, et al. Early identifi -
+cation of autism by the CHecklist for Autism in Tod -
+dlers (CHAT). J R Soc Med 2000;93:521-5. 
+38. Wong V, Hui LH, Lee WC, Leung LS, Ho PK, 
+Lau WL, et al. A modified screening tool for au -
+tism (Checklist for Autism in Toddlers [CHAT-23]) 
+for Chinese children. Pediatrics 2004;114:e166-76. 
+Available from: http://www.pediatrics.aappublica -
+tions.org/cgi/reprint/114/2/e166. [last cited on 2009 
+Jun 19].
+39. Pereira A, Riesgo RS, Wagner MB. Childhood 
+autism: translation and validation of the childhood 
+autism rating scale for use in Brazil. J Pediatr (Rio 
+J)  2008;84:487-94. Available from: http://www.jped.
+com.br/conteudo/08-84-06-487/ing.pdf. [last cited 
+on 2009 Jun 20].
+40. Charman T , Baird G, Simonoff E, Loucas T , 
+Chandler S, Meldrum D, Pickles A. Efficacy of 
+three screening instruments in the identification 
+of autistic-spectrum disorders. Br J Psychiatry 
+2007;191:554-9. 
+41. Rutter M, Le Couteur A, Lord C. Autism Diag -
+nostic Interview-Revised. Los Angeles: Western 
+Psychological Services; 2003. 
+42. Lord C, Risi S, Lambrecht L, Leventhal BL, Di -
+Lavore PC, Pickles A, et al. The autism diagnostic 
+observation schedule-generic: a standard mea -
+sure of social and communication deficits associ -
+ated with the spectrum of autism. J Autism Dev 
+Disord 2000;30:205-23. 
+43. Akshoomoff N, Corsello C, Schmidt H. The Role 
+of the Autism Diagnostic Observation Schedule in 
+the Assessment of Autism Spectrum Disorders in 
+School and Community Settings. Calif School Psy -
+chol 2006;11:7-19. 
+44. Barton M, Volkmar F. How commonly are 
+known medical conditions associated with au -
+tism? J Autism Dev Disord 1998;28:273-8. 
+45. Scottish Intercollegiate Guidelines Network 
+(SIGN) 98. Assessment, diagnosis and clinical 
+intervention for children and young people 
+with autism spectrum disorders. A nation clini -
+cal guideline. 2007 July  Available from: http://
+www.sign.ac.uk/pdf/sign98.pdf. [last cited on 
+2009 Jun 19].
+46. Filipek PA, Accardo PJ, Baranek GT , Cook EH 
+Jr, Dawson G, Gordon B, et al. The screening and 
+diagnosis of autistic spectrum disorders. J Autism 
+Dev Disord 1999;29:439-84. 
+47. McCracken JT , McGough J, Shah B, Cronin P , 
+Hong D, Aman MG, et al. Risperidone in children 
+with autism and serious behavioral problems. N 
+Engl J Med 2002;347:314-21. 
+48. Canitano R, Scandurra V. Risperidone in the 
+treatment of behavioral disorders associated with autism in children and adolescents. Neuropsychi -
+atr Dis Treat 2008;4:723-30. 
+49. Barbaresi WJ, Katusic SK, Voigt RG. Autism: a 
+review of the state of the science for pediatric pri -
+mary health care clinicians. Arch Pediatr Adolesc 
+Med 2006;160:1167-75. 
+50. Ospina MB, Krebs Seida J, Clark B, Karkhaneh 
+M, Hartling L, Tjosvold L, et al. Behavioural and 
+developmental interventions for autism spectrum 
+disorder: a clinical systematic review. PLoS One. 
+2008;3:e3755. Available from: http://www.pubmed -
+central.nih.gov/picrender.fcgi?artid=2582449andbl
+obtype=pdf. [last cited on 2009 Jun 19].
+51. Ooi YP , Lam CM, Sung M, Tan WT , Goh TJ, Fung 
+DS, et al. Effects of cognitive-behavioural therapy 
+on anxiety for children with high-functioning 
+autistic spectrum disorders. Singapore Med J 
+2008;49:215-20. 
+52. Couper JJ, Sampson AJ. Children with autism 
+deserve evidence-based intervention. Med J Aust 
+2003;178:424-5. 
+53. Williams White S, Keonig K, Scahill L. Social 
+skills development in children with autism spec -
+trum disorders: a review of the intervention re -
+search. J Autism Dev Disord 2007;37:1858-68. 
+54. Sallows GO, Graupner TD. Intensive behav -
+ioral treatment for children with autism: four-
+year outcome and predictors. Am J Ment Retard 
+2005;110:417-38. 
+55. Nye C, Brice A. Combined vitamin B6-mag -
+nesium treatment in autism spectrum disorder. 
+Cochrane Database Syst Rev  2005;4:CD003497. 
+Available from: http://www.mrw.interscience.
+wiley.com/cochrane/clsysrev/articles/CD003497/
+frame.html. [last cited on 2009 Jun 19].
+56. Millward C, Ferriter M, Calver SJ, Connell-
+Jones GG. Gluten- and casein-free diets for au -
+tistic spectrum disorder. Cochrane Database Syst 
+Rev 2008;2:CD003498. Available from: http://www.
+mrw.interscience.wiley.com/cochrane/clsysrev/
+articles/CD003498/frame.html. [last cited on 2009 
+Jun 19].
+57. Baxter AJ, Krenzelok EP . Pediatric fatal -
+ity secondary to EDTA chelation. Clin Toxicol 
+2008;46:1083-4. 
+58. Rossignol DA, Rossignol LW, James SJ, Mel -
+nyk S, Mumper E. The effects of hyperbaric oxy -
+gen therapy on oxidative stress, inflammation, and 
+symptoms in children with autism: an open-label 
+pilot study. BMC Pediatr 2007;7:36. 
+59. Chungpaibulpatana J, Sumpatanarax T , Tha -
+dakul N, Chantharatreerat C, Konkaew M, Aroon -
+limsawas M. Hyperbaric oxygen therapy in Thai 
+autistic children. J Med Assoc Thai 2008;91:1232-8. 
+60. Rossignol DA, Rossignol LW, Smith S, Sch -
+neider C, Logerquist S, Usman A, et al. Hyperbaric 
+treatment for children with autism: a multicenter, 
+randomized, double-blind, controlled trial. BMC 
+Pediatr 2009;13:9:21. Available from: http://www.
+pubmedcentral.nih.gov/picrender.fcgi?artid=266
+2857andblobtype=pdf. [last cited on 2009 Jun 19].

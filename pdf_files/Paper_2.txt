@@ -1,0 +1,2078 @@
+CLINICAL REPORT
+Identiﬁcation and Evaluation of
+Children With Autism SpectrumDisorders
+Chris Plauche ´ Johnson, MD, MEd, Scott M. Myers, MD, and the Council on Children With Disabilities
+ABSTRACT
+Autism spectrum disorders are not rare; many primary care pediatricians care for
+several children with autism spectrum disorders. Pediatricians play an importantrole in early recognition of autism spectrum disorders, because they usually are theﬁrst point of contact for parents. Parents are now much more aware of the earlysigns of autism spectrum disorders because of frequent coverage in the media; iftheir child demonstrates any of the published signs, they will most likely raise theirconcerns to their child’s pediatrician. It is important that pediatricians be able torecognize the signs and symptoms of autism spectrum disorders and have astrategy for assessing them systematically. Pediatricians also must be aware of localresources that can assist in making a deﬁnitive diagnosis of, and in managing,autism spectrum disorders. The pediatrician must be familiar with developmental,educational, and community resources as well as medical subspecialty clinics. Thisclinical report is 1 of 2 documents that replace the original American Academy ofPediatrics policy statement and technical report published in 2001. This reportaddresses background information, including deﬁnition, history, epidemiology,diagnostic criteria, early signs, neuropathologic aspects, and etiologic possibilitiesin autism spectrum disorders. In addition, this report provides an algorithm to helpthe pediatrician develop a strategy for early identiﬁcation of children with autismspectrum disorders. The accompanying clinical report addresses the managementof children with autism spectrum disorders and follows this report on page 1162[available at www.pediatrics.org/cgi/content/full/120/5/1162]. Both clinical re-ports are complemented by the toolkit titled “ Autism: Caring for Children With
+Autism Spectrum Disorders :A Resource Toolkit for Clinicians ,” which contains screening
+and surveillance tools, practical forms, tables, and parent handouts to assist thepediatrician in the identiﬁcation, evaluation, and management of autism spectrumdisorders in children.
+INTRODUCTION
+Public and physician awareness of autism has increased markedly in the newmillennium because of increased media coverage and a rapidly expanding body ofknowledge published in professional journals. Professionals who specialize inautism have proliferated over the past 2 decades and have introduced the termi-nology “autism spectrum disorders” (ASDs) to reﬂect the broader spectrum ofclinical characteristics that now deﬁne autism.
+1,2ASDs represent 3 of the pervasive
+developmental disorders deﬁned in the Diagnostic and Statistical Manual of Mentalwww.pediatrics.org/cgi/doi/10.1542/
+peds.2007-2361
+doi:10.1542/peds.2007-2361
+All clinical reports from the American
+Academy of Pediatrics automatically expire5 years after publication unless reafﬁrmed,revised, or retired at or before that time.
+The guidance in this report does not
+indicate an exclusive course of treatmentor serve as a standard of medical care.Variations, taking into account individualcircumstances, may be appropriate.
+Key Words
+autism, autism spectrum disorders,Asperger syndrome, pervasivedevelopmental disorders, fragile Xsyndrome, joint attention, self-injuriousbehaviors, theory of mind,neuropathologic abnormalities
+Abbreviations
+ASD—autism spectrum disorderAD—autistic disorderDSM— Diagnostic and Statistical Manual of
+Mental DisordersAS—Asperger syndromePDD-NOS—pervasive developmentaldisorder–not otherwise speciﬁedPCP—primary care pediatricianAAP—American Academy of PediatricsIDEA—Individuals With DisabilitiesEducation ActMR—mental retardationGDD— global developmental delayADHD—attention-deﬁcit/hyperactivitydisorderFISH—ﬂuorescence in situ hybridizationMMR—measles-mumps-rubellaJA—joint attentionToM—theory of mindSLP—speech-language pathologistCHAT—Checklist for Autism in ToddlersM-CHAT, Modiﬁed Checklist for Autism inToddlersCAST—Childhood Asperger SyndromeTestEEG— electroencephalography
+PEDIATRICS (ISSN Numbers: Print, 0031-4005;
+Online, 1098-4275). Copyright © 2007 by theAmerican Academy of Pediatrics
+PEDIATRICS Volume 120, Number 5, November 2007 1183Guidance for the Clinician in Rendering
+Pediatric Care
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023Disorders, Fourth Edition (DSM-IV),3and the newer Diag-
+nostic and Statistical Manual of Mental Disorders, FourthEdition, Text Revision (DSM-IV-TR)
+4: autistic disorder
+(AD), Asperger syndrome (AS [this terminology will beused in this report, although “Asperger’s disorder” isused in the aforementioned publications]), and perva-sive developmental disorder–not otherwise speciﬁed(PDD-NOS). In addition to being a spectrum disorder,autism has wide variability with respect to the presenceand intensity of symptoms, even within the DSM-IV-TRcategories, which indicates that there may be additionalsubtypes.
+ASDs are not rare; many primary care pediatricians
+(PCPs) care for several children with ASDs. In fact, asurvey completed in 2004 revealed that 44% of PCPsreported that they care for at least 10 children withASDs; however, only 8% stated that they routinelyscreened for ASDs.
+5Another survey indicated that al-
+though PCPs were aware of the current DSM-IV-TRdiagnostic criteria, they sometimes held beliefs aboutASDs that were outdated.
+6It is critical that PCPs recog-
+nize the early signs of ASDs and be aware of new datathat support better outcomes in children whose condi-tions are diagnosed early and who participate in appro-priate intervention programs.
+7–11Because it is a chronic
+condition, the PCP also needs to feel comfortable withthe ongoing care of children with ASDs within the con-text of the medical home. To support PCPs in the iden-tiﬁcation and care of children with ASD, the AmericanAcademy of Pediatrics (AAP) has developed and distrib-uted several documents:
+●The “ Autism A .L.A.R.M.”12: a ﬂyer that highlights the
+prevalence of autism, the importance of screening andlistening to parents’ concerns, and the urgency ofmaking simultaneous referrals to specialists in ASDsand early intervention programs to promote improvedoutcomes.
+●“Is Your One -Year-Old Communicating With You? ”13:a
+brochure that focuses on early identiﬁcation of socialcommunication deﬁcits and behavior problems thatmay be associated with developmental disorders, pri-marily ASDs. This brochure is intended for distribu-tion to all parents of infants at the 9- or 12-monthwell-child visit. It encourages parents to share anyconcerns they have about their infant’s language de-velopment and social skills with the pediatrician asearly as possible.
+●“Understanding Autism Spectrum Disorders ”14: a 48-page
+introductory booklet for parents of children in whoman ASD has been diagnosed recently or is suspectedstrongly.
+In addition, the AAP has developed an ASD toolkit
+and resource guide to assist the PCP with implementa-tion of the principles discussed herein.Although ASDs are neurodevelopmental conditions
+with strong genetic underpinnings, their exact etiology isunknown. In 1943, Leo Kanner, a psychiatrist at JohnsHopkins University, ﬁrst described autism in a smallgroup of children who demonstrated extreme aloofnessand total indifference to other people.
+15In 1944, Hans
+Asperger, an Austrian pediatrician who was unaware ofKanner’s work, published an article
+16that described chil-
+dren who demonstrated symptoms similar to those ofKanner’s patients, with the exception that verbal andcognitive skills were higher. The term “infantile autism”ﬁrst appeared as a diagnostic label in the Diagnostic and
+Statistical Manual of Mental Disorders, Third Edition (DSM-
+III).
+17Since then, terminology has changed and diagnos-
+tic criteria have broadened.18Diagnostic criteria for AS
+were not included in the DSM until the fourth edition(DSM-IV). The most recent criteria for AD and AS (As-perger’s disorder) are found in the DSM-IV-TR
+4(Tables 1
+and 2, respectively). PDD-NOS, the remaining ASD, isdescribed in the DSM-IV-TR as a subthreshold diagnosticterm used when a child demonstrates severe and perva-sive impairments in reciprocal social skills associatedwith deﬁcits in language skills or with the presence ofstereotypic behaviors or restricted interests or activitiesbut does not meet full criteria for AD or AS. AlthoughRett syndrome and childhood disintegrative disorder areincluded in the DSM-IV-TR listings, they are not consid-ered ASDs but should be considered in the differentialdiagnosis of each child, depending on the presentingsigns and symptoms.
+EPIDEMIOLOGY
+Authors of studies published early in the new millen-nium concluded that the best estimate of current prev-alence of ASDs in Europe and North America is approx-imately 6 per 1000.
+19–27In 2000, the Centers for Disease
+Control and Prevention organized the Autism and De-velopmental Disabilities Monitoring Network, a multi-site, records-based surveillance program, to study theprevalence of ASDs. The network uses systematicscreening of developmental evaluation records for autis-tic behaviors rather than depending on a medical oreducational diagnostic label of an ASD. In 2007, thenetwork reported ASD rates for 8-year-old childrenranging from 1 in 303 to 1 in 94 for 2 time periods (2000and 2002) in a total of 14 sites in the United States; theaverage rate was 1 in 150 or 6.6 per 1000 8-year-olds.
+28–31Although these studies reﬂect a 10-fold increase
+from studies published a half-century ago that chieﬂytargeted AD alone, most of the newer studies also in-cluded individuals with AS and PDD-NOS. One of thefew studies that analyzed the prevalence in regard totype of ASD revealed that in Canada, where the overallrate was 6.5 per 1000, the individual rates were 2.2per 1000 for AD, 1.0 per 1000 for AS, and 3.3 per 1000for PDD-NOS.
+27Studies have varied in design, and
+1184 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023case-ascertainment strategies make comparisons difﬁ-
+cult.20–22,24,31–34
+With recent heightened public awareness, parents are
+more likely to raise a concern speciﬁcally about au-tism.
+35–37In addition, as screening tools and more reliable
+evaluation instruments have been developed, profes-sionals have become increasingly proﬁcient in recogniz-ing and diagnosing ASD. Apart from greater awarenessand better ascertainment, additional reasons for the ap-parent increase have been debated hotly in the lay me-dia; in fact, the publicized “autism epidemic” may be oneof the most challenging public health issues today.
+The prevalence of autism and, more recently, ASDs is
+closely linked to a history of changing criteria and diag-nostic categories. Autism ﬁrst appeared as a separate
+entity with speciﬁc criteria in the DSM-III in 1980.
+17In
+1987, the Diagnostic and Statistical Manual of Mental Disor-
+ders, Third Edition, Revised (DSM-III-R )38listed broadened
+AD criteria and the new subthreshold category of PDD-NOS, both of which promoted inclusion of milder cases.Later, these changes received criticism for being tooinclusive and for promoting overdiagnosis.
+39The DSM-
+IV3criteria published in 1994 reﬂected the result of years
+of analyses to reduce the overinclusiveness of the DSM-III-R criteria; however, it included AS for the ﬁrst time,which, in effect, broadened the range of disorders. Stud-ies have revealed that the DSM-IV criteria have betterspeciﬁcity (0.87) than DSM-III-R criteria.
+40The DSM-IV-TABLE 1 Diagnostic Criteria for 299.00: AD
+A. A total of six (or more) items from (1), (2), and (3), with at least two from (1), and one each from (2) and (3):
+(1) qualitative impairment in social interaction, as manifested by at least two of the following:
+(a) marked impairment in the use of multiple nonverbal behaviors such as eye-to-eye gaze, facial expression, body postures, and gestures to regulate social
+interaction
+(b) failure to develop peer relationships appropriate to developmental level(c) a lack of spontaneous seeking to share enjoyment, interests, or achievements with other people (eg, by a lack of showing, bringing, or pointing out objects of
+interest)
+(d) lack of social or emotional reciprocity
+(2) qualitative impairments in communication as manifested by at least one of the following:
+(a) delay in, or total lack of, the development of spoken language (not accompanied by an attempt to compensate through alternative modes of
+communication such as gesture or mime)
+(b) in individuals with adequate speech, marked impairment in the ability to initiate or sustain a conversation with others(c) stereotyped and repetitive use of language or idiosyncratic language(d) lack of varied, spontaneous make-believe play or social imitative play appropriate to developmental level
+(3) restricted repetitive and stereotyped patterns of behavior, interests, and activities, as manifested by at least one of the following:
+(a) encompassing preoccupation with one or more stereotyped and restricted patterns of interest that is abnormal either in intensity or focus(b) apparently inﬂexible adherence to speciﬁc, nonfunctional routines or rituals(c) stereotyped and repetitive motor mannerisms (eg, hand or ﬁnger ﬂapping or twisting, or complex whole-body movements)(d) persistent preoccupation with parts of objects
+B. Delays or abnormal functioning in at least one of the following areas, with onset before 3 years old: (1) social interaction, (2) language as used in s ocial
+communication, or (3) symbolic or imaginative play.
+C. The disturbance is not better accounted for by Rett’s Disorder or childhood disintegrative disorder.
+Reprinted with permission from American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR) . Washington, DC: American
+Psychiatric Publishing; 2000:75.
+TABLE 2 Diagnostic Criteria for 299.80: Asperger’s Disorder (Referred to as AS in This Report)
+A. Qualitative impairment in social interaction, as manifested by at least two of the following:
+(1) marked impairment in the use of multiple nonverbal behaviors such as eye-to-eye gaze, facial expression, body postures, and gestures to regulate social
+interaction
+(2) failure to develop peer relationships appropriate to developmental level(3) a lack of spontaneous seeking to share enjoyment, interests, or achievements with other people (eg, by a lack of showing, bringing, or pointing out objects of
+interest to other people)
+(4) lack of social or emotional reciprocity
+B. Restricted repetitive and stereotyped patterns of behavior, interests, and activities, as manifested by at least 1 of the following:
+(1) encompassing preoccupation with one or more stereotyped and restricted patterns of interest that is abnormal either in intensity or focus(2) apparently inﬂexible adherence to speciﬁc, nonfunctional routines or rituals(3) stereotyped and repetitive motor mannerisms (eg, hand or ﬁnger ﬂapping or twisting, or complex whole-body movements)(4) persistent preoccupation with parts of objects
+C. The disturbance causes clinically signiﬁcant impairment in social, occupational, or other important areas of functioning.D. There is no clinically signiﬁcant general delay in language (eg, single words used by 2 years old, communicative phrases used by 3 years old).E. There is no clinically signiﬁcant delay in cognitive development or in the development of age-appropriate self-help skills, adaptive behavior (o ther than in social
+interaction), and curiosity about the environment in childhood.
+F. Criteria are not met for another speciﬁc Pervasive Developmental Disorder or Schizophrenia.
+Reprinted with permission from American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR) . Washington, DC: American
+Psychiatric Publishing; 2000:75.
+PEDIATRICS Volume 120, Number 5, November 2007 1185
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023TR4criteria for AD and AS are unchanged; however, the
+text description of PDD-NOS was edited slightly to in-crease speciﬁcity. Collaboration with European groupsthat worked on the revised International Statistical Classi-
+ﬁcation of Diseases and Related Health Problems (10th edi-
+tion)
+41promoted better conformity between the 2 clas-
+siﬁcation systems.
+AD did not become a diagnosis for which children
+became eligible to receive special education services un-til passage of the Individuals With Disabilities EducationAct (IDEA) in 1990.
+42Before the IDEA was enacted,
+children were labeled as having conditions such as men-tal retardation (MR), learning disability, speech impair-ment, or emotional disturbance to obtain eligibility forservices.
+43Hence, after passage of the IDEA, the resulting
+increase in the number of children served under the ADcategory reﬂected both newly diagnosed young childrenentering the school system and older children who werepreviously eligible for special services under a differenteducational label. This reﬂects the phenomenon of “di-agnostic substitution,” whereby the number of childrenreceiving special education under other categories (pri-marily MR, speech impairment, and learning disabilities)has decreased over the same time period. In addition,some increase in prevalence may be attributable to in-accuracies in diagnosis for a number of reasons, includ-ing labeling biases when schools used less rigorous cri-teria than those needed for a DSM diagnosis,
+44–48 when
+educational funding trends inﬂuenced diagnosis,49
+and/or when parents of children with marginal criteriaadvocated for the AD label to qualify for supplementaryservices (eg, year-round schooling) described in theIDEA amendments.
+50,51The impact of these factors on
+current prevalence estimates has been controversial andillustrates the reason why educational administrativedata reported in some studies that receive media atten-tion should not be considered for epidemiologic stud-ies.
+47,48,52–56
+Just at the time when school eligibility laws were
+changing, the Americans With Disabilities Act of 199057
+was passed, obliging states to administer their programsin the most integrated settings appropriate to the needsof the person with disabilities. This was the culminationof a long series of state and federal legislation that pro-moted closure of institutions and encouraged govern-ments to support families in their efforts to raise theirchildren with disabilities at home. Thus, children withautism, especially those with comorbid MR and behaviorproblems who might have been institutionalized in thepast, began to attend community schools and to be“counted” in educational prevalence data.
+Other factors that may also be contributing to the
+perceived increase in prevalence include the recent iden-tiﬁcation of children with genetic disorders unrelated toASDs who also sometimes can meet criteria for an ASD,such as Down syndrome
+58,59and CHARGE (coloboma,heart disease, choanal atresia, retarded growth and de-
+velopment and/or central nervous system anomalies,genital anomalies and/or hypogonadism, and ear anom-alies and/or deafness) syndrome.
+60Finally, diagnosis of
+an ASD may be made in an older family member withmilder symptoms that were previously unrecognizeduntil after the diagnosis of a younger child.
+61
+Regardless of the study, the year conducted, or the
+reported rate of prevalence, more boys than girls areconsistently found to be affected with ASDs, with male-to-female ratios ranging from 2:1 to 6.5:1.
+24,28,29,34,62 The
+male-to-female ratio is even higher for high-functioningautism and AS, ranging from 6:1 to as high as 15:1.
+63(In
+recognition of these statistics and for the sake of brevity,this report uses masculine pronouns.)
+ETIOLOGY
+ASDs are biologically based neurodevelopmental disor-ders that are highly heritable.
+64Despite this fact, the
+exact cause still is unknown. Finding the cause has beendaunting because of genetic complexity and phenotypicvariation. ASDs are complex heritable disorders that in-volve multiple genes and demonstrate great phenotypicvariation. Estimates of recurrence risks, based on familystudies of idiopathic ASDs, are approximately 5% to 6%(range: 2%–8%) when there is an older sibling with anASD and even higher when there are already 2 childrenwith ASDs in the family.
+65–68
+In a minority of cases ( /H1102110%), ASDs may be associ-
+ated with a medical condition or a known syndrome.20,21
+Although ASDs are believed to be mainly genetic inorigin, environmental factors may modulate phenotypicexpression.
+64,69Advanced paternal age70,71and maternal
+age71,72have been shown to be associated with an in-
+creased risk of having offspring with ASDs, possibly be-cause of de novo spontaneous mutations and/or alter-ations in genetic imprinting. Environmental exposuresmay act as central nervous system teratogens in earlygestational life.
+73Some researchers have suggested that
+an epigenetic mechanism (heritable changes in geneexpression that occur without changes in DNA se-quence) may be responsible.
+74Thus, it has become more
+and more apparent that the etiology is multifactorialwith a variety of genetic and, to a lesser extent, envi-ronmental factors playing a role.
+75
+Two major strategies have been used in the search for
+the ASD genes: targeted cytogenetic/molecular studiesand whole-genome screens of families of children withASD.
+76–79The ﬁrst strategy depends on developing a hy-
+pothesis regarding the pathogenesis of ASDs, focusing ona potential candidate gene and testing it genetically foran association with ASDs. Candidate genes in ASDs in-clude, among others, those that seem to play a role inbrain development (eg, cerebellar Purkinje cell prolifer-ation) or neurotransmitter function (eg, serotonin).
+80
+The second strategy uses an indirect method and does
+1186 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023not require investigators to make assumptions regarding
+the mechanism of inheritance. Instead, families withmultiple members who demonstrate an ASD (multiplexfamilies) are studied to identify recurring DNA markers(break points, translocations, duplications, and dele-tions) present in affected members but not in unaffectedmembers. Unfortunately, progress in determining a ge-netic etiology using this method has been impaired,because the phenotypic end points of ASDs are not welldeﬁned. Changing DSM criteria and inconsistent ascer-tainment strategies, which results in a hazy delineationbetween affected versus unaffected family members, ob-scure outcomes and challenge interpretation of results.
+67
+This phenotypic heterogeneity has challenged molecularsearches for the ASD gene(s) despite several genome-wide screens of the International Molecular GeneticStudy of Autism Consortium and multicenter collabora-tive efforts over the past couple of decades.
+78,81–84 Al-
+though at least 1 autism-linked abnormality has beenfound on almost every chromosome, sites on a fewchromosomes (X, 2, 3, 7, 15, 17, and 22) seem to bemore promising than others.
+67,68,75,79,85–90 Maternally de-
+rived 15q duplications are common; depending on theinvestigator, yields vary from 1% to 10%,
+91with most in
+the range of 1% to 3%.92,93Patients with these duplica-
+tions may not display dysmorphic features, but theyoften have hypotonia and/or global developmental delay(GDD) and may develop seizures later. The abnormalitycan often be identiﬁed on high-resolution karyotypeanalysis. Other less common abnormalities have alsobeen reported.
+94
+Finally, the male predominance noted above also sug-
+gests a genetic role in the inheritance of autism. Severalgenetic processes can lead to male predominance, in-cluding causative genes located on the X chromosome(X-linked disorders) and imprinted genes, but the reasonfor male predominance in autism is not completely un-derstood.
+95
+In a discussion of etiology, subtyping ASDs as either
+idiopathic or secondary is helpful.67,79,95 For the purposes
+of this discussion, the term “idiopathic” ASDs refers tocases in which children meet criteria for ASDs but do nothave a comorbid associated medical condition known tocause ASDs. Most individuals with an ASD have theidiopathic type. Children with idiopathic ASDs demon-strate variable behavioral phenotypes, are somewhat lesslikely to have comorbid GDD/MR, and generally do nothave dysmorphic features that herald a recognizablesyndrome. Nevertheless, twin and family studies haverevealed that idiopathic ASDs are heritable and have arecurrence rate of 5% to 6%.
+67,94,95 The term “secondary”
+ASDs refers to cases with an identiﬁable syndrome ormedical disorder known to be associated with ASDs.Whereas earlier reviews reported that the proportion ofindividuals with ASDs who have a comorbid syndromeor medical condition was 10% to 20%,
+2,96–98 the propor-tion has decreased to less than 10% when using more
+recent data sets.79,89,95,99–101 In a meta-analysis of 23 epi-
+demiologic studies, Chakrabarti and Fombonne20,21 re-
+vealed that a recognizable condition was identiﬁed inonly 6% of those with a conﬁrmed ASD. The rate of
+coexisting MR (cognitive impairment associated with anIQ of /H1102170) in children with ASDs seemed to decrease
+from 90% before the 1990s to less than 50% after2000,
+28,29,34,35,102,103 possibly because of improved methods
+in testing intelligence in this population and to the in-creased awareness of children with ASD with milderfeatures and higher functioning. This trend is important,because coexisting severe MR, especially in the presenceof dysmorphic features, increases the likelihood of iden-tifying a known disorder.
+89,104–108 Neurogenetic syn-
+dromes that seem to play a causative role or otherwiseare associated with ASDs include, but are not limited to:
+●Fragile X syndrome109,110 : Fragile X syndrome is the
+most common known genetic cause of AD and of MRin males. The phenotype includes MR, macrocephaly,large pinnae, large testicles (particularly after pu-berty), hypotonia, and joint hyperextensibility. Iden-tifying a patient with fragile X syndrome is importantfor genetic counseling purposes, because the diagnosishas implications for other family members. Dependingon the prevalence of comorbid MR in study subjectswith ASD, the etiologic yield of fragile X syndrome–DNA testing has ranged from 0% to 8%, with a me-dian of approximately 3% to 4%.
+99,109,111 On the other
+hand, as many as 30% to 50% of individuals withgenetically conﬁrmed fragile X syndrome will demon-strate some characteristics of ASDs.
+102,110
+●Neurocutaneous disorders: Tuberous sclerosis112–116 is
+characterized by hypopigmented macules (sometimesrequiring a Wood’s lamp examination for visualizationin young children), ﬁbroangiomata, kidney lesions,central nervous system hamartomas, seizures, MR,and autistic and/or attention-deﬁcit/hyperactivity dis-order (ADHD)–like behaviors. Although tuberoussclerosis is a dominant disorder (with genes located at9q and 16p), most cases represent new mutations.Although it is the most common neurocutaneous dis-order, neuroﬁbromatosis is less likely to be associatedwith ASDs. It also is autosomal-dominant, with half ofcases representing new mutations of the neuroﬁbro-matosis 1 gene on 17q.
+117It is characterized by cafe ´a u
+lait macules and freckling in the axillary and inguinalregions, neuroﬁbromas, and ocular Lisch nodules. Al-though most patients have a benign course and nor-mal intelligence, a small subset of individuals have MRand behavioral features that are consistent with ASDs.
+●Phenylketonuria118: phenylketonuria now is a rare
+cause of ASDs and MR in the United States, because it
+PEDIATRICS Volume 120, Number 5, November 2007 1187
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023is preventable as a result of newborn screening and
+dietary intervention.
+●Fetal alcohol syndrome119: Children who are exposed
+to alcohol during gestation have an increased risk ofASDs in addition to other neurodevelopmental disor-ders.
+●Angelman syndrome93,94,120–123 : Angelman syndrome is
+associated with loss of the maternally expressed ubiq-uitin-protein ligase gene ( UBE3A ) on 15q through
+deletion, paternal uniparental disomy, or imprintingerrors. Children with Angelman syndrome presentwith GDD (and often are nonverbal), hypotonia inearly childhood, wide-based ataxic gait, seizures, andprogressive spasticity. Angelman syndrome associatedwith a deletion of 15q can be detected with ﬂuores-cence in situ hybridization (FISH) testing; however,when it results from uniparental disomy, methylationstudies are necessary.
+●Rett syndrome124–127 : Rett syndrome usually presents
+with a classic phenotype and should be considered inall females who demonstrate autistic-like regression,especially if they have microcephaly, seizures, andhand-wringing stereotypies. Retrospective videoshave revealed early subtle motor symptoms during theﬁrst year of life.
+128Now that it is possible to conﬁrm
+this diagnosis with DNA testing (methyl CpG-bindingprotein 2 [ MECP2 ]) in approximately 80% of cases, it
+has become apparent that there is a spectrum of se-verity, and some patients may present with atypicalfeatures including those consistent with ASDs. Rettsyndrome is much less common in males, and thepresentation is more varied. Some males die in infancyas a result of neonatal encephalopathy; others withcomorbid Klinefelter syndrome (as well as a few males[in isolated case reports] with a normal number of sexchromosomes) demonstrate more classic symp-toms.
+129,130
+●Smith-Lemli-Opitz syndrome131: Smith-Lemli-Opitz
+syndrome is a rare (1 in 20 000) autosomal-recessivedisorder caused by a metabolic error in cholesterolbiosynthesis. Although most patients present withmultiple congenital anomalies, failure to thrive, andMR, some may present with subtle physical featuressuch as webbing (syndactyly) of the second and thirdtoes, mild hypotonia, and autistic features. Recurrencerisk is 25%; thus, appropriate genetic counseling isimportant.
+Whether the aforementioned conditions play a direct
+or indirect etiologic role or simply are associated withASDs, they still represent a small minority of patientswith ASDs. Conversely, a few children with genetic syn-dromes that are characterized by features quite differentfrom ASDs also may meet DSM-IV-TR criteria. For ex-ample, recent studies have reported that 6% to 7% ofchildren with Down syndrome (typically characterized
+by relatively good social skills compared with those inother domains)
+59and almost 50% of children with
+CHARGE syndrome (associated with mutations of theCHD7 gene
+132) meet criteria for one of the ASDs.60There
+have also been a few isolated reports of a mitochondrialand/or metabolic abnormality (eg, carnitine deﬁciency)being associated with an ASD, but the signiﬁcance ofthese reports is not clear.
+133
+Increased and decreased levels of T lymphocytes, im-
+munoglobulins, and antibrain autoantibodies in the sys-temic circulation have been reported.
+134These have been
+observed chieﬂy in retrospective case studies of patientswith idiopathic ASDs, but systematic prospective studieshave conﬁrmed neither their existence nor their rele-vance.
+87Prospective studies have revealed that, except
+for a few individuals with recurrent infections, healthychildren with ASDs generally have normal immunefunction.
+135Some studies have reported increased rates
+of autoimmune disorders in families of children withASDs,
+136particularly in the mothers (eg, thyroid disor-
+ders137and psoriasis138); however, the relevance of these
+common disorders to ASDs in children is unknown.Furthermore, studies have shown no increase in auto-immune disorders of the central nervous system, andpatients with ASDs did not themselves exhibit autoim-mune disorders.
+139The contribution of possible immu-
+nologic dysfunction remains to be further deﬁned.
+Environmental Issues
+Regardless of the mechanism, a review of studies pub-lished in the past 50 years revealed convincing evidencethat most cases of ASDs result from interacting geneticfactors.
+67,95 However, the expression of the autism
+gene(s) may be inﬂuenced by environmental fac-tors.
+66,67,69,140 Although currently under investigation,
+these factors may represent a “second-hit” phenomenonthat primarily occurs during fetal brain development.That is, environmental factors may modulate alreadyexisting genetic factors responsible for the manifestationof ASDs in individual children.
+Prenatal Period
+Because many of the developmental brain abnormalitiesknown to be associated with ASDs occur during the ﬁrstand second trimesters of pregnancy,
+141,142 environmental
+factors (eg, teratogens, such as thalidomide and valproicacid)
+73are more likely to play a role in the fetus via
+maternal factors. It is possible that maternal illness (eg,rubella) during pregnancy plays a role.
+143,144 Recently,
+the possible association between fetal testosterone con-centration and certain autistic behaviors such as abnor-mal social relationships and restricted interests at 4 yearsof age was investigated.
+145
+1188 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023Perinatal Period
+The effects of birth weight, duration of gestation, andevents around the time of birth have been investigatedalso, but ﬁndings have not been consistent.
+72,146–152 A
+signiﬁcant association between term newborn encepha-lopathy and children later diagnosed with ASD was re-ported recently.
+72,150 Badawi et al150reported that 5% of
+survivors of newborn encephalopathy were diagnosedwith an ASD, which represented an almost sixfold in-crease compared with matched controls. This increasemay represent a genetically derived predisposition(which makes the infants vulnerable to both encepha-lopathy and ASD) or an independent mechanism.
+Postnatal Period
+Etiologic possibilities occurring after birth have beenproposed—in particular, measles-mumps-rubella (MMR)vaccine
+153 and mercury-containing vaccines.154–156
+In 2001, the Institute of Medicine157reviewed epidemi-
+ologic population-based studies and concluded thatthere was no evidence of a causal association betweenthe MMR vaccine and autism. Studies that examined theassociation between MMR vaccine and autism since thepublication of that review have supported this conclu-sion.
+27,95,103,158–161 Questions also have been raised about
+the effects of environmental mercury exposure (includ-ing mercury-containing vaccines) on brain developmentin ASDs and other developmental disabilities.
+154–156 Mer-
+cury, in its organic form, is a known neurotoxin withneurologic sequelae, including motor impairment andvisual and intellectual deﬁcits, depending on the age atexposure and the type of mercury. There is no evidenceto date that children with neurodevelopmental disabili-ties, including autism, in the United States have in-creased mercury concentrations or environmental expo-sures.
+162Using large data sets from the United States,
+Sweden, and Denmark, to date, no consistent associa-tion has been found between thimerosal-containing vac-cines and neurodevelopmental outcomes or prevalenceof ASDs.
+27,95,162–164 Despite evidence to the contrary, a
+recent survey of parents of children with ASDs revealedthat 54% believed that their child’s ASD was caused byimmunizations; 53% thought it was caused by genet-ics.
+165
+Although the previous discussion reveals the wide
+variety of conditions known to be associated with ASDs,currently, an etiologic investigation of the individualchild with an ASD infrequently identiﬁes a known causein the absence of GDD/MR, dysmorphic features, a pos-itive family history, and/or a focal neurologic examina-tion.
+2,20,21,89,101,106–108
+NEUROPATHOLOGY AND NEUROIMAGINGIn recent years, intense research efforts have focused onelucidating the neurobiological basis of ASDs. A growingbody of evidence from neuropathology and neuroimag-ing studies indicates that there are fundamental differ-
+ences in brain growth and organization in people withASDs that have their origin in the prenatal period butextend through early childhood and into adulthood.
+Neuropathologic studies of brain tissue from people
+with autism have revealed several abnormalities
+166–171
+including:
+●reduced numbers of Purkinje cells in the cerebellum;
+●abnormal maturation of the forebrain limbic system,
+including reduced neuronal size, increased cell-pack-ing density, and decreased complexity of the neuropil(ie, the complex net of axonal, dendritic, and glialbranching in which the nerve cell is embedded);
+●abnormalities in frontal and temporal lobe cortical
+minicolumns, which are more numerous, smaller, andless compact in their cellular conﬁguration and dem-onstrate reduced neuropil space in the periphery
+167;
+●developmental changes in cell size and number in the
+nucleus of the diagonal band of Broca, deep cerebellarnuclei, and inferior olive; and
+●brainstem abnormalities and neocortical malforma-
+tions (eg, heterotopias).171
+The most consistent neuropathologic ﬁndings suggest
+pathology that arises in utero. The association of in-creased risk of ASDs associated with prenatal exposureto teratogens, such as thalidomide and valproic acid,suggests that early insults during critical periods of braindevelopment (as early as 20–24 days after conception inthe case of thalidomide) may be sufﬁcient to causeASDs.
+171However, all of these neuropathologic ﬁndings
+are based on detailed study of a relatively small numberof brains, and further investigation is required. Limitedavailability of brain tissue from people with well-char-acterized ASDs and age-matched controls has impededneuropathologic investigations. Efforts to remedy thisare underway with the establishment of the AutismTissue Project (1-800-272-4622 [for physicians] or1-877-333-0999 [for families]; www.memoriesofhope.org).
+168
+Kanner, in his initial clinical description of autism,
+noted large head size in several of his patients.15In-
+creased head circumference has since been shown to bea common physical ﬁnding in children with ASDs, and20% to 30% have macrocephaly, deﬁned as a headcircumference that measures more than 2 SDs above themean.
+172,173 MRI studies have supported the ﬁnding of
+increased brain volume in children with ASDs, with90% of toddlers with ASDs having larger-than-normalbrain volumes in 1 study.
+174,175 Postmortem brain
+weights also are increased.166Children later diagnosed
+with an ASD have been shown, as a group, to haveaverage or below-average head circumference at birth,with acceleration in brain growth during the ﬁrst year of
+PEDIATRICS Volume 120, Number 5, November 2007 1189
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023life, leading to above-average head circumference or
+overt macrocephaly.176,177 Fewer adults with ASDs have
+been found to exhibit increased brain size comparedwith controls, indicating that there may be decelerationof brain growth at some point beyond early child-hood.
+176,178,179 It is interesting to note that increased blood
+concentrations of brain-derived neurotrophic factor andseveral other neurotrophins have been detected in new-born infants who are later diagnosed with ASDs.
+180This
+ﬁnding, if replicated, may have implications regardingthe mechanism of early brain overgrowth. Age-relateddifferences in serotonin synthesis capacity also havebeen demonstrated between children with ASDs andchildren in control groups,
+181which leads to speculation
+regarding the neurotrophic role of serotonin in abnor-mal brain growth and organization in children withASDs.
+In addition to whole-brain volume differences, spe-
+ciﬁc regional gray- and white-matter volumetric differ-ences have been described. The frontal, limbic, basalganglia, and cerebellar regions have been implicatedmost consistently.
+172,182–184 Abnormalities in sulcal and
+gyral anatomy have been found by using surface-map-ping techniques.
+185,186 The regional gray- and white-mat-
+ter volume differences also seem to be age related, al-though larger cross-sectional studies and longitudinalstudies are needed to clarify the meaning of these ﬁnd-ings.
+A variety of functional MRI studies during cognitive
+tasks or in response to visual or auditory stimuli suggestthat individuals with ASDs use different cognitive strat-egies and, in some cases, different brain areas to processcertain types of information.
+182,187 For example, func-
+tional neuroimaging techniques have indicated the pres-ence of abnormalities in face recognition and executivefunctioning in adults with high-functioning ASDs.
+188Hy-
+poactivation of the fusiform gyrus in face-recognitiontasks has been one of the most consistent ﬁndings
+187and,
+in concert with abnormalities in amygdala activation,may relate to the abnormalities in gaze ﬁxation that areseen in people with ASDs.
+189Functional MRI evidence
+has also been used to postulate impaired “connectivity”between various cortical regions in the brains of peoplewith ASDs.
+190–192 Most recently, some investigators have
+attempted to explain deﬁcits in empathy, imitation, andlanguage as abnormalities in the functioning of mirrorneuron systems.
+193These systems are a newly discovered
+subset of cells found in several areas of the brain thatseem to ﬁre when an individual simply observes anoth-er’s actions—that is, it seems they directly reﬂect actionsperformed by another in the observer’s brain. They alsomay play a role in the ability to recognize and empathizewith or “mirror” the feelings of others. These functionalbrain differences provide intriguing links between theneuroanatomical substrate and the characteristic clinicalfeatures of people with ASDs.Although neuroimaging research has identiﬁed volu-
+metric and other abnormalities in groups of patients withASDs compared with controls, a reliable marker has notbeen identiﬁed, and routine clinical neuroimaging forindividuals with ASDs is not recommended.
+106,107,183,194
+CLINICAL SIGNSWhereas severe social skills deﬁcits and restricted, repet-itive, and stereotyped patterns of behavior, interests, andactivities are core features of all ASDs, signiﬁcant lan-guage delays are characteristic of only AD and PDD-NOS.
+3,4One of the most challenging aspects in recogniz-
+ing ASDs is the wide heterogeneity of features inindividual children. There is no pathognomonic feature;however, a few of the early social deﬁcits (eg, delayed orabsent joint attention [JA]) seem to be fairly reliable redﬂags for ASDs. The autism spectrum encompasses anextremely heterogeneous phenotype with indistinct endpoints, especially at the mild end of the spectrum. Theseverity of each of the core deﬁcits varies signiﬁcantlyamong children with ASDs.
+Although the social deﬁcits occur earlier and may be
+more speciﬁc, they can be subtle and less often recog-nized or articulated by parents. Speech delays usuallyprompt parents to raise concerns to their child’s PCP.Most parents become concerned between 15 and 18months of age but may delay discussing their concernswith their child’s physician for several months.
+35,195–198
+Recently, the media and public agencies have raisedpublic awareness about the importance of recognizingthe early signs, including those present during the ﬁrstyears of life. This being the case, it is anticipated thatparents may begin to voice concerns to their infant’spediatrician earlier and that these concerns may nowtarget the often earlier-appearing social deﬁcits. Presen-tations can differ widely from one child to the next;some are perceived by parents as “different” during theﬁrst few months of life, others present with delayedspeech development during the second year of life, andstill others may appear to be normal only to regress andlose skills after the ﬁrst year of life.
+199,200 AS in children
+may go unnoticed until they are of school age, whenteachers notice difﬁculties with peer interactions. Ex-panded reviews regarding early signs are available.
+201–203
+Social Skills DeﬁcitsAlthough more speciﬁc than language deﬁcits, socialdeﬁcits appearing in the ﬁrst 2 years of life often haveescaped parent recognition.
+204–206 Children with ASDs
+universally demonstrate deﬁcits in social relatedness de-ﬁned as the inherent drive to connect with others andshare complementary feeling states.
+207Children with
+ASDs often do not appear to seek connectedness; theyare content being alone, ignore their parents’ bids forattention, and seldom make eye contact or bid for oth-ers’ attention with gestures or vocalizations. In later
+1190 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023years, they have difﬁculty sharing the emotional state of
+others in cooperative games and group settings and mayhave few, if any, friends.
+Deﬁcits in JA seem to be one of the most distinguish-
+ing characteristics of very young children withASDs.
+198,208–216 JA is a normal, spontaneously occurring
+behavior whereby the infant shows enjoyment in shar-ing an object (or event) with another person by lookingback and forth between the two. Later, gestures and/orspeech also can be used to engage another’s attentionwith regard to the objects and events simply for theenjoyment of sharing the experiences. Just like otherdevelopmental skills, development of JA skills is step-wise; it occurs in stages beginning in the ﬁrst few monthsof life. Similar to language skills, receptive JA skills usu-ally are mastered before expressive ones. JA begins withjoyous smiling in recognition of and response to a parentor familiar caregiver’s smiles and vocalizations. At ap-proximately 8 months of age, an infant will follow theparent’s gaze and look in the same direction when aparent looks away (ie, to check the time). Children beginto “follow a point” at approximately 10 to 12 months ofage. If a parent points in the direction of an interestingobject or event and says, “Look!” the typically develop-ing child will look in the intended direction and then,after seeing the object/event, look back at the parent inacknowledgment and shared expression. Infants withASD may not follow a point, even when one tries re-peatedly in a loud voice calling their name or uses phys-ical prompts, such as touching the child’s shoulder be-fore pointing.
+204They may look in the indicated direction
+eventually, but this is not followed by shared lookingand expression.
+At approximately 12 to 14 months of age, the typi-
+cally developing child will begin himself to initiate apoint, at ﬁrst to request a desired object that is out ofreach and, a couple of months later, to draw the parent’sattention to share an interesting object, person, or event.Depending on his speech skills, he may utter simplesounds (“uh”) or actual words while pointing. Pointingto request an object is called “protoimperative pointing.”Deﬁcits vary, as some children with ASDs may makerudimentary pointing efforts by opening and closingtheir hand while it is raised in the direction of the desireditem but without any back-and-forth looking between itand the caregiver. Another frequent strategy is to takethe parent’s hand to lead him or her to the object. At 14to 16 months of age, the typically developing child willbegin to point simply to “comment” about or “share” aninteresting object/event (which is called “protodeclara-tive pointing”). As he points, he will look alternativelybetween the object/event of interest and the parent. It isthe shared social experience, not the tangible object/event, that the child seeks. Children with ASDs consis-tently fail to point to “comment” at age-appropriatetimes, and when they do, they are less likely to showpositive affect and connectedness during the act. Some
+high-functioning children with ASDs may point to labelobjects, shapes, and colors that they have learned in arote fashion, but this often is done without any intent ofcommunicating in a social context and is not consideredJA. Mastery of JA seems to be necessary for functionallanguage development; in fact, mastery of protodeclara-tive pointing seems to be a reliable predictor of func-tional language development within 1 year.
+7,217–219 JA
+skills progress to involve ongoing back-and-forth bids forattention and social interactions with multiple emo-tional expressions, sounds, words, and other gestures.
+Orienting to social stimuli—in particular, turning
+consistently to respond to one’s own name—is an earlyskill (8–10 months of age) that often is deﬁcient inchildren with ASDs.
+215,220 However, it is not speciﬁc to
+children with ASDs, because children with hearing im-pairments also may fail to orient to their name. In fact,parents of children later diagnosed with ASDs often raisea concern about hearing. Hearing seems “selective” inthat children with ASDs may hear and attend well toenvironmental sounds but not to human voices.
+221Social
+referencing222is the ability to recognize the emotional
+states of others as they respond to various stimuli. Whenfaced with a novel situation, a typically developing in-fant might look to his mother for an indication of de-light, anger, or fear in her facial expression. His facialexpression then usually will mimic hers, although hemay not fully understand the situation. A child with anASD engages in less imitation.
+223
+Because children with ASDs lack fundamental social
+skill building blocks, they may be less likely to developappropriate peer relationships according to age and lan-guage ability. They may have few or no friends, and whenthey do, the relationships may evolve around the child’sown special interests. Another factor that impedes lastingfriendships is impaired central coherence or the inability tointerpret stimuli in a global way.
+224,225 Instead, they focus
+on the parts, make less use of context, and miss the “bigpicture,” which makes social interactions challenging. Theyalso have difﬁculties understanding the perspective of oth-ers or lack “theory-of-mind” (ToM) skills. ToM is theawareness that others have thoughts and emotions that areindependent from one’s own; it is the ability that allowsone to infer states of mind on the basis of external behav-ior.
+226,227 Typically developing children begin to have some
+sense of mental states of others by 4 years of age.197,228,229
+Because of ToM impairments, children with ASDs havedifﬁculties with empathy, sharing, and comforting. Baron-Cohen
+230coined the term “mindblindedness” when refer-
+ring to persons with ASDs who demonstrate severe ToMdeﬁcits.
+Communication Deﬁcits
+Most children who are later diagnosed with AD andPPD-NOS present to their PCP with “speech delay,” al-
+PEDIATRICS Volume 120, Number 5, November 2007 1191
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023though this may change as parents are becoming more
+aware of social milestones. As noted previously, mostparents sense something is wrong by the time the childis 18 months old.
+195–198 Lack of speech has been consid-
+ered a hallmark of AD, especially when it is associatedwith the lack of desire to communicate and lack ofnonverbal compensatory efforts such as gestures. How-ever, children with milder symptoms, especially thosewith normal cognitive skills, may have some speech.Their speech may not be functional or ﬂuent and maylack communicative intent. It can be scripted (from fa-vorite videos or television programs) and stereotypic.Echolalia, sometimes called “parroting,” is the repetitionof another person’s speech. Echolalia is classiﬁed as “im-mediate” when the child repeats vocalizations promptlyafter hearing them or “delayed” when there is a timelapse (hours, days, weeks). Typically developing childrenpass through a “vocabulary-burst stage,” when brief pe-riods of immediate echolalia are not unusual.
+197On the
+other hand, echolalia in children with ASDs may persistthroughout the life span and consist of a mixture ofimmediate and delayed varieties. Utterances of childrenwith ASDs may be more clearly articulated, have a moremonotone quality, and/or consist of larger verbal“chunks” (ie, entire television advertisement jingles,video reenactments, or recitations of nursery rhymes)than those of typically developing children. Sometimes,echolalia may even give the impression of “advanced”speech because of sophisticated vocabulary, grammar,and syntax. The clinician should be careful to differen-tiate between typical and autistic echolalia; usually, aformal evaluation by a speech-language pathologist(SLP) is needed. Such an assessment also may reveal adissociation between these “advanced” expressive skillsand delayed receptive ones in that the child may beunable to follow simple 1-step commands, which is a 12-to 14-month-old skill. Some parents will note that theirchild seems overly “independent” because, rather thanask for desired objects, he uses advanced motor skills toobtain them himself (ie, moving a stool to a counter topto obtain an object at an age younger than typicallyexpected). Some children with ASDs become quiteskilled at rotely labeling colors, shapes, numbers, andletters of the alphabet, yet they are unable to point tothem when asked to do so by another or incorporate thelabels into functional language. A few may later develophyperlexia or advanced verbal reading without corre-sponding comprehension skills.
+Some children with ASDs say “pop-up words” with-
+out any apparent stimulus or communicative intent.They are spontaneous and inconsistent, although some-times they may occur during acutely stressful situations.These words are said out of context for a short period oftime (days or weeks) and then, as suddenly as theymight pop up for no apparent reason, they disap-pear.
+197,119 Children with ASDs also may develop “lan-guage” in overlearned or gestalt phrases that are ac-
+quired and spoken almost as a single “giant-word” (ie,Whatisit? Idontknow). At the same time, they are un-able to combine words in novel or original phrases orsentences that convey true meaning.
+Although lack of speech, scripted speech, parroting
+without communicative intent, and pop-up and giantwords are common classic presentations, earlier pre-speech deﬁcits often exist that, if detected, could facili-tate earlier diagnosis.* These deﬁcits include:
+●lack of appropriate gaze;
+●lack of warm, joyful expressions with gaze;
+●lack of the alternating to-and-fro pattern of vocaliza-
+tions between infant and parent that usually occurs atapproximately 6 months of age (ie, infants with ASDsusually continue vocalizing without regard for theparent’s speech);
+●lack of recognition of mother’s (or father’s or consis-
+tent caregiver’s) voice;
+●disregard for vocalizations (ie, lack of response to
+name), yet keen awareness for environmental sounds;
+●delayed onset of babbling past 9 months of age;
+●decreased or absent use of prespeech gestures (wav-
+ing, pointing, showing);
+●lack of expressions such as “oh oh” or “huh”;
+●lack of interest or response of any kind to neutral
+statements (eg, “Oh no, it’s raining again!”)
+The AAP brochure “ Is Your One-Year-Old Communicat-
+ing With You? ”13was developed to help raise parent and
+physician awareness of these earlier social communica-tion milestones and to promote recognition of symptomsof ASDs before 18 months of age.
+Regression
+Approximately 25% to 30% of children with ASDs beginto say words but then stop speaking, often between theages of 15 and 24 months.
+199,200,208 Regression of skills in
+children with ASDs may also include loss of gesturalcommunication (wave, point, etc) and social skills (eg,eye contact and response to praise) or a combination ofboth. Regression can be gradual or sudden, and it may besuperimposed on subtle preexisting developmental de-lays or atypical development, such as an unusually in-tense interest in objects or other nonsocial stimuli duringthe ﬁrst year of life.
+205Although it may be tempting to
+attribute regression to environmental stressors (eg, birthof a new sibling or a move to a new house), this resultsin a delay in diagnosis. Regression is a well-documentedhallmark of ASDs and should always alert the PCP toconsider ASDs.
+*Refs 197, 204, 213, 214, 219, and 222.
+1192 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023Asperger Syndrome
+Children with AS may have mild or limited speech de-lays (see the DSM-IV-TR
+4criteria in Table 2) and escape
+recognition until preschool or early school age, whentheir inability to make friends becomes a concern. Al-though often unnoticed, language development usuallyis atypical. Children with AS often are quite verbal abouta certain topic of interest, but they are unable to expresssimple feelings or recognize the feelings and viewpointsof others. Speech may be ﬂuent but limited to only a fewtopics, typically those that hold a strong, all-consuminginterest for the child. Speech also can be overly formal(pedantic), which is a reason why children with ASsometimes are described as “little professors.”
+227Children
+with AS also have deﬁcits in the social use of language(pragmatics): how to choose a topic of conversation;understanding and producing appropriate tempo, facialexpression, and body language during conversation;turn taking; recognizing when the partner has lost in-terest in a topic; knowing when to start, sustain, and enda conversation on the basis of listener cues; knowingwhen and how to repair a communication breakdown;and using the appropriate degree of formality and po-liteness.
+197,227 Children with AS especially have difﬁculty
+sustaining a conversation on a topic that is initiated byanother. Language may seem odd, self-centered, and notlistener responsive and results in a monotone mono-logue. They may demonstrate unique delivery of speech(prosody) in regard to intonation, volume, rhythm,pitch, and personal space that also tends to disregardlistener needs. Children with AS may have difﬁcultywith abstract reasoning and discussion of thoughts andopinions of others. Inability to discern and judge theconversational intents of others, especially when theirconversation includes words or phrases with ambiguousmeanings, impairs their ability to understand metaphors,humor, teasing idioms, irony, lies, jokes, and fauxpas.
+226,227,229 Older children with high-functioning AD or
+PDD-NOS and ﬂuent speech also may demonstrate someof the above-mentioned language characteristics.
+Play Skills
+Lack of, or signiﬁcantly delayed, pretend play skills cou-pled with persistent sensory-motor and/or ritualisticplay are characteristic of ASDs. Some children with se-vere ASDs may never progress past the sensory-motorplay stage. They mouth, twirl, bang, and manipulateobjects in a stereotypic or ritualistic manner. The play ofchildren with ASDs often is repetitive and lacks creativ-ity and imitation.
+3,4Typical examples include spinning
+the wheels or lining up cars instead of “driving” them,arranging crayons instead of coloring with them, orstacking blocks in the same sequence time after time.Often they prefer to play with common objects (string,sticks, rocks, or ballpoint pens) rather than store-boughttoys with the exception of trains or characters fromfavorite videos and television shows. Puzzles, especially
+shape-matching ones and computerized “puzzle games,”also are quite popular.
+222Children with ASDs often are
+content to play alone for hours, requiring little attentionor supervision. Often this “play” is either constructive(puzzles, computer games, and blocks), ritualistic (liningobjects up or sorting/matching shapes or colors) or sen-sory-motor (mouthing, banging, twirling) in nature.Children with ASDs may seem to enjoy chase games androughhousing, but it is often the sensory-motor aspectsof these activities, rather than their social aspects, thatare enjoyable. They have trouble interacting in groupsand cooperating in the social rules of more sophisticatedgames. Often they are left out, ignored, and at high riskof being victimized and bullied by peers.
+231
+Restricted, Repetitive, and Stereotyped Patterns of Behavior,Interests, and ActivitiesChildren with ASDs can demonstrate atypical behaviorsin a variety of areas including peculiar mannerisms,unusual attachments to objects, obsessions, compul-sions, self-injurious behaviors, and stereotypies. Stereo-typies are repetitive, nonfunctional, atypical behaviorssuch as hand ﬂapping, ﬁnger movements, rocking, ortwirling.
+3,4,203 Although most stereotypies are harmless,
+they are problematic in that they may prevent the childfrom accomplishing a task or learning new skills. Al-though stereotypies are distinctive and obvious, they arenot speciﬁc to children with ASDs, because many chil-dren with profound MR and/or severe sensory deﬁcitsalso demonstrate stereotypies. Even typically developingtoddlers, especially before the onset of ﬂuent language,may ﬂap their arms brieﬂy when they are excited orfrustrated. Stereotypies associated with ASDs often donot appear until after 3 years of age
+232and commonly
+manifest as ﬁnger ﬂicking, unusual eye gazing, habitualtoe walking, and/or persistent snifﬁng and licking ofnonfood items.
+Although most children, at some time during their
+early development, form attachments with a stuffed an-imal, special pillow, or blanket, children with ASDs mayprefer hard items (ballpoint pens, ﬂashlight, keys, actionﬁgures, etc). Moreover, the attachment is more persis-tent, in that they may insist on holding the object at alltimes, although these are rarely, if at all, used in real“play.” Whereas younger children with ASDs may haverestricted interests in regards to objects, the restrictedinterests in those with AS more often relate to topics andfacts.
+227For example, rather than carrying a toy train at
+all times, there is an obsession with train schedules.Sometimes the item/topic of interest may be typical forany child, but it is the degree of interest that is abnormal.For example, similar to typically developing children, achild with an ASD may be fascinated with dinosaurs, buthe knows far more details about them and persists inplaying or discussing them to the exclusion of all else.
+PEDIATRICS Volume 120, Number 5, November 2007 1193
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023Perseveration, or continuation of speech or play to an
+exceptional degree or beyond a desired point, is commonin children with ASDs. Children with ASDs may protestvigorously when forced to transition from an activity ortopic of interest or when a usual routine is changed.Without warning, these protests may quickly escalate tosevere and prolonged temper tantrums characterized byaggression or self-injurious behaviors.
+Self-injurious behaviors (head banging, skin picking,
+eye poking, hand biting) are stereotypies that may causebodily harm and are more common in children withsevere GDD/MR (intellectual disabilities) or ASDs withcomorbid GDD/MR.
+233Self-injurious behaviors may be
+precipitated by frustration during unsuccessful commu-nication attempts, transitions, anxiety in new environ-ments, boredom, depression, fatigue, sleep deprivation,or pain. The presence of self-injurious behaviors, aggres-sion, and other extreme behaviors may prevent the childfrom participating in integrated activities in the commu-nity with typically developing peers and cause signiﬁcantfamily stress.
+Additional Coexisting Conditions That Are Not Core Features
+in the DSM-IV-TR
+Cognitive Abnormalities (GDD/MR or Intellectual Disability,
+Learning Differences, and Splinter/Savant Skills)The prevalence of comorbid GDD/MR or intellectualdisability (the appropriate term depends on age andavailability of both a standardized IQ score and a formalassessment of adaptive skills) with ASDs was estimatedto be approximately 90% before 1990.
+62On the basis of
+later studies published in the 1990s, consensus guide-lines reported the prevalence as approximately 70% to75%.
+1,2,106,107,234 Prevalence studies published in the new
+millennium have reported rates of ASDs with comorbidGDD/MR of just under 50%,
+28,29,34,103 whereas 2 English
+studies reported rates as low as 26% to 29%.20,21Better
+ascertainment of children without cognitive deﬁcits (inparticular AS, which by deﬁnition is characterized bynormal intelligence), improved professional training,and more effective strategies/tools for evaluating cogni-tive abilities in children with ASDs all may contribute tothe decreasing prevalence of comorbid GDD/MR.
+One unique characteristic of ASDs is the “uneven-
+ness” of skills. Abilities may be signiﬁcantly delayed insome areas of development yet “advanced” in others,often because of exceptional focusing, memory, calcula-tion, music, or art abilities.
+235They may be labeled as
+“splinter skills” when they serve no purpose in day-to-day life and do not improve functional outcomes. Rarely,highly developed talents or savant skills may promote avocation that provides ﬁnancial independence and, oc-casionally, national recognition.
+236–238Sensory-Motor Symptoms
+Although sensory symptoms (eg, hyperacusis) are morefrequent and prominent in children with ASDs, there isno evidence that sensory symptoms differentiate chil-dren with ASDs from children with other developmentaldisabilities.
+239Children with ASDs may demonstrate si-
+multaneous hyposensitivities and hypersensitivities forstimuli within the same sensory modality.
+240For exam-
+ple, they may seem overly sensitive to certain environ-mental noises but lack response to human voice, or theymay visually inspect the details of an object but notnotice the comings and goings of other people in theroom. Others may have oral aversions and/or total-body“tactile defensiveness” to soft touch (fabric bumps onsocks and sweatshirts) or hugs yet be insensitive topain.
+241Sensory factors related to food, such as texture,
+color, and taste, may lead to highly restricted diets. Moreresearch is needed to operationalize the concept of sen-sory integration and possible interventions and deﬁne itsrole in ASDs.
+In addition to unusual motor stereotypies that serve
+as deﬁning characteristics of ASDs discussed previously,some children with ASDs also may demonstrate atypicalmotor development, poor coordination, or deﬁcits inpraxis (motor planning, execution, and sequencing).
+240
+Some investigators believe that, although not a deﬁningcharacteristic by DSM standards, motor clumsiness is adistinguishing characteristic of AS.
+86,242 Finally, some
+children may appear to be “hyperactive” and motordriven with an exterior focus of attention and actuallymeet criteria for comorbid ADHD (although currentDSM-IV-TR criteria exclude making the diagnosis ofADHD in the presence of an ASD).
+8,240,243 Other children
+may be hypoactive and withdrawn and have an interiorfocus of attention.
+240
+In summary, ASDs are characterized by a broad array
+of clinical features; some are more speciﬁc to ASDs thanothers (JA deﬁcits versus stereotypies). Familiarity withthe early social and preverbal communication deﬁcitswill help the PCP recognize ASDs earlier, which should,in turn, facilitate the prompt initiation of appropriateinterventions.
+SURVEILLANCE AND SCREENING
+Because the prevalence of ASDs is approximately 6 to 7per 1000 in the United States,
+28,29 PCPs are likely to
+provide care for children with ASDs. Early identiﬁcationof ASDs is important, because it allows early interven-tion, etiologic investigation, and counseling regardingrecurrence risk. The medical home is an important set-ting for surveillance and screening to detect ASDs andother developmental disorders. In the past, it was notunusual for parents’ initial concerns to be dismissed andfor diagnosis and intervention to be delayed.
+195,196,244,245
+In a recent study in metropolitan Atlanta, Georgia, themean age of the ﬁrst evaluation for 115 8-year-old chil-
+1194 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023dren with ASDs was 48 months, and the mean age of the
+ﬁrst ASD diagnosis was 61 months.35
+The goal of this clinical report is to help pediatricians
+identify children at an earlier age who are at risk of anASD. An ASD-speciﬁc surveillance and screening algo-rithm (Fig 1) has been developed to facilitate the iden-tiﬁcation process. It builds on the developmental surveil-lance and screening algorithm for pediatric preventivecare visits that was published in the 2006 policy state-ment “Identifying Infants and Young Children With De-velopmental Disorders in the Medical Home: An Algo-rithm for Developmental Surveillance and Screening.”
+246
+General Developmental Surveillance and ScreeningAccording to the AAP policy statement “Identifying In-fants and Young Children With Developmental Disor-ders in the Medical Home: An Algorithm for Develop-mental Surveillance and Screening,”
+246“surveillance” is
+the ongoing process of identifying children who may beat risk of developmental delays, and “screening” is theuse of standardized tools at speciﬁc intervals to supportand reﬁne the risk. As an analogy, whereas surveillancerepresents a “moving picture” of the child’s unfoldingdevelopment, screening represents “snapshots” of thechild’s development at speciﬁc times. Developmentalsurveillance should occur at every preventive visitthroughout childhood and includes the following com-ponents: eliciting and attending to the parents’ concerns;maintaining a developmental history; making accurateand informed observations of the child; identifying thepresence of risk and protective factors; and documentingthe process and ﬁndings.
+246Research has revealed that
+parents have valid concerns about their children’s devel-opment, although careful interpretation of the concernsis needed.
+247,248 However, parental concerns may not be
+shared if the PCP does not ask about the child’s devel-opment, and lack of parental concern about develop-ment does not imply typical development.
+247–250 There-
+fore, a systematic surveillance strategy must be used forall children.
+246Screening with a standardized develop-
+mental tool should be performed whenever concerns areraised through the ongoing surveillance process. TheAAP also recommends that all children be screened witha standardized developmental tool at speciﬁc intervals(ie, at the 9-, 18-, and 24- or 30-month visits) regardlessof whether a concern has been raised or a risk has beenidentiﬁed during the surveillance process (see the AAPdevelopmental screening and surveillance algorithm
+246).
+Surveillance for ASD
+Surveillance at the ﬁrst preventive care visit (Fig 1, Steps
+1aand 2) should begin with a family history to deter-
+mine if there are any family members, especially a sib-ling, who have been diagnosed with ASDs. Because therisk of having symptoms of ASDs in younger siblings ofchildren with ASDs is approximately 10 times higher,the pediatrician needs to be extra vigilant in monitoring
+for early abnormal signs. Studies of infant siblings withASDs have revealed that very subtle early signs do existand can be perceived during the ﬁrst year of life.
+204,205
+Until recently, most knowledge regarding very earlysigns was obtained from retrospective systematic reviewsof home videos, particularly ﬁrst birthday party vid-eos.
+251Studies of home videos at earlier ages have pro-
+vided additional retrospective information that revealssubtle abnormalities in infants who were thought to betypically developing and later diagnosed as having re-gressive autism.
+205Several groups of investigators are
+following younger siblings of children diagnosed withASDs and providing prospective information as symp-toms emerge in these infants at high risk.
+204Preliminary
+results support the feasibility of recognizing subtle signsof ASDs in infants at high risk.
+204,206,213,214,252,253 Some of
+the very early signs reported by several investigatorsinclude extremes of temperament and behavior (rangingfrom marked irritability to alarming passivity); poor eyecontact; poor response to other’s voices, especially toone’s name being called
+252; poor attempts at interactive
+play; more interest in looking at objects than people;delayed pointing to request or share; decreased to-and-fro babbling and jargoning; and lack of warm, joyful,reciprocating expressions.
+Surveillance should include asking parents open-
+ended questions about their concerns regarding thechild’s development and behavior ( Step 2 ). Parental con-
+cerns about inconsistent hearing or unusual responsive-ness also are important; for example, parents may noticethat the child responds consistently to a quiet sound,such as the crinkle of a plastic snack bag, but not to ahuman voice calling his name. In addition, parent con-cerns may be stimulated by comments made by othercare providers such as child care staff or preschool teach-ers. Recently, however, the public media have signiﬁ-cantly increased awareness of ASDs and sometimes hasstimulated unnecessary concerns. The AAP patient edu-cation brochure “ Is Your One -Year-Old Communicating
+With You? ”
+13can be distributed to all parents at their
+child’s 9- or 12-month preventive visit to educate themabout early social communication milestones to helpthem identify valid areas of concern.
+Surveillance also includes asking age-speciﬁc ques-
+tions about whether certain developmental milestoneshave been attained. When this approach is used, it isimportant to include social and emotional milestones inaddition to the traditional motor, language, and prob-lem-solving milestones
+254,255 (see www.ﬁrstsigns.org). To
+recognize ASDs as early as possible, it is important to askabout the development of verbal and nonverbal com-munication, reciprocal social interaction (including eyecontact, JA and social referencing, and sharing of inter-ests or achievements), and representational or pretendplay skills. The American Academy of Neurology and
+PEDIATRICS Volume 120, Number 5, November 2007 1195
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023©
+FIGURE 1
+Surveillance and screening algorithm: ASDs.
+1196 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 20238:
+1. Provide Parental Education
+2. Simultaneously Refer for:    a. Comprehensive ASD Evaluation    b. Early Intervention/Early Childhood
+        Education Services
+    c. Audiologic Evaluation
+3. Schedule Follow-up Visit
+4. Re-enter Algorithm at 1bSurveillance and Screening Algorithm: Autism Spectrum Disorders (ASDs)  
+1a - Developmental concerns, 
+including those about social skill 
+deficits, should be included as one 
+of several health topics addressed at 
+each pediatric preventive care visit 
+through the first 5 year s of life.     
+(Go to step 2)1b – At the parents’ request, or when a concern is 
+identified in a previous visit, a child may be scheduled 
+for a “problem-targeted” clinic visit because of concerns 
+about ASD. Parent concerns may be based on 
+observed behaviors, social or language deficits, issues 
+raised by other caregivers, or heightened anxiety 
+produced by ASD coverage in the media. (Go to step 2)
+2 - Developmental surveillance is a flexible, longitudinal, continuous, and cumulative process whereby health care 
+professionals identify children who may have developmental problems. There are 5 components of 
+developmental surveillance: eliciting and attending to the parents’ concerns about their child’s development, 
+documen ting and mainta ining a developm ental history, maki ng accurate  observations of  the child, identifying the 
+risk and protective factors, and maintaining an accurate record and documenting the process and findings. The 
+concerns of parents, other caregivers, and pediatricians all should be included in determining whether 
+surveillance suggests that the child may be at risk of an ASD. In addition, younger siblings of children with an 
+ASD should also be considered at risk, because they are 10 times more likely to develop symptoms of an ASD 
+than children without a sibling with an ASD. Scoring risk factors will help determine the next steps. (Go to step 3)
+For more information on developmental surveillance, see “Identifying Infants and Young Children With Developmental Disorders in  the Medical Home: An Algorithm for 
+Developmental Surveillance and Screening” ( Pediatrics 2006;118:405-420). 
+3 - Scoring risk factors: 
+• If the child does not have a sibling with an ASD and there are no concerns 
+from the parents, other caregivers, or pediatrician: Score=0 (Go to step 4) 
+• If the child has only 1 risk factor, either a sibling with ASD or the concern of 
+a parent, caregiver, or pediatrician: Score=1 (Go to step 3a) 
+• If the child has 2 or more risk factors: Score=2+ (Go to step 8) 3a:
+Is the Patient at
+Least 18-Months
+Old?3a –  
+• If the child’s age is <18 
+months, Go to step 5a 
+• If the child’s age is ≥18 
+months, Go to step 5b
+4 – In the absence of established risk factors and parental/provider concerns (score=0), a level-1 ASD-specific tool should be 
+administered at the 18- and 24-month visits. (Go to step 5c)  If this is not an 18- or 24-month visit, (Go to step 7b).
+Note: In the AAP policy, “Identifying Infants and Young Children With Developmental Disorders in the Medical Home: An Algorithm  for Developmental 
+Surveillance and Screening”, a general developmental screen is recommended at the 9-, 18-, and 24-or 30-month visits and an ASD  screening is 
+recommended at the 18-month visit. This clinical report also recommends an ASD screening at the 24-month visit to identify chil dren who may regress after 
+18 months of age.
+5a - If the child’s age is <18 
+months, the pediatrician should 
+use a tool that specifically 
+addresses the clinical 
+characteristics of ASDs, such 
+as those that target social-
+communication skills.                
+(Go to step 6a)5b - If the child’s 
+age is ≥18 months, 
+the pediatrician 
+should use an 
+ASD-specific 
+screening tool.       
+(Go to step 6a)5c – For all children 
+ages 18 or 24 months (regardless of risk 
+factors), the pediatrician 
+should use an ASD-
+specific screening tool.      
+(Go to step 6b)
+AAP-recommended strategies for using ASD screening tools: “Autism: Caring for Children with Autism Spectrum Disorders: A Resource Toolkit for Clinicians” (in press)*
+6a – When the result of the screening is 
+negative , Go to step 7a
+When the result of the screening is 
+positive ,  Go to step 86b – When the result of the ASD screening (at 18- 
+and 24-month visits) is negative, Go to step 7b
+When the result of the ASD screening (at 18- and 24- 
+month visits) is positive , Go to step 8
+7a – If the child demonstrates risk but has a negative screening re sult, 
+information about ASDs should be provided to parents. The 
+pediatrician should schedule an extra visit within 1 month to address 
+any residual ASD concerns or additional developmental/ behavioral 
+concerns after a negative screening result. The child will then re-enter 
+the algorithm at 1b. A “wait-and-see” approach is discouraged. If the only risk factor is a sibling with 
+an ASD, the pediatrician should maintain a higher index of suspicion and address ASD symptoms at 
+each preventive care visit, but an early follow-up within 1 month is not necessary unless a parental 
+concern subsequently arises.  7b – If this is not an 
+18- or 24-month 
+visit, or when the 
+result of the ASD 
+screening is 
+negative , the pediatrician can inform the 
+parents and schedule the next routine 
+preventive visit. The child will then re-enter the 
+algorithm at 1a.
+8 – If the screening result is positive for possible ASD in step 6a or 6b, the pediatrician should provide peer reviewed 
+and/or consensus-developed ASD materials . Because a positive screening result does not determine a diagnosis of 
+ASD, the child should be referred for a comprehensive ASD evaluation, to early intervention/early childhood education 
+services (depending on child’s age), and an audiologic evaluation. A categorical diagnosis is not needed to access 
+intervention services. These programs often provide evaluations and other services even before a medical evaluation 
+is complete. A referral to intervention services or school also is indicated when other developmental/behavioral 
+concerns exist, even though the ASD screening result is negative. The child should be scheduled for a follow-up visit and will then re-enter the algorithm at 1b. All communication between the referral sources and the pediatrician should 
+be coordinated.
+AAP information for parents about ASDs includes: “ Is Your One-Year-Old Communicating with You ?*” and “Understanding Autism Spectrum Disorders.*”
+*Available at www.aap.org7a:
+1. Provide Parental Education
+2. Schedule Extra Visit Within 1
+    Month3. Re-enter Algorithm at 1b2:
+Perform Surveillance
+Score 1 for Each Risk Factor:
+- Sibling with ASD
+- Parental Concern
+- Other Caregiver Concern- Pediatrician Concern
+3:
+What is the
+Score?
+4:
+Is this an 18- or
+24-Month Visit?
+5a:
+Evaluate Social-
+Communication
+Skills5b:
+Administer ASD-
+Specific Screening
+Tool5c:
+Administer ASD-
+Specific Screening
+Tool
+6a:
+Are the Results
+Positive or
+Concerning?6b:
+Are the Results
+Positive or
+Concerning?
+7b:
+1. Schedule Next    Preventive Visit2. Re-enter Algorithm at 1a1a:
+Pediatric Patient at
+Preventive Care
+Visit1b:
+Extra Visit for Autism-
+Related Concern,
+ASD Risk Factor, or
+Other Developmental/
+Behavioral Concern
+FIGURE 1
+Continued
+PEDIATRICS Volume 120, Number 5, November 2007 1197
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023Child Neurology Society practice parameter on screening
+and diagnosis of autism107suggests that the following “red
+ﬂags” are absolute indications for immediate evaluation:
+●no babbling or pointing or other gesture by 12
+months;
+●no single words by 16 months;
+●no 2-word spontaneous (not echolalic) phrases by 24
+months; and
+●loss of language or social skills at any age.
+Pediatricians should become concerned ( Step 2 )i ft h e
+answers to these questions reveal deﬁcits or delays inmilestones or if behaviors typical of ASD are observedduring an ofﬁce visit.
+In older, more developmentally advanced children,
+including many with AS, surveillance questions ( Step 2 )
+may elicit concerns about social interaction difﬁcultiesrelated to more subtle communication problems, such aspragmatic language impairment and lack of understand-ing of nonliteral forms of communication (ﬁgures ofspeech, humor, sarcasm, metaphor, etc), difﬁculty tak-ing the perspective of another (resulting in inappropriateor offensive behavior, gullibility, and lack of commonsense), and obsession with facts, details, or collections.Pragmatic language refers to the use of language in socialinteraction and includes instinctive rules governing fac-tors, such as topic maintenance and turn taking in con-versation, how sentences are made to ﬁt in with the ﬂowof a conversation, how unspoken premises are inferred,how degrees of formality and politeness are signaled,and prosody (modulation of the intonation, rhythm,volume, timing, and stress of the voice). The parentsmay note that the child lacks true friendships and isviewed as odd, eccentric, or “weird” by his /H11032peers.
+In addition, during the well-child visit, the PCP may
+try to interact with the patient by using a few simplestrategies depending on the child’s age. For example, thePCP can note the response when calling the child’s nameat the 12-month well-child visit, and/or the JA mile-stone of “following a point” can be elicited at the 12-,18-, and 24-month well-child visits as part of routinedevelopmental surveillance. In the latter, the pediatri-cian points to an object at a distance, such as a picture onthe wall or a mobile, while making a verbal request forthe child to look. Whereas a typically developing childwould look in the direction of the point and then after-ward engage in eye contact with the physician or theparent, a child with an ASD may appear to be obliviousto the PCP’s gesture and verbal request. This is true evenif the PCP increases the intensity of the stimulus bycalling louder, adding the child’s name, or touching thechild’s shoulder ﬁrst and then pointing and exclaiming,“Look!” The child may still fail to respond even if theparent repeats the maneuvers. With an older, higher-functioning child, the PCP may enter into conversationwith the child to determine if he has difﬁculty interpret-
+ing a ﬁgure of speech, telling a joke, or explaining whya joke is funny. In addition, the PCP may ask a questionor two about one of the child’s areas of interest toobserve a response that is characteristic of AS, such as along-winded, overly precise, or pedantic reply. Any ofthese responses should raise the concern of a PCP.
+Each concern raised by a parent, other caregiver, or
+the pediatrician constitutes a separate risk factor, as doesa positive family history of a sibling with an ASD ( Step 2 ).
+To determine how to proceed, the pediatrician shouldassess the number of risk factors ( Step 3 ). Possible scores
+include 0, 1, 2, 3, or 4.
+1. If no concerns have been raised during the course of
+the preventive visit and the child is not the sibling ofa child who has already been diagnosed with an ASD,then the PCP should proceed to Step 4 . ASD-speciﬁc
+screening is indicated only if the visit is the 18- or24-month preventive visit. See Step 5c below.
+2. If the child’s only risk factor is having a sibling with
+an ASD, then the PCP should make sure the parentsare aware of early signs of ASDs and continue tomonitor carefully.
+253If the parents call with a concern
+between scheduled routine preventive visits, thechild should be seen within 1 or 2 weeks and reenterthe algorithm at Step 1b for a “targeted visit” to ad-
+dress concerns about ASDs. If the score /H110051 as a result
+of a single concern (parent, other caregiver, or PCP),the PCP should screen the child formally with a stan-dardized tool; the choice of tool will depend on thechild’s age ( Step 3a ) (see “Screening Tools for Imple-
+mentation of Step 5 ”).
+3. If 2 or more risk factors are identiﬁed, then the PCP
+should proceed directly to Step 8 , which includes sev-
+eral activities that should be accomplished simulta-neously and without delay.
+Screening for ASDs ( Steps 5a–5c )
+Physician estimates of the developmental status of chil-dren are much less accurate when only clinical impres-sions, rather than formal screening tools, are used,
+256,257
+yet a minority of PCPs use formal developmental screen-ing instruments,
+258,259 and few pediatricians speciﬁcally
+screen for ASDs.5A standardized screening tool should
+be administered at any point when concerns about ASDsare raised spontaneously by a parent or as a result ofclinician observations or surveillance questions aboutsocial, communicative, and play behaviors ( Steps 5a and
+5b).
+246,260 In the general developmental screening and
+surveillance policy statement discussed previously, theAAP also recommended administering a standardizedautism-speciﬁc screening tool on all children at the 18-month preventive care visit ( Step 5c ).
+246The AAP Autism
+Expert Panel responded to the statement with a com-
+1198 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023mentary260that suggested a repeat screening be per-
+formed at 24 months of age ( Step 5c ) to identify those
+who may regress after 18 months of age.
+Screening Tools for Implementation of Step 5
+A variety of general developmental screening tools areavailable to practitioners.
+246General developmental
+screening tools are appropriate for use with unselectedprimary care populations and are likely to detect ASDs inmany young children because of associated languageand cognitive delays, but they do not differentiate chil-dren with ASDs from those with other developmentaldisorders, and data are not available on sensitivity fordetection of ASDs. Tools to screen speciﬁcally for ASDsalso have been designed (Table 3), but they have not yetbeen validated on children younger than 18 months.The PCP should remember that screening tools are likelyto be overinclusive, so children with developmental andbehavioral disorders other than ASDs also might havepositive screening results. Similar to other developmen-tal screening measures, ASD-speciﬁc screening toolsmay rely entirely on parent report, or they may requiredirect observation and engagement by the clinician. Par-ent-report tools often have the advantage of being brief,inexpensive, and practical in the ofﬁce setting. The peo-ple who know the child best are surveyed and can de-scribe the child’s behavior over time in a variety ofsettings rather than being constrained to sampling be-havior in one setting at one point in time.
+Step 5a : Tools for Use in “at-Risk” Children Younger Than
+18 MonthsAlthough several tools are in development for screeningchildren younger than 18 months, none are available yetfor routine clinical use. The Infant/Toddler Checklistfrom the Communication and Symbolic Behavior ScalesDevelopmental Proﬁle
+261(which can be downloaded at
+www.brookespublishing.com/store/books/wetherby-cs-bsdp/CSBSDP /H14061Checklist.pdf) may be particularly well
+suited for identifying 6- to 24-month-old children whoare at risk of ASDs, because it focuses on social andcommunication skills. It is anticipated that this and otherscreening tools under investigation as possible ASD-spe-ciﬁc tools for use in infants younger than 18 months mayprove valuable in identifying children at high risk and willbecome available to clinicians in the near future.
+213,262,263
+Step 5b : Tools for at-Risk Children 18 Months and Older
+ASD-speciﬁc screening tools are available for children 18months and older, and many of them are age speciﬁc.Recently, such tools have been classiﬁed as “level 1” or“level 2” screening tools.
+264Level 1 screening tools are
+administered to all children within the context of aprimary care medical home and are designed to differ-entiate children who are at risk of ASDs from the generalpopulation, especially those with typical development.Level 2 screening tools are used more often in early
+intervention programs or developmental clinics thatserve children with a variety of developmental prob-lems; they help to differentiate children who are at riskof ASDs from those at risk of other developmental dis-orders such as GDD or speciﬁc language impairment.Level 2 screening tools generally require more time andtraining to administer, score, and interpret than level 1measures. There is considerable overlap between theconcept of a level 2 screening tool and that of a diagnos-tic instrument.
+264,265 Level 2 screening measures may be
+used as part of a diagnostic evaluation, but they shouldnot be used in isolation to make a diagnosis.
+Properties of some level 1 and 2 ASD screening tools
+are reviewed in Table 3. Reported sensitivity and speci-ﬁcity values are included, but in most cases, sensitivityand speciﬁcity of the instruments have been determinedonly in clinical samples or in populations that included amixture of clinical and population-based samples, andthey must be interpreted with caution. Estimates of sen-sitivity and speciﬁcity of developmental screening testsmay be unstable, and they are not the only criteria thatshould be used to assess validity.
+266In low-prevalence
+conditions, such as ASDs, the positive predictive value ofscreening tools will be low even with good sensitivityand speciﬁcity, whereas the negative predictive valuewill be quite high. Many of the existing ASD-speciﬁcscreening measures are being revised or further evalu-ated, and new tools are being developed to address someof their weaknesses.
+Some measures, such as the Checklist for Autism in
+Toddlers (CHAT),
+267Modiﬁed Checklist for Autism in
+Toddlers (M-CHAT),268and Pervasive Developmental
+Disorders Screening Test-II Primary Care Screener,269
+were designed speciﬁcally for early detection of ASDs inyoung children. The CHAT and M-CHAT are level 1screening tools that are available at no cost to practitio-ners for use in primary care (Table 3).
+For older children who are diagnosed later with AS,
+school personnel often raise concerns to the parents.Staff may then administer a published AS-speciﬁc tool.Although many level 2 screening tools have been mar-keted for use in older children who have been identiﬁedas being at risk of AS, further study is needed before anyone of them can be recommended as superior to oth-ers.
+270See Table 3 for characteristics of selected AS
+screening tools.
+Step 5c : Tools for Screening Children Without Risk Factors
+at the 18- and 24-Month Preventive VisitLevel 1 ASD tools described in Step 5b also are appropri-
+ate for routine screening of young children without anyidentiﬁed risk.
+Among the tools designed for screening the elemen-
+tary school–aged population, only the Childhood As-perger Syndrome Test (CAST) has been assessed in a
+PEDIATRICS Volume 120, Number 5, November 2007 1199
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023TABLE 3 Selected Level 1 and 2 ASD Screening Measures
+Screening Tool Age Format (No. of Items) Time to
+Complete, minReported
+SensitivityReported
+SpeciﬁcitySelected Key
+ReferencesAvailability
+Level 1a
+CHAT 18–24 /H11001mo Parent interview or questionnaire
+and interactive (parent: 9;clinician: 5)5 0.18–0.38
+b;
+0.65c0.98–1.0b;
+1.0cBaron-Cohen et al,267
+Baron-Cohen etal,
+272Baird et al,19
+Scambler et al273Download: www.autismresearchcentre.com/tests/chat /H14061test.asp
+CHAT, Denver Modiﬁcations 18–24 /H11001mo Parent interview or questionnaire
+and interactive (parent: 9;clinician: 5)5 0.85
+c 1.0c Scambler et al273 CHAT scoring modiﬁcations; available in Scambler et al273
+Checklist for Autism in
+Toddlers-23 (CHAT-23)16–86 mo (all
+hadmentalages of18–24 mo)Parent interview or questionnaire
+and interactive (parent: 23,clinician: 5)10 0.84–0.93
+c
+(part A);
+0.74c
+(part B)0.77–0.85c
+(part A);
+0.91c
+(part B)Wong et al274 Combination of M-CHAT and CHAT items; protocol available in
+Wong et al274
+CAST 4–11 y Questionnaire completed by
+parent (37)10 0.88–1.0d 0.97–0.98d Scott et al,275
+Williams et al,235
+Williams et al276Download: www.autismresearchcentre.com/tests/cast /H14061test.asp
+M-CHAT 16–48 mo Questionnaire completed by
+parent (23)5–10 0.85d 0.93d Dumont-Matthieu
+and Fein,277
+Robins et al268Download: www.dbpeds.org/media/mchat.pdf or
+www.ﬁrstsigns.org/downloads/m-chat.pdf; for scoring:www.ﬁrstsigns.org/downloads/m-chat /H14061scoring.PDF
+Pervasive Developmental
+Disorders Screening Test-II, Primary Care Screener(PDDST-II PCS)18–48 mo Questionnaire completed by
+parent (22)10–15 0.92
+c 0.91c Siegel269 Purchase: PsychCorp/Harcourt Assessment
+(www.harcourtassessment.com)
+Level 2
+Asperger Syndrome
+Diagnostic Scale (ASDS)5–18 y Questionnaire completed by
+parent, teacher, or clinician(50)10–15 0.85
+c Myles et al,278
+Campbell270Purchase: Pro-Ed (www.proedinc.com)
+Autism Behavior Checklist
+(ABC)/H1135018 mo Behavioral checklist completed
+by interviewer (57 )10–20 0.38–0.58c 0.76–0.97c Krug et al279 Purchase: Pro-Ed (www.proedinc.com) as part of the Autism
+Screening Instrument for Educational Planning (ASIEP-2)
+Autism Quotient
+(AQ)–Adolescent Version11–16 y Questionnaire completed by
+parent (50)15 0.89c 1.0c Baron-Cohen et al280 Download:
+www.autismresearchcentre.com/tests/aq /H14061adolescent /H14061test.asp
+Autism Spectrum Screening
+Questionnaire (ASSQ)6–17 y Questionnaire completed by
+parent (27)10 0.62–0.82c
+(parent);
+0.65–0.70
+c
+(teacher)Ehlers et al281 Questions are included as an appendix in Ehlers et al281
+Childhood Autism Rating
+Scale (CARS)/H110222 y Behavioral checklist completed
+by trained interviewer/observer (15)Variable 0.92–0.98
+c;
+0.94c0.85c Eaves and Milner,282
+Perry et al,283
+Schopler et al284,
+Sevin et al285Purchase: Western Psychological Services
+(www.wpspublish.com)
+Gilliam Asperger’s Disorder
+Scale (GADS)3–22 y Questionnaire completed by
+parent, teacher, or clinician(32)10 Gilliam,
+286
+Campbell270Purchase: Pro-Ed (www.proedinc.com)
+Gilliam Autism Rating Scale–
+2nd Edition (GARS-2)3–22 y Questionnaire completed by
+parent or teacher (42)5–10 Gilliam287 Purchase: Pro-Ed (www.proedinc.com)
+1200 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023TABLE 3 Continued
+Screening Tool Age Format (No. of Items) Time to
+Complete, minReported
+SensitivityReported
+SpeciﬁcitySelected Key
+ReferencesAvailability
+Krug Asperger’s Disorder
+Index (KADI)6–21 y Questionnaire completed by
+parent or clinician (32)15–20 0.78c 0.94c Krug and Arick,288
+Campbell270Purchase: Pro-Ed (www.proedinc.com)
+Pervasive Developmental
+Disorders ScreeningTest-II, DevelopmentalClinic Screener (PDDST-II, DCS)18–48 mo Questionnaire completed by
+parent (14)10–15 0.73
+c 0.49c Siegel269 Purchase: PsychCorp/Harcourt Assessment
+(www.harcourtassessment.com)
+Pervasive Developmental
+Disorders ScreeningTest-II, Autism ClinicSeverity Screener(PDDST-II, ACSC)18–48 mo Questionnaire completed by
+parent (12)10–15 0.58
+c 0.60c Siegel269 Purchase: PsychCorp/Harcourt Assessment
+(www.harcourtassessment.com)
+Screening Tool for Autism in
+Two-Year-Olds (STAT)24–36 mo Interactive, requires speciﬁc
+training (12)20 0.92d 0.85d Stone et al,289Stone
+et al290Author: Wendy Stone, PhD (triad@vanderbilt.edu)
+Social Communication
+Questionnaire (SCQ)(formerly the AutismScreening Questionnaire/H20851ASQ/H20852)/H113504 y Questionnaire completed by
+parent (40)5–10 0.85–0.96
+c 0.67–0.80c Berument et al,291
+Rutter et al292Purchase: Western Psychological Services
+(www.wpspublish.com)
+The measures were selected on the basis of availability of some published psychometric properties (in English) with scoring instructions and pass/f ail cutoffs or the equivalent.
+aLevel 1 tools are most likely to be used in primary care settings.
+bPopulation-based sample.
+cClinical sample.
+dClinical and population-based samples.
+Adapted from Coonrod EE, Stone WL. Screening for autism in young children. In: Volkmar FR, Paul R, Klin A, Cohen D, eds. Handbook of Autism and Pervasive Developmental Disorders . 3rd ed. Vol 2. Hoboken, NJ: John Wiley & Sons; 2005:707–729; Campbell JM. Diagnostic
+assessment of Asperger’s disorder: a review of ﬁve third-party rating scales. J Autism Dev Disord . 2005;35:25–35; and Rutter M, Bailey A, Lord C, et al. The Social Communication Questionnaire (SCQ) Manual . Los Angeles, CA: Western Psychological Services; 2003.
+PEDIATRICS Volume 120, Number 5, November 2007 1201
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023large, unselected population as a level 1 screening
+tool.271The authors concluded that the CAST is useful as
+a screening test for ASDs in epidemiologic research butthat there is not enough evidence to recommend it forroutine screening in the general population as part of apublic health program.
+271In addition, the AAP does not
+currently recommend universal screening of school-aged children with a level 1 AS-speciﬁc tool.
+See Appendix 1 for reimbursement codes.
+Results of Screening ( Steps 6a and6b)
+If the screening result for an at-risk child is negative inStep 6a , the PCP should proceed to Step 7a , provide
+parent educational materials (such as the AAP brochure,“Is Your One-Year-Old Communicating With You? ”
+13or the
+AAP parent booklet, “ Understanding Autism Spectrum Dis-
+orders ”14) and schedule an extra visit ( Step 1b ) within 1
+month to address residual concerns. If the only riskfactor is having a sibling with an ASD, an extra visit isnot necessary unless the parents become concerned afterthe visit. When the screening result is negative for chil-dren without risk at the 18- or 24-month preventivevisit ( Step 6b ), the PCP should proceed to Step 7b and
+schedule the next routine preventive care visit ( Step 1a ).
+If the screening result is positive ( Steps 6a or6b)o r2o r
+more risk factors are present at Step 3 , the PCP should
+proceed to Step 8 , at which simultaneous activities
+should take place in an expedient manner. The PCPshould consider the possibility that the child with anegative ASD screening result may have another devel-opmental disorder that would warrant further investiga-tion and referral to resources similar to those listed inStep 8 .
+When surveillance does not identify any risk factors
+and the visit is not an 18- or 24-month visit ( Step 4 ), no
+screening is recommended, and the PCP may proceeddirectly to Step 7b .
+Step 8 : Activities Needed When Multiple Risk Factors Are
+Present or When the ASD Screening Result Is PositiveActivities described herein will depend on certain com-munity characteristics, especially in regard to obtaining acomprehensive evaluation. Depending on the number ofASD experts in a given community, the interval wait foran appointment may be long. Thus, it is important thatthe PCP simultaneously accomplish all of Steps 8.1
+through 8.4while the family is waiting for a specialty
+appointment to conﬁrm or rule out an ASD diagnosis.
+Step 8.1 : Provide Parental Education
+If the PCP feels fairly certain that the child has a devel-opmental disorder that falls somewhere in the autismspectrum, it will be helpful to give the parents readingmaterials. As discussed in the introduction to this report,the AAP has published “ Understanding Autism Spectrum
+Disorders ,” an educational booklet for parents with thisintent.
+14The comprehensive evaluation will progress
+more efﬁciently if the parents are more knowledgeableabout the characteristic clinical symptoms of ASDs andcan report them more accurately. Some PCPs are reti-cent to share their concerns with parents, fearful thatpremature “labeling,” although it is tentative, mightcause undo stress and anxiety on the part of the family.However, sincerity, honesty, and admitting uncertaintyis appreciated by most parents. On the other hand, con-cealing a concern and taking a “wait-and-see” approachrarely is appreciated; in fact, this strategy often breedsparental discontent and, worse, resentment and anger.With the recent high visibility in the media, most parents(unlike before the 1990s) now are aware of ASDs andmay suspect it and search the Internet for information. Itis important that they receive peer-reviewed and con-sensus-driven information that is evidence based andthat they understand how to interpret Web-site infor-mation that is not peer reviewed.
+Step 8.2.a: ASD Comprehensive Evaluation
+For some children, the diagnosis might be quite obviousto the PCP who is using the DSM-IV-TR criteria as aguide. In others, the diagnosis may be challenging, es-pecially when externalizing behavioral symptoms aremild or variable and/or there are associated comorbiddisorders. Ideally, the deﬁnitive diagnosis of an ASDshould be made by a team of child specialists with ex-pertise in ASDs. Unfortunately, teams are not availablein every locale, and when they are, long waiting listsmay exist. Most communities will have at least 1 pedi-atric subspecialist (eg, child neurologist, developmentalpediatrician, psychiatrist) with at least some expertise inmaking an ASD diagnosis. Other professionals, such aschild psychologists, SLPs, pediatric occupational thera-pists, and social workers with expertise in ASDs, can behelpful by performing independent evaluations, oftenusing standardized tools that can assist in the diagnosticprocess, especially when no team or pediatric “expert” isavailable. Child psychologists with appropriate trainingand experience can make the diagnosis independentlyand often do so, especially in school systems. Recently,the American Speech-Language-Hearing Associationpublished guidelines that stated that an SLP with exper-tise in ASDs can make the diagnosis independentlywhen other resources are not available.
+294,295 Older chil-
+dren who ﬁrst present with symptoms of AS after schoolentry often are ﬁrst recognized and evaluated by theschool district’s educational diagnostic team and subse-quently, but unfortunately not always, referred to ahealth care professional.
+If it seems fairly certain, on the basis of general de-
+velopmental screening and/or available psychometrictesting with standardized tools, that the child also hasGDD or intellectual disability, then the PCP might orderhigh-resolution karyotype and DNA testing for fragile X
+1202 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023syndrome. If the child has clinical features (history, fam-
+ily history, physical examination) that are characteristicof a speciﬁc genetic or neurologic disorder that can beeasily conﬁrmed by a speciﬁc laboratory test, then thePCP may want to proceed with that test. On the otherhand, the PCP may opt to refer the child to pediatricsubspecialists for assistance with an etiologic workupand/or a search for coexisting conditions. Depending onavailability and the nature of the concern(s), the PCPshould consider a referral to a developmental pediatri-cian, a geneticist, and/or a child neurologist.
+104,296 See the
+next section for a more extensive discussion of the com-ponents of a comprehensive evaluation.
+Step 8.2.b: Early Intervention/Early Childhood Education
+ServicesAs soon as an infant or toddler is suspected of having adelay or being at risk of a delay or developmental disor-der such as an ASD, he should be referred immediatelyto an early intervention program (a government-subsi-dized public program designed to serve children withspecial needs and/or developmental delays from thetime the problem is identiﬁed until the third birthday). Ifthe child has had his third birthday, the referral shouldbe made to the special education department in the localschool. Among other professionals, assessment teamswill almost always include SLPs and occupational ther-apists who can develop appropriate intervention planswithout a categorical diagnosis. Intervention is impor-tant and often can be effective, even if it begins asgeneric speech therapy (ie, therapy that addresses mostforms of language delay) and general developmentalstrategies. This intervention plan can be revised later toa more speciﬁc ASD intervention protocol (such asteaching JA) once the diagnosis is made. Experiencedtherapists often recognize ASD symptomatology and usestrategies tailored to the child’s individual deﬁcits, evenwithout a deﬁnitive ASD diagnosis.
+Step 8.2.c: Audiology Evaluation
+All children with language delays, including those sus-pected of having ASDs, should undergo an audiologicevaluation, even if the neonatal screening result wasnormal. This testing may be challenging to accomplish,because children with ASDs often are uncooperative forbehavioral audiometry, the test most frequently usedwith toddlers. If the attempt is unsuccessful, an auditorybrainstem response or brainstem auditory evoked-re-sponse test can be ordered; it is likely that sedation willbe required. Sedation may be challenging, because somechildren with ASDs may respond paradoxically to seda-tives.Steps 8.3 and8.4: Schedule Follow-up Visit and Reenter
+AlgorithmThe child should be scheduled for a targeted follow-upvisit within 1 month and reenter the algorithm at Step 1b
+to determine the status of the aforementioned referralsand to discuss any additional parental concerns oncethey have had the opportunity to read and learn moreabout ASDs.
+COMPREHENSIVE EVALUATION (SEE STEP 8.2.a )
+There are 3 major diagnostic challenges in the compre-hensive assessment of a child with a suspected ASD:determining the child’s overall level of functioning;making the categorical diagnosis of an ASD; and deter-mining the extent of the search for an associated etiol-ogy. To accomplish these 3 goals, a comprehensive eval-uation should include the following components
+212,297,298 :
+1. Health, developmental, and behavioral histories that
+include at least a 3-generation family pedigree and areview of systems.
+2. Physical examination including a thorough search for
+dysmorphic features and neurologic abnormalitiesand a Wood’s lamp examination of the skin.
+3. Developmental and/or psychometric evaluation (de-
+pending on age/skill level) to determine the child’soverall level of functioning and whether a discrep-ancy between motor-adaptive problem-solving andsocial communication skills is evident.
+299,300
+4. Determination of the presence of a categorical DSM-
+IV-TR diagnosis, preferably with standardized toolsthat operationalize the DSM criteria.
+5. Assessment of the parents’ knowledge of ASDs, cop-
+ing skills, and available resources and supports.
+6. A laboratory investigation to search for a known eti-
+ology or coexisting condition guided by informationobtained in Steps 1 through 5.
+When appropriate, the evaluation should include in-
+formation from multiple sources, because the child’sperformance may vary among settings and caregivers.Depending on level of comfort, the PCP may opt to referto an experienced pediatric subspecialist, such as aneurologist, geneticist, or developmental pediatrician, tofurther evaluate the child, especially when there is anabnormal neurologic ﬁnding, seizures, regression, dys-morphic features, and/or a complex family history.
+Laboratory testing for children with ASDs (compo-
+nent 6 above) is controversial. Newer technology hasbeen developed since publication of the 2001 AAP state-ment and technical report
+1,2; however, some tests are not
+yet clinically available. Various specialists hold differingopinions about the deﬁnition of a “positive yield,” de-ﬁned herein as a positive test result that indicates aknown autism-related etiology (eg, a positive result on
+PEDIATRICS Volume 120, Number 5, November 2007 1203
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023DNA testing for fragile X syndrome or a karyotype re-
+vealing a mutation at 9q or 16p indicating tuberoussclerosis). They also promote varying clinical indicationsfor extensive molecular testing and neuroimaging whenthe clinical validity of a positive ﬁnding is yet unknownin many cases.
+301Some investigators have reported a
+positive yield when, in fact, the identiﬁed abnormalitywas nonspeciﬁc, did not relate to a known autism-re-lated etiology, and did not affect counseling and/or man-agement (eg, delayed myelinization on MRI).
+302Medical
+symptoms should be evaluated on a case-by-case basis;rather than reﬂect an etiology, an abnormal test resultmay indicate that a child with an ASD has a coexistingcondition (eg, a gastrointestinal disorder). Thus, an ab-normal laboratory test result does not necessarily indi-cate a positive yield but may, indeed, indicate a condi-tion that needs medical attention (see the AAP clinicalreport “Management of Children With Autism SpectrumDisorders”
+303). Reporting it as a positive yield makes it
+difﬁcult to translate research methodology into recom-mendations that will help the clinician in the care of anygiven patient.
+The yield of an etiologic investigation may be more
+highly correlated with the presence or absence of coex-isting GDD/MR (intellectual disability) rather than withan isolated ASD. In fact, the presence of autism in acohort of children with GDD/MR (intellectual disability)decreased the chance of a positive yield.
+304Depending on
+the population characteristics, speciﬁc test(s) studied,and the decision-making process by which they wereordered (ie, as a screening technique for all study pa-tients with ASDs versus a targeted test indicated by aspeciﬁc clinical ﬁnding), positive yields range from aslow as 0%
+101,305,306 to as high as 25% to 40%,307–309 but
+most yield rates fall between 2% and 10%.† It is difﬁcultto compare studies because of variability in the workups,analysis in terms of GDD/MR or other phenotypic vari-ables, and interpretation of positive test results (eg, de-layed myelinization on MRI) or symptoms (eg, gastro-intestinal) that are not deﬁnitively associated withASDs.
+310
+Although the original ASD-speciﬁc consensus guide-
+lines published between 1999 and 20011,2,106,107 have
+been helpful in guiding the etiology-search strategy inchildren with ASDs, the presence of coexisting GDD/MR(intellectual disability) in a cohort of children with ASD(especially severe GDD/MR or intellectual disability as-sociated with dysmorphic features) is more highly cor-related with a positive yield and a recognizable syn-drome.
+108Thus, guidelines that address the etiologic
+workup of children with GDD/MR104,296,311,312 also should
+be considered when evaluating a child with both an ASDand GDD/MR but not necessarily a child with an isolatedASD.Among laboratory tests, high-resolution chromosome
+analysis by G-banding and molecular testing for fragile Xsyndrome have the highest yield in determining etiologyin patients with ASDs.‡ Some investigators have sug-gested a battery of additional screening cytogenetic andmolecular studies for all patients with ASDs regardless ofgender, presence or absence of coexisting GDD/MR, dys-morphic features, or family history.
+309However, current
+data do not support extensive testing of all children withASDs in clinical settings. Published studies have begun toaddress some of the newer molecular genetic techniquesthat have revolutionized genetic testing by detectingmicrodeletions, duplications, and rearrangements notvisible with high-resolution chromosomal testing. Tar-geted FISH studies can be used to screen for deletions orduplications, such as those associated with chromo-somes 15q and 22q.
+305,310 A relatively recent use of FISH
+technology is genome-wide subtelomere screening,which detects clinically signiﬁcant abnormalities in 2.5%of individuals with unexplained GDD/MR.
+313This tech-
+nology can detect a wide variety of abnormalities, in-cluding some such as 22q13.3 deletion, that have beenreported in a subset of children with ASDs.
+314,315 Several
+studies that examined the yield of subtelomere FISHscreening in ASD failed to detect a single abnormality,which suggests that it may not be helpful in the routineevaluation of these patients.
+89,305 However, additional
+studies are needed. Comparative genomic hybridization-microarray analysis is a promising tool that may becomestandard of care in the future, but this technique has notbeen evaluated systematically in children with ASDs.
+Screening neurologic tests also have been suggested—
+for example, electroencephalography (EEG [routineand/or prolonged sleep studies]) for all children withASDs.
+316Although nonspeciﬁc abnormalities have been
+found in most children, the signiﬁcance of these abnor-malities is not clear, and additional research is needed todetermine if intervention is of any value. Thus, there isno evidence to support universal screening EEG withouta clinical indication.
+317,318 An EEG should be considered
+for children who demonstrate clinical signs that mightrepresent seizures and for children with clear languageregression. However, EEGs in children that demonstrate“classic autistic regression” between 12 and 24 monthsare often nonspeciﬁc and not helpful in the diagnosticprocess. Previously published guidelines contain clearrecommendations that screening MRIs on all childrenwho present with ASDs, including those with isolatedmacrocephaly, are not necessary.
+106,107,194 Given the het-
+erogeneity of ASDs, the likelihood of multiple etiologies,and the questionable clinical validity of an extensivebattery of screening tests on all children with ASDs,more evidence is needed before a battery of genetic andneurologic testing becomes standard of care.
+†Refs 20, 23, 33, 89, 97, 101, 105, 302, and 310. ‡Refs 20, 23, 33, 89, 101, 105, 302, and 310.
+1204 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023Although for the individual patient, it is important to
+differentiate an idiopathic ASD (with a recurrence rateof 5%–6% [range: 2%–8%]) from an ASD-associatedsyndrome that may have a higher or lower recurrencerate, there is no simple 1-size-ﬁts-all search strate-gy.
+1,2,106,107,300 Instead, the search should be guided by
+clinical judgment based on history (eg, health, birth,developmental, behavioral, family) and clinical presen-tation (eg, comorbid MR, regression, seizures, neurode-velopmental ﬁndings, dysmorphic features, comorbidmedical conditions). The importance of dysmorphic fea-tures and/or neurologic abnormalities in predicting apositive yield particularly has been emphasized.
+108Fam-
+ily characteristics (eg, insurance status, concern aboutthe child’s discomfort, or interest in pursuing a “no-stone-left-unturned” etiologic workup) also may affectparental decisions regarding the extent of the workup.Finally, the availability of technology, the need for andfeasibility of sedation, managed care cost/beneﬁt guide-lines, and physician motivation each may play a role.There are certainly many advantages to having a diag-nosis, including genetic counseling and provision of re-currence risks of known syndromes, the possibility of aspeciﬁc treatment strategy, counseling regarding thenatural history of a known disorder, anticipation of alater associated comorbid disorder, prevention of sec-ondary disorders, availability of prenatal diagnosis, ac-cess to public support systems, access to syndrome-spe-ciﬁc parent support groups, and, in some cases, thepsychological beneﬁts of knowing that empower parentsto move on and focus on habilitative interventions.
+A “search strategy” might be conceptualized as con-
+sisting of 3 levels.
+1. Studies that should be considered for all young
+children with ASDs (ie, an audiology evaluation; how-ever, school-based hearing screening may be adequatein the older child with AS and no signiﬁcant language orlearning deﬁcits).
+2. Studies that should be considered in all children
+with both an ASD and coexisting GDD/MR or intellec-tual disability (ie, high-resolution karyotype [650 bands]and DNA testing for fragile X syndrome). Although ahigh-resolution karyotype might reveal larger duplica-tions, some clinicians believe that FISH testing for 15qduplications also might be indicated.
+92,93In the future, a
+microarray analysis may replace high-resolution karyo-typing. A methyl CpG-binding protein 2 ( MECP2 ) anal-
+ysis should be considered in females who present withregression and autistic features that are also consistentwith Rett syndrome.
+310
+3. Targeted studies (eg, EEG, metabolic studies, MRI)
+should be considered when speciﬁc clinical ﬁndings areidentiﬁed by history or physical examination (eg, sei-zures, cyclic vomiting and lethargy associated with mildillnesses and/or unusual odors, hypopigmented mac-ules). Identiﬁcation of more subtle indicators and theircorresponding appropriate laboratory tests might be fa-
+cilitated by referral to a geneticist, pediatric neurologist,and/or developmental pediatrician.
+Ongoing multisite studies are investigating speciﬁc
+test protocols. Such evaluations are not recommended asclinical standard of care at this time until analysis of thedata indicates which of the extended tests, if any, areindicated and for which ASD populations. These re-search protocols include many tests that are investiga-tional, have unknown medical validity, and currentlyare not available for clinical use. Some of these testsinclude functional neuroimaging, immunologic studies,metabolic testing, ﬁbroblast karyotypes, neuroligin genetesting, mitochondrial gene sequencing, genomic mi-croarrays, and identiﬁcation of endophenotypes.
+90,319 Al-
+though these tests may not be relevant in clinical prac-tice, they do have the potential to expand the fund ofknowledge about ASDs, reveal more speciﬁc ASD sub-types, and provide a better understanding of coexistingdisorders and future prognosis. As the fund of knowl-edge regarding genetic markers for ASDs expands andtechnology continues to become more sophisticated, theyield of these laboratory investigations may eventuallyprove to be useful in the routine clinical evaluation ofchildren with idiopathic ASDs. For now, the existingdichotomy regarding the extent of testing in researchversus clinical settings is challenging.
+301Existing data do
+not support routine application of any particular testbattery, nor do they suggest that tests currently underinvestigation be routinely performed on all children withASDs at this time.
+Prognosis
+Although prognosis is one of the parents’ most pressingconcerns at the time of diagnosis, it depends on manyfactors and usually cannot be predicted during earlychildhood, especially in children younger than 3 years.
+320
+Important early predictors include JA skills, functionalplay skills,
+321cognitive abilities, and severity of ASD
+symptoms.322–334 Recent studies have revealed that al-
+though most children diagnosed with AD retain theirdiagnosis at 9 years of age,
+208many, especially those with
+PDD-NOS, improve, and a minority have optimal out-comes; that is, they have normal intelligence and func-tion reasonably well in mainstream classrooms withoutan aid but still exhibit residual clinical signs of socialawkwardness, restrictive interests, or mild, infrequentstereotypies. Some may show signs of ADHD, language-based learning disabilities, or other learning challen-ges.
+8–11,217 Poorer outcomes are associated with lack of JA
+by 4 years of age and lack of functional speech by 5 yearsof age,
+7,217 MR, seizures (especially with onset during
+adolescence), comorbid medical (eg, tuberous sclerosis)or psychiatric (eg, schizophrenia) disorders, and severeautistic symptoms, especially when associated with ex-treme “aloofness.” Factors associated with better out-
+PEDIATRICS Volume 120, Number 5, November 2007 1205
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023comes include early identiﬁcation resulting in early en-
+rollment in appropriate intervention programs7,332 and
+successful inclusion in regular educational and commu-nity settings with typically developing peers.
+Adult outcomes seem to correlate better with level of
+cognitive-adaptive functioning than with the severity ofautistic symptoms. People with normal intelligence/adaptive functioning and milder autistic symptoms gen-erally have the best outcomes, those with MR or intel-lectual disability and severe autistic symptoms have theworst outcomes within the continuum, and those withnormal cognitive-adaptive skills and severe autisticsymptoms generally do better than those with MR orintellectual disability and mild autistic symptoms,
+328,333
+which reafﬁrms the contribution of intelligence ratherthan degree of atypicality (autistic symptoms). However,within the subgroup of children with normal intelli-gence, the degree of atypicality then becomes more im-portant in determining prognosis. Many believe thatpeople with AS have better outcomes than those withother ASDs. This may be true, because by deﬁnition, allthose with AS have normal intelligence. One adult out-come study found that although those with AS tend tohave a greater likelihood of earning a college degreethan those with high-functioning autism/PDD-NOS, thecollege education did not signiﬁcantly affect employ-ment or marriage status.
+331,334
+Genetic CounselingGenetic counseling regarding recurrence risk in siblingsis important even when the etiologic evaluation is neg-ative, because the recurrence risk is approximately 5%to 6% (range: 2%–8%) in a family with 1 child with anidiopathic ASD.
+67,68 The prevalence of abnormality in
+siblings is even higher, perhaps 20%, when the broaderphenotype or milder constellation of similar social, com-munication, and behavioral abnormalities is consid-ered.
+68If there are already 2 siblings with ASDs in a
+family, it is likely that the recurrence risk for a strictlydeﬁned ASD in subsequent offspring is well above 8%and may approach 25%, but there is insufﬁcient evi-dence to be more precise.
+68It is important to discuss the
+recurrence risk promptly after diagnosis to provide par-ents with this information before they conceive anotherchild.
+67When an etiology is determined, the recurrence
+risk may be lower or higher than the risk in idiopathicASD, depending on the syndrome or condition identi-ﬁed, and prenatal diagnosis may be possible.
+GUIDANCE FOR PEDIATRICIANS REGARDING THE
+IDENTIFICATION AND EVALUATION OF CHILDREN WITH ASDsIn summary, most PCPs can expect to care for severalchildren with ASDs in the context of the medical home.
+5
+No two children with ASDs will be exactly alike; eachwill have his or her own constellation of diagnostic andmanagement challenges. The PCP has an important rolein the early identiﬁcation of children with ASDs. PCPs
+should do the following:
+1. Conduct surveillance at every well-child visit. Be a
+good listener and recognize the early subtle red ﬂagsthat indicate the possibility of an ASD. Be especiallyvigilant for younger siblings of a child who has al-ready been diagnosed with an ASD.
+253
+2. Screen at 18246,260 and 24260months and any other
+time when parents raise a concern about a possibleASD. Although no screening tool is perfect, chooseand become comfortable with at least 1 tool for eachage group and use it consistently. Before 18 monthsof age, screening tools that target social and commu-nication skills may be helpful in systematically look-ing for early signs of ASDs.
+261
+3. If an ASD-speciﬁc screening result is negative but
+either the parents or the PCP remain somewhat con-cerned, then the PCP should schedule the child for anearly, targeted clinic visit to address these persistentconcerns.
+4. Act on a positive screening result or when a child
+demonstrates 2 or more risk factors. Do not take a“wait-and-see” approach. Depending on the age ofthe child, simultaneously refer for all 3: comprehen-sive ASD evaluation; early intervention/early child-hood education services; and an audiologic evalua-tion. Do not wait for a deﬁnitive diagnosis of an ASDto refer for developmental services; early interventioncan be beneﬁcial even if it targets the child’s uniquedeﬁcits. The intervention strategy can be modiﬁed ifneeded when the child is determined to have an ASD.
+The science of ASDs is expanding rapidly. Newer tools
+are under development and should become available toclinicians so that children can be screened and evaluatedmore efﬁciently and with greater accuracy in the future.
+The reader is referred to the accompanying AAP clin-
+ical report, “Management of Children With AutismSpectrum Disorders,”
+303to learn more about speciﬁc
+techniques and challenges in caring for children withASDs within the context of a pediatric medical home.
+APPENDIX 1: REIMBURSEMENT FOR SCREENING ACTIVITIES
+Reimbursement for the administration of developmentaland ASD-speciﬁc screening tools is an important aspectof screening. Developmental screening tests, includingASD-speciﬁc tests that are completed by a parent ornonphysician staff member and are reviewed and inter-preted by the physician, can be billed appropriately byusing Current Procedural Terminology (CPT) code 96110.
+246
+Tools that include a direct clinical observation com-
+ponent have the beneﬁt of providing some potentiallymore objective information, and aspects of behavior thatparents may not have noticed can be sampled. Extended
+1206 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023screening tests that include a direct testing component
+can be billed appropriately by using CPT code 96111.246
+COUNCIL ON CHILDREN WITH DISABILITIES EXECUTIVE COMMITTEE,
+2006–2007
+Paul H. Lipkin, MD, Chairperson
+J. Daniel Cartwright, MDLarry W. Desch, MDJohn C. Duby, MDEllen Roy Elias, MDChris Plauche ´ Johnson, MD, MEd
+Eric B. Levey, MDGregory S. Liptak, MDNancy A. Murphy, MDScott M. Myers, MDAnn Henderson Tilton, MD
+LIAISONS
+Donald Lollar, EdD
+Centers for Disease Control and Prevention
+Michelle Macias, MD
+Section on Developmental and Behavioral Pediatrics
+Merle McPherson, MD, MPH
+Maternal and Child Health Bureau
+Donna Gore Olson
+Family Voices
+Bonnie Strickland, PhD
+Maternal and Child Health Bureau
+STAFF
+Stephanie Mucha Skipper, MPHJill Ackermann, MSMark Del Monte, JD
+CONTRIBUTORS
+Thomas D. Challman, MDSusan L. Hyman, MDSusan E. Levy, MDS. Andrew Spooner, MD
+Partnership for Policy Implementation
+Marshalyn Yeargin-Allsopp, MD
+REFERENCES
+1. American Academy of Pediatrics, Committee on Children
+With Disabilities. The pediatrician’s role in the diagnosis andmanagement of autistic spectrum disorder in children. Pediat-
+rics. 2001;107:1221–1226
+2. American Academy of Pediatrics, Committee on Children
+With Disabilities. Technical report: the pediatrician’s role inthe diagnosis and management of autistic spectrum disorderinchildren. Pediatrics. 2001;107(5).Availableat:www.pediatrics.
+org/cgi/content/full/107/5/e85
+3. American Psychiatric Association. Diagnostic and Statistical
+Manual of Mental Disorders, 4th Edition (DSM-IV) . Washington,
+DC: American Psychiatric Publishing; 1994
+4. American Psychiatric Association. Diagnostic and Statistical
+Manual of Mental Disorders, 4th Edition, Text Revision (DSM-IV-TR). Washington, DC: American Psychiatric Publishing; 2000
+5. Dosreis S, Weiner CL, Johnson L, Newschaffer CJ. Autismspectrum disorder screening and management practices
+among general pediatric providers. J Dev Behav Pediatr. 2006;
+27:S88–S94
+6. Heidgerken AD, Geffken G, Modi A, Frakey L. A survey of
+autism knowledge in a health care setting. J Autism Dev Disord.
+2005;35:323–330
+7. National Research Council, Committee on Interventions for
+Children With Autism. Educating Children With Autism . Wash-
+ington, DC: National Academies Press; 2001
+8. Fein D, Dixon P, Paul J, Levin H. Brief report: pervasive
+developmental disorder can evolve into ADHD: case illustra-tions. J Autism Dev Disord. 2005;35:525–534
+9. Sallows GO, Graupner TD. Intensive behavioral treatment for
+children with autism: four-year outcome and predictors. Am J
+Ment Retard. 2005;110:417–438
+10. Kasari C, Freeman S, Paparella T. Joint attention and symbolic
+play in young children with autism: a randomized controlledintervention study. J Child Psychol Psychiatry. 2006;47:
+611–620
+11. Kelley E, Paul JJ, Fein D, Naigles LR. Residual language
+deﬁcits in optimal outcome children with a history of autism.J Autism Dev Disord. 2006;36:807–828
+12. Johnson CP. New tool helps physicians diagnose autism early.
+AAP News. 2004;24:74
+13. American Academy of Pediatrics. Is Your One-Year-Old Com-
+municating With You? Elk Grove Village, IL: American Acad-
+emy of Pediatrics; 2004
+14. American Academy of Pediatrics. Understanding Autism Spec-
+trum Disorders . Elk Grove Village, IL: American Academy of
+Pediatrics; 2005
+15. Kanner L. Autistic disturbances of affective contact. Nerv
+Child. 1943;2:217–250
+16. Asperger H. Die “autistischen psychopathen” im kindesalter.
+Arch Psychiatr Nervenkr. 1944;117:76–136
+17. American Psychiatric Association. Diagnostic and Statistical
+Manual of Mental Disorders, 3rd Edition (DSM-III) . Washington,
+DC: American Psychiatric Association; 1980
+18. Volkmar FR, Klin A. Issues in the classiﬁcation of autism and
+related conditions. In: Volkmar FR, Paul R, Klin A, Cohen DL,eds. Handbook of Autism and Pervasive Developmental Disorders .
+3rd ed. Vol I. Hoboken, NJ: John Wiley & Sons; 2005:5–41
+19. Baird G, Charman T, Baron-Cohen S. A screening instrument
+for autism at 18 months of age: a 6-year follow-up study. JA m
+Acad Child Adolesc Psychiatry. 2000;39:694–702
+20. Chakrabarti S, Fombonne E. Pervasive developmental disor-
+ders in preschool children. JAMA. 2001;285:3093–3099
+21. Chakrabarti S, Fombonne E. Pervasive developmental disor-
+ders in preschool children: conﬁrmation of high prevalence.Am J Psychiatry. 2005;162:1133–1141
+22. Bertrand J, Mars A, Boyle C, Bove F, Yeargin-Allsop M,
+DeCouﬂe P. Prevalence of autism in a United States popula-tion: the Brick Township, New Jersey, investigation. Pediatrics.
+2001;108:1155–1161
+23. Fombonne E, Simmons H, Ford T. Prevalence of pervasive
+developmental disorders in the British nationwide survey ofchild mental health. J Am Acad Child Adolesc Psychiatry. 2001;
+40:820–827
+24. Fombonne E. Epidemiological surveys of autism and other
+pervasive developmental disorders: an update. J Autism Dev
+Disord. 2003;33:365–382
+25. Tidmarsh L, Volkmar FR. Diagnosis and epidemiology of au-
+tism spectrum disorders. Can J Psychiatry. 2003;48:517–525
+26. Centers for Disease Control and Prevention. Mental health in
+the United States: parental report of diagnosed autism inchildren aged 4–17 years—United States, 2003–2004. MMWR
+Morb Mortal Wkly Rep. 2006;55:481–486
+27. Fombonne E, Zakarian R, Bennett A, Meng L, McLean-
+PEDIATRICS Volume 120, Number 5, November 2007 1207
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023Heywood D. Pervasive developmental disorders in Montreal,
+Quebec, Canada: prevalence and links with immunizations.Pediatrics. 2006;118(1). Available at: www.pediatrics.org/cgi/
+content/full/118/1/e139
+28. Autism and Developmental Disabilities Monitoring Network
+Surveillance Year 2000 Principal Investigators; Centers forDisease Control and Prevention. Prevalence of autism spec-trum disorders: Autism and Developmental Disabilities Mon-itoring Network, Six Sites, United States, 2000. MMWR Surveill
+Summ. 2007;56(1):1–11
+29. Autism and Developmental Disabilities Monitoring Network
+Surveillance Year 2002 Principal Investigators; Centers forDisease Control and Prevention. Prevalence of autism spec-trum disorders: Autism and Developmental Disabilities Mon-itoring Network, 14 Sites, United States, 2002. MMWR Surveill
+Summ. 2007;56(1):12–28
+30. Van Naarden Braun K, Pettygrove S, Daniels J, et al. Evalu-
+ation of a methodology for a collaborative multiple sourcesurveillance network for autism spectrum disorders: Autismand Developmental Disabilities Monitoring Network, 14 sites,United States, 2002. MMWR Surveill Summ. 2007;56(1):29–40
+31. Rice C, Baio J, Van Naarden Braun K, et al. A public health
+collaboration for the surveillance of autism spectrum disor-
+ders. Paediatr Perinat Epidemiol. 2007;21:179–190
+32. Charman T, Baird G. Practitioner review: diagnosis of autism
+spectrum disorder in 2- and 3-year-old children. J Child Psy-
+chol Psychiatry. 2002;43:289–305
+33. Fombonne E. Epidemiology of autistic disorder and other
+pervasive development disorders. J Clin Psychiatry. 2005;
+66(suppl 10):3–8
+34. Yeargin-Allsopp M, Rice C, Karapurkar T, Doernberg N, Boyle
+C, Murphy C. Prevalence of autism in a US metropolitan area.JAMA. 2003;289:49–55
+35. Wiggins LD, Baio J, Rice C. Examination of the time between
+ﬁrst evaluation and ﬁrst autism spectrum diagnosis in a pop-ulation-based sample. J Dev Behav Pediatr. 2006;27:S79–S87
+36. Barbaresi WJ, Katusic SK, Colligan RC, Weaver AL, Jacobsen
+SJ. The incidence of autism in Olmsted County, Minnesota,1976–1997: results from a population-based study. Arch Pe-
+diatr Adolesc Med. 2005;159:37–44
+37. Gernsbacher MA, Dissanayake C, Goldsmith HH, Mundy PC,
+Rogers SJ, Sigman M. Autism and deﬁcits in attachmentbehavior. Science. 2005;307:1201–1203
+38. American Psychiatric Association. Diagnostic and Statistical
+Manual of Mental Disorders, 3rd Edition, Revised (DSM-III-R) .
+Washington, DC: American Psychiatric Association; 1987
+39. Factor DC, Freeman NL, Kardash A. Brief report: a compari-
+son of DSM-III and DSM-III-R criteria for autism. J Autism Dev
+Disord. 1989;19:637–640
+40. Volkmar FR, Klin A, Siegel B, et al. Field trial for autistic
+disorder in DSM-IV. Am J Psychiatry. 1994;151:1361–1367
+41. World Health Organization. International Statistical Classiﬁcation
+of Diseases and Related Health Problems, 10th Revision . Vol 1–3.
+Geneva, Switzerland: World Health Organization; 1994
+42. Individuals With Disabilities Education Act Amendments. Pub
+L No. 101-476 (1990)
+43. Eagle RS. Commentary: further commentary on the debate
+regarding increase in autism in California. J Autism Dev Disord.
+2004;34:87–88
+44. Gurney JG, Fritz MS, Ness KK, Sievers P, Newschaffer CJ,
+Shapiro EG. Analysis of prevalence trends of autism spectrumdisorder in Minnesota. Arch Pediatr Adolesc Med. 2003;157:
+622–627
+45. Laidler JR. How “educational assessments” skew autism prev-
+alence rates. Available at: www.autism-watch.org/general/edu.shtml. Accessed March 19, 2007
+46. Laidler JR. US Department of education data on “autism” arenot reliable for tracking autism prevalence. Pediatrics. 2005;
+116(1). Available at: www.pediatrics.org/cgi/content/full/116/1/e120
+47. Shattuck PT. The contribution of diagnostic substitution to the
+growing administrative prevalence of autism in US specialeducation data. Pediatrics. 2006;117:1028–1037
+48. Newschaffer CJ. Investigating diagnostic substitution and au-
+tism prevalence trends. Pediatrics. 2006;117:1436–1437
+49. Mandell DS, Novak MM, Zubritsky CD. Factors associated
+with age of diagnosis among children with autism spectrumdisorders. Pediatrics. 2005;116:1480–1486
+50. Individuals With Disabilities Education Act Amendments. Pub
+L No. 105-17 (1997)
+51. Individuals With Disabilities Education Improvement Act of
+2004. Pub L No. 108-446 (2004)
+52. Croen LA, Grether JK, Hoogstrate J, Selvin S. The changing
+prevalence of autism in California. J Autism Dev Disord. 2002;
+32:207–215
+53. M.I.N.D. Institute. Report to the Legislature on the Principal Find-
+ings From the Epidemiology of Autism in California: A Comprehen-sive Pilot Study . Davis, CA: University of California Davis;
+2002. Available at: www.ucdmc.ucdavis.edu/mindinstitute/newsroom/study /H14061ﬁnal.pdf. Accessed March 14, 2007
+54. Blaxill MF, Baskin DS, Spitzer WO. Commentary: Blaxill,
+Baskin, Spitzer on Croen et al. (2002), the changing preva-lence of autism in California. J Autism Dev Disord. 2003;33:
+223–226
+55. Newschaffer CJ, Falb MD, Gurney JG. National autism prev-
+alence trends from United States special education data. Pedi-
+atrics. 2005;115(3). Available at: www.pediatrics.org/cgi/
+content/full/115/3/e277
+56. Palmer RF, Blanchard S, Jean CR, Mandell DS. School district
+resources and identiﬁcation of children with autistic disorder.Am J Public Health. 2005;95:125–130
+57. Americans With Disabilities Act of 1990. Pub L No. 101-336
+(1990)
+58. Kent L, Evans J, Paul M, Sharp M. Comorbidity of autistic
+spectrum disorders in children with Down syndrome. Dev Med
+Child Neurol. 1999;41:153–158
+59. Starr EM, Berument SK, Tomlins M, Papanikolaou K, Rutter
+M. Brief report: autism in individuals with Down syndrome. J
+Autism Dev Disord. 2005;35:665–673
+60. Johansson M, Rastam M, Billstedt E. Autism spectrum disor-
+ders and underlying brain pathology in CHARGE association.Dev Med Child Neurol. 2006;48:40–50
+61. Bishop DV, Maybery M, Wong D, Maley A, Hallmayer
+J. Characteristics of the broader phenotype in autism: a studyof siblings using the Children’s Communication Checklist-2.Am J Med Genet B Neuropsychiatr Genet. 2006;141:117–122
+62. Lotter V. Epidemiology of autistic conditions in young chil-
+dren. Soc Psychiatry Psychiatr Epidemiol. 1966;1:124–135
+63. Volkmar F, Chawarska K, Klin A. Autism in infancy and early
+childhood. Annu Rev Psychol. 2005;56:315–336
+64. Bailey A, Phillips W, Rutter M. Autism: towards an integra-
+tion of clinical, genetic, neuropsychological, and neurobiolog-ical perspectives. J Child Psychol Psychiatry. 1996;37:89–126
+65. Risch N, Spiker D, Lotspeich L, et al. A genomic screen of
+autism: evidence for a multilocus etiology. Am J Hum Genet.
+1999;65:493–507
+66. Asherson PJ, Curran S. Approaches to gene mapping in com-
+plex disorders and their application in child psychiatry andpsychology. Br J Psychiatry. 2001;179:122–128
+67. Muhle R, Trentacoste SV, Rapin I. The genetics of autism.
+Pediatrics. 2004;113(5). Available at: www.pediatrics.org/cgi/
+content/full/113/5/e472
+68. Rutter M. Genetic inﬂuences and autism. In: Volkmar FR,
+Paul R, Klin A, Cohen D, eds. Handbook of Autism and Pervasive
+1208 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023Developmental Disorders . 3rd ed. Vol 1. Hoboken, NJ: John
+Wiley & Sons; 2005:425–452
+69. Bailey A, Le Courteur A, Gottesman I. Autism as a strongly
+genetic disorder: evidence from a British twin study. Psychol
+Med. 1995;25:63–77
+70. Reichenberg A, Gross R, Weiser M, et al. Advancing paternal
+age and autism. Arch Gen Psychiatry. 2006;63:1026–1032
+71. Croen LA, Najjar DV, Fireman B, Grether JK. Maternal and
+paternal age and risk of autism spectrum disorders. Arch Pe-
+diatr Adolesc Med. 2007;161:334–340
+72. Kolevzon A, Gross R, Reichenberg A. Prenatal and perinatal
+risk factors for autism. Arch Pediatr Adolesc Med. 2007;161:
+326–333
+73. Arndt T, Stodgell CJ, Rodier PM. The teratology of autism. Int
+J Dev Neurosci. 2005;23:189–199
+74. Lopez-Rangel E, Lewis ME. Loud and clear evidence for gene
+silencing by epigenetic mechanisms in autism spectrum andrelated neurodevelopmental disorders. Clin Genet. 2006;69:
+21–22
+75. Veenstra-Vanderweele J, Christian SL, Cook EH Jr. Autism as
+a paradigmatic complex genetic disorder. Annu Rev Genomics
+Hum Genet. 2004;5:379–405
+76. Goldson E. Autism spectrum disorders: an overview. Adv Pe-
+diatr. 2004;51:63–109
+77. Monaco AP, Bailey AJ. Autism: the search for susceptibility
+genes. Lancet. 2001;358(suppl):S3
+78. Ylisaukko-oja T, Alarco ´ n M, Cantor RM, et al. Search for
+autism loci by combined analysis of Autism Genetic ResourceExchange and Finnish families. Ann Neurol. 2006;59:145–155
+79. Buxbaum JD. The genetics of autism spectrum disorders.
+Medscape Psychiatry Ment Health . 2005;10(2). Available at:
+www.medscape.com/viewarticle/520013. Accessed March15, 2007
+80. McDougle CJ, Erickson CA, Stigler KA, Posey DJ. Neuro-
+chemistry in the pathophysiology of autism. J Clin Psychiatry.
+2005;66(suppl 10):9–18
+81. International Molecular Genetic Study of Autism Consor-
+tium. A full genome screen for autism with evidence forlinkage to a region on chromosome 7q. Hum Mol Genet. 1998;
+7:571–578
+82. International Molecular Genetic Study of Autism Consortium
+(IMGSAC). A genomewide screen for autism: strong evidencefor linkage to chromosomes 2g, 7q, and 16p. Am J Hum Genet.
+2001;69:570–581
+83. Cook EH. Genetics of autism. Child Adolesc Psychiatr Clin N Am.
+2001;10:333–350
+84. Yonan AL, Alarcon M, Cheng R, et al. A genome-wide screen
+of 345 families for autism-susceptibility loci. Am J Hum Genet.
+2003;73:886–897
+85. Cook EH Jr, Courchesne RY, Cox NJ, et al. Linkage-
+disequilibrium mapping of autistic disorder, with 15q11-13markers. Am J Hum Genet. 1998;62:1077–1083
+86. Gillberg C. Asperger syndrome and high functioning autism.
+Br J Psychiatry. 1998;172:200–209
+87. Korvatska E, Van de Water J, Anders TF, Gershwin ME.
+Genetic and immunologic considerations in autism [pub-lished correction appears in Neurobiol Dis . 2002;10:69]. Neu-
+robiol Dis. 2002;9:107–125
+88. Volkmar FR, Lord C, Bailey A, Schultz RT, Klin A. Autism and
+pervasive developmental disorders. J Child Psychol Psychiatry.
+2004;45:135–170
+89. Battaglia A, Bonaglia MC. The yield of subtelomeric FISH
+analysis in the evaluation of autistic spectrum disorders. Am J
+Med Genet C Semin Med Genet. 2006;142:8–12
+90. Dawson G. Despite major challenges, autism research contin-
+ues to offer hope. Arch Pediatr Adolesc Med. 2007;161:411–412
+91. Cook EH Jr, Lindgren V, Leventhal BL, et al. Autism oratypical autism in maternally but not paternally derived prox-
+imal 15q duplication. Am J Hum Genet. 1997;60:928–934
+92. Nurmi El, Dowd M, Tadevosyan-Leyfer O, Haines JL, Folstein
+SE, Sutcliffe JS. Exploratory subsetting of autism familiesbased on savant skills improves evidence of genetic linkage to15q11–q13. J Am Acad Child Adolesc Psychiatry. 2003;42:
+856–863
+93. Wolpert CM, Menold MM, Bass MP, et al. Three probands
+with autistic disorder and isodicentric chromosome 15. Am J
+Med Genet. 2000;96:365–372
+94. Bolton PF, Dennis NR, Browne CE, et al. The phenotypic
+manifestations of interstitial duplications of proximal 15qwith special reference to the autistic spectrum disorders. Am J
+Med Genet. 2001;105:675–685
+95. Rutter M. Incidence of autism spectrum disorders: changes
+over time and their meaning. Acta Paediatr. 2005;94:2–15
+96. Barton M, Volkmar F. How commonly are known medical
+conditions associated with autism? J Autism Dev Disord. 1998;
+28:273–278
+97. Rutter M, Bailey A, Bolton P, Le Couteur A. Autism and
+known medical conditions: myth and substance. J Child Psy-
+chol Psychiatry. 1994;35:311–322
+98. Rutter M. Genetic studies of autism: from the 1970s into the
+millennium. J Abnorm Child Psychol. 2000;28:3–14
+99. Fombonne E. Epidemiological studies of pervasive develop-
+mental disorders. In: Volkmar FR, Paul R, Klin A, Cohen D,eds. Handbook of Autism and Pervasive Developmental Disorders .
+3rd ed. Vol 1. Hoboken, NJ: John Wiley & Sons; 2005:42–69
+100. Fombonne E. Epidemiological trends in rates of autism. Mol
+Psychiatry. 2002;7(suppl 2):S4–S6
+101. Battaglia A, Carey JC. Etiologic yield of autistic spectrum
+disorders: a prospective study. Am J Med Genet C Semin Med
+Genet. 2006;142:3–7
+102. Demark JL, Feldman MA, Holden JJ. Behavioral relationship
+between autism and fragile X syndrome. Am J Ment Retard.
+2003;108:314–326
+103. Honda H, Shimizu Y, Rutter M. No effect of MMR withdrawal
+on the incidence of autism: a total population study. J Child
+Psychol Psychiatry. 2005;46:572–579
+104. Shevell M, Ashwal S, Donley D, et al. Practice parameter:
+evaluation of the child with global developmental delay: re-port of the Quality Standards Subcommittee of the AmericanAcademy of Neurology and the Practice Committee of theChild Neurology Society. Neurology. 2003;60:367–380
+105. Shevell MI, Majnemer A, Rosenbaum P, Abrahamowicz M.
+Etiologic yield of autistic spectrum disorders: a prospectivestudy. J Child Neurol. 2001;16:509–512
+106. Filipek PA, Accardo PJ, Baranek GT, et al. The screening and
+diagnosis of autism spectrum disorders [published correctionappears in J Autism Dev Disord . 2000;30:81]. J Autism Dev
+Disord. 1999;29:439–484
+107. Filipek PA, Accardo PJ, Ashwal S, et al. Practice parameter:
+screening and diagnosis of autism—report of the QualityStandards Subcommittee of the American Academy of Neu-rology and the Child Neurology Society. Neurology. 2000;55:
+468–479
+108. Miles JH, Hillman RE. Value of a clinical morphology exam-
+ination in autism. Am J Med Genet. 2000;91:245–253
+109. Hagerman PJ, Hagerman RJ. The fragile X premutation: a
+maturing perspective [published correction appears in Am J
+Hum Genet . 2004;75:352]. Am J Hum Genet. 2004;74:805–816
+110. Rogers SJ, Wehner DE, Hagerman R. The behavioral pheno-
+type in fragile X: symptoms of autism in very young childrenwith fragile X syndrome, idiopathic autism, and other devel-opmental disorders. J Dev Behav Pediatr. 2001;22:409–417
+111. Watson MS, Leckman JF, Annex B, et al. Fragile X in a survey
+of 75 autistic males. N Engl J Med. 1984;310:1462
+PEDIATRICS Volume 120, Number 5, November 2007 1209
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023112. Smalley SL. Autism and tuberous sclerosis. J Autism Dev Dis-
+ord. 1998;28:407–414
+113. Baker P, Piven J, Sato Y. Autism and tuberous sclerosis
+complex: prevalence and clinical features. J Autism Dev Disord.
+1998;28:279–285
+114. Wiznitzer M. Autism and tuberous sclerosis. J Child Neurol.
+2004;19:675–679
+115. Curatolo P, Porﬁrio M, Manzi B, Seri S. Autism in tuberous
+sclerosis. Eur J Paediatr Neurol. 2004;8:327–332
+116. Curatolo P. Tuberous sclerosis: genes, brain, and behavior.
+Dev Med Child Neurol. 2006;48:404
+117. Lauritsen M, Ewald H. The genetics of autism. Acta Psychiatr
+Scand. 2001;103:411–427
+118. Baieli S, Pavone L, Meli C, Fiumara A, Coleman M. Autism
+and phenylketonuria. J Autism Dev Disord. 2003;33:201–204
+119. Aronson M, Hagberg B, Gillberg C. Attention deﬁcits and
+autistic spectrum problems in children exposed to alcoholduring gestation: a follow-up study. Dev Med Child Neurol.
+1997;39:583–587
+120. Clayton-Smith J, Laan L. Angelman syndrome: a review of
+the clinical and genetic aspects. J Med Genet. 2003;40:87–95
+121. Thatcher KN, Peddada S, Yasui DH, LaSalle JM. Homologous
+pairing of 15q11-13 imprinted domains in brain is develop-mentally regulated but deﬁcient in Rett and autism samples.Hum Mol Genet. 2005;14:785–797
+122. Lopez-Rangel E, Lewis ME. Do other methyl-binding proteins
+play a role in autism? Clin Genet. 2006;69:25
+123. Niemitz EL, Feinberg AP. Epigenetics and assisted reproduc-
+tive technology: a call for investigation. Am J Hum Genet.
+2004;74:599–609
+124. Ham AL, Kumar A, Deeter R, Schanen NC. Does genotype
+predict phenotype in Rett syndrome? J Child Neurol. 2005;20:
+768–778
+125. Kerr AM, Ravine D. Review article: breaking new ground
+with Rett syndrome. J Intellect Disabil Res. 2003;47:580–587
+126. Kerr AM, Prescott RJ. Predictive value of the early clinical
+signs in Rett disorder. Brain Dev. 2005;27(suppl 1):S20–S24
+127. Kerr A. Annotation: Rett syndrome—recent progress and im-
+plications for research and clinical practice. J Child Psychol
+Psychiatry. 2002;43:277–287
+128. Einspieler C, Kerr AM, Prechtl HF. Abnormal general move-
+ments in girls with Rett disorder: the ﬁrst four months of life.Brain Dev. 2005;27(suppl 1):S8–S13
+129. Ravn K, Nielsen JB, Uldall P, Hansen FJ, Schwartz M. No
+correlation between phenotype and genotype in boys with atruncating MECP2 mutation. J Med Genet. 2003;40:e5
+130. Moog U, Smeets EE, van Roozendaal KE, et al. Neurodevel-
+opmental disorders in males related to the gene causing Rettsyndrome in females ( MECP2 ).Eur J Paediatr Neurol. 2003;7:
+5–12
+131. Elias E, Giampietro P. Autism may be caused by Smith-Lemli-
+Opitz syndrome (SLOS). Presented at: annual Clinical Genet-ics meeting; March 17–20, 2005; Dallas, TX
+132. Vissers LE, van Ravenswaaij CM, Admiraal R, et al. Mutations
+in a new member of the chromodomain gene family causeCHARGE syndrome. Nat Genet. 2004;36:955–957
+133. Filipek PA, Juranek J, Nguyen MT, Cummings C, Gargus JJ.
+Relative carnitine deﬁciency in autism. J Autism Dev Disord.
+2004;34:615–623
+134. Connolly AM, Chez M, Streif EM, et al. Brain-derived neu-
+rotrophic factor and autoantibodies to neural antigens in seraof children with autistic spectrum disorders, Landau-Kleffnersyndrome, and epilepsy. Biol Psychiatry. 2006;59:354–363
+135. Stern L, Francoeur MJ, Primeau MN, Sommerville W, Fom-
+bonne E, Mazer BD. Immune function in autistic children.Ann Allergy Asthma Immunol. 2005;95:558–565136. Ashwood P, Van de Water J. Is autism an autoimmune dis-
+ease? Autoimmun Rev. 2004;3:557–562
+137. Molloy CA, Morrow AL, Meinzen-Derr J, et al. Familial au-
+toimmune thyroid disease as a risk factor for regression inchildren with autism spectrum disorder: a CEPA study. J
+Autism Dev Disord. 2006;36:317–324
+138. Croen LA, Grether JK, Yoshida CK, Odouli R, Van de Water
+J. Maternal autoimmune diseases, asthma and allergies, andchildhood autism spectrum disorder: a case-control study.Arch Pediatr Adolesc Med. 2005;159:151–157
+139. Comi AM, Zimmerman AW, Frye VH, Law PA, Peeden JN.
+Familial clustering of autoimmune disorders and evaluationof medical risk factors in autism. J Child Neurol. 1999;14:
+388–394
+140. Lawler CP, Croen LA, Grether JK, Van de Water J. Identifying
+environmental contributions to autism: provocative clues andfalse leads. Ment Retard Dev Disabil Res Rev. 2004;10:292–302
+141. Bristol MM, Cohen DJ, Costello EJ. State of the science in
+autism: report to the National Institutes of Health. J Autism
+Dev Disord. 1996;26:121–154
+142. Kemper TL, Bauman M. Neuropathology of infantile autism.
+J Neuropathol Exp Neurol. 1998;57:645–652
+143. Chess S. Follow-up report on autism in congenital rubella. J
+Autism Child Schizophr. 1977;7:69–81
+144. Larsson HJ, Eaton WW, Madsen KM, et al. Risk factors for
+autism: perinatal factors, parental psychiatric history, andsocioeconomic status. Am J Epidemiol. 2005;161:916–925
+145. Knickmeyer R, Baron-Cohen S, Raggatt P, Taylor K. Foetal
+testosterone, social relationships, and restricted interests inchildren. J Child Psychol Psychiatry. 2005;46:198–210
+146. Badawi N, Kurinczuk U, Keogh JM, et al. Antepartum risk
+factors for newborn encephalopathy: the Western Australiancase-control study. BMJ. 1998;317:1549–1553
+147. Badawi N, Kurinczuk U, Keogh JM, et al. Intrapartum risk
+factors for newborn encephalopathy: the western Australiancase-control study. BMJ. 1998;317:1554–1558
+148. Juul-Dam N, Townsend J, Courchesne E. Prenatal, perinatal,
+and neonatal factors in autism, pervasive developmental dis-order-not otherwise speciﬁed, and the general population.Pediatrics. 2001;107(4). Available at: www.pediatrics.org/cgi/
+content/full/107/4/e63
+149. Klug MG, Burd L, Kerbeshian J, Benz B, Martsolf JT. A
+comparison of the effects of parental risk markers on pre- andperinatal variables in multiple patient cohorts with fetal alco-hol syndrome, autism, Tourette syndrome, and sudden deathsyndrome: an enviromic analysis. Neurotoxicol Teratol. 2003;
+25:707–717
+150. Badawi N, Dixon G, Felix JF, et al. Autism following a history
+of newborn encephalopathy: more than a coincidence? Dev
+Med Child Neurol. 2006;48:85–89
+151. Glasson EJ, Bower C, Petterson B, De Klerk N, Chaney G,
+Hallmayer JF. Perinatal factors and the development ofautism: a population study. Arch Gen Psychiatry. 2004;61:
+618–627
+152. Larsson HJ, Eaton WW, Madsen KM, et al. Risk factors for
+autism: perinatal factors, parental psychiatric history, andsocioeconomic status. Am J Epidemiol. 2005;161:916–928; dis-
+cussion 926–928
+153. Wakeﬁeld AJ, Murch SH, Anthony A, et al. Ileal-lymphoid-
+nodular hyperplasia, non-speciﬁc colitis, and pervasive devel-opmental disorder in children. Lancet. 1998;351:637–641
+154. Blaxill MF, Redwood L, Bernard S. Thimerosal and autism? A
+plausible hypothesis that should not be dismissed. Med Hy-
+potheses. 2004;62:788–794
+155. Geier DA, Geier MR. Early downward trends in neurodevel-
+opmental disorders following removal of thimerosal-containing vaccines. J Am Physicians Surg. 2006;11:8–13
+1210 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023156. Kirby D. Evidence of Harm: Mercury in Vaccines and the Autism
+Epidemic—A Medical Controversy . New York, NY: St Martin’s
+Press; 2005
+157. Institute of Medicine, Immunization Safety Review Commit-
+tee. Immunization Safety Review: Measles-Mumps-Rubella Vaccine
+and Autism . Stratton K, Gable A, Shetty P, McCormick M, eds.
+Washington, DC: National Academies Press; 2001
+158. Richler J, Luyster R, Risi S, et al. Is there a “regressive phe-
+notype” of autism spectrum disorder associated with the mea-sles-mumps-rubella vaccine? A CPEA study. J Autism Dev
+Disord. 2006;36:299–316
+159. D’Souza Y, Fombonne E, Ward BJ. No evidence of persisting
+measles virus in peripheral blood mononuclear cells fromchildren with autism spectrum disorder [published correctionappears in Pediatrics . 2006;118:2608]. Pediatrics. 2006;118:
+1664–1675
+160. Katz SL. Has the measles-mumps-rubella vaccine been fully
+exonerated? Pediatrics. 2006;118:1744–1745
+161. DeStefano F, Bhasin TK, Thompson WW, Yeargin-Allsop M,
+Boyle C. Age at ﬁrst measles-mumps-rubella vaccination inchildren with autism and school-matched control subjects: apopulation-based study in metropolitan Atlanta. Pediatrics.
+2004;113:259–266
+162. Stehr-Green P, Tull P, Stellfeld M, Mortensen PB, Simpson D.
+Autism and thimerosal-containing vaccines: lack of consistentevidence for an association. Am J Prev Med. 2003;25:101–106
+163. Nelson KB, Bauman ML. Thimerosal and autism? Pediatrics.
+2003;111:674–679
+164. Institute of Medicine, Immunization Safety Review Commit-
+tee. Immunization Safety Review: Vaccines and Autism . Washing-
+ton, DC: National Academies Press; 2004
+165. Harrington JA, Rosen L, Garneco A, Patrick PA. Parental
+perceptions and use of complementary and alternative med-icine practices for children with autistic spectrum disorders inprivate practice. J Dev Behav Pediatr. 2006;27(2 suppl):
+S156–S161
+166. Bauman ML, Kemper TL. Structural brain anatomy in autism:
+what is the evidence? In: Bauman ML, Kemper TL, eds. The
+Neurobiology of Autism . 2nd ed. Baltimore, MD: Johns Hopkins
+University Press; 2005:121–135
+167. Casanova MF, Buxhoeveden DP, Switala AE, Roy E. Minico-
+lumnar pathology in autism. Neurology. 2002;58:428–432
+168. Pickett J, London E. The neuropathology of autism: a review.
+J Neuropathol Exp Neurol. 2005;64:925–935
+169. Moldin SO, Rubenstein JL, Hyman SE. Can autism speak to
+neuroscience? J Neurosci. 2006;26:6893–6896
+170. DiCicco-Bloom E, Lord C, Zwaigenbaum L, et al. The devel-
+opmental neurobiology of autism spectrum disorder. J Neu-
+rosci. 2006;26:6897–6906
+171. Rodier PM, Arndt TL. The brainstem in autism. In: Bauman
+ML, Kemper TL, eds. The Neurobiology of Autism . 2nd ed.
+Baltimore, MD: Johns Hopkins University Press; 2005:136–149
+172. McCaffery P, Deutsch CK. Macrocephaly and the control of
+brain growth in autistic disorders. Prog Neurobiol. 2005;77:
+38–56
+173. Nelson KB, Nelson PG. Size of the head and brain in autism:
+clue to underlying biologic mechanisms? In: Bauman ML,Kemper TL, eds. The Neurobiology of Autism . 2nd ed. Baltimore,
+MD: Johns Hopkins University Press; 2005:23–33
+174. Courchesne E, Karns CM, Davis HR, et al. Unusual brain
+growth patterns in early life in patients with autistic disorder:an MRI study. Neurology. 2001;57:245–254
+175. Sparks BF, Friedman SD, Shaw DW, et al. Brain structural
+abnormalities in young children with autism spectrum disor-der. Neurology. 2002;59:184–192
+176. Courchesne E, Carper R, Akshoomoff N. Evidence of brainovergrowth in the ﬁrst year of life in autism. JAMA. 2003;
+290:337–344
+177. Dementieva YA, Vance DD, Donnelly SL, et al. Accelerated
+head growth in early development of individuals with autism.Pediatr Neurol. 2005;32:102–108
+178. Aylward EH, Minshew NJ, Field K, Sparks BF, Singh N.
+Effects of age on brain volume and head circumference inautism. Neurology. 2002;59:175–183
+179. Redcay E, Courchesne E. When is the brain enlarged in
+autism? A meta-analysis of all brain size reports. Biol Psychi-
+atry. 2005;58:1–9
+180. Nelson KB, Grether JK, Croen LA, et al. Neuropeptides and
+neurotrophins in neonatal blood of children with autism ormental retardation. Ann Neurol. 2001;49:597–606
+181. Chugani DC, Muzik O, Behen M, et al. Developmental
+changes in brain serotonin synthesis capacity in autistic andnonautistic children. Ann Neurol. 1999;45:287–295
+182. Lainhart JE. Advances in autism neuroimaging research for
+the clinician and geneticist. Am J Med Genet C Semin Med Genet.
+2006;142:33–39
+183. Sokol DK, Edwards-Brown M. Neuroimaging in autistic spec-
+trum disorder (ASD). J Neuroimaging. 2004;14:8–15
+184. Toal F, Murphy DG, Murphy KC. Autistic-spectrum disorders:
+lessons from neuroimaging. Br J Psychiatry. 2005;187:395–397
+185. Levitt JG, Blanton RE, Smalley S, et al. Cortical sulcal maps in
+autism. Cereb Cortex. 2003;13:728–735
+186. Hardan AY, Jou RJ, Keshavan MS, Varma R, Minshew NJ. In-
+creased frontal cortical folding in autism: a preliminary MRIstudy. Psychiatr Res. 2004;131:263–268
+187. Schultz RT. Developmental deﬁcits in social perception in
+autism: the role of the amygdala and fusiform face area. Int J
+Dev Neurosci. 2005;23:125–141
+188. Brambilla P, Hardan AY, di Nemi SU, et al. The functional
+neuroanatomy of autism. Funct Neurol. 2004;19:9–17
+189. Dalton KM, Nacewicz BM, Johnstone T, et al. Gaze ﬁxation
+and the neural circuitry of face processing in autism. Nat
+Neurosci. 2005;8:519–526
+190. Castelli F, Frith C, Happe F, Frith U. Autism, Asperger syn-
+drome and brain mechanisms for the attribution of mentalstates to animated shapes. Brain. 2002;125:1839–1849
+191. Just MA, Cherkassky VL, Keller TA, Minshew NJ. Cortical
+activation and synchronization during sentence comprehen-sion in high-functioning autism: evidence of underconnectiv-ity. Brain. 2004;127:1811–1821
+192. Koshino H, Carpenter PA, Mishew NJ, Cherkassky VL, Keller
+TA, Just MA. Functional connectivity in an fMRI workingmemory task in high-functioning autism. Neuroimage. 2005;
+24:810–821
+193. Ramachandran VS, Oberman LM. Broken mirrors. Sci Am.
+2006;295(5):62–69
+194. Filipek PA. Neuroimaging in the developmental disorders: the
+state of the science. J Child Psychol Psychiatry. 1999;40:
+113–128
+195. Howlin P, Moorf A. Diagnosis in autism: a survey of over
+1200 patients in the UK. Autism. 1997;1:135–162
+196. Howlin P, Asgharian A. The diagnosis of autism and Asperger
+syndrome: ﬁndings from a survey of 770 families. Dev Med
+Child Neurol. 1999;41:834–839
+197. Wetherby AM, Prizant BM, Schuler AL. Understanding the
+nature of communication and language impairments. In:Wetherby AM, Prizant BM, eds. Autism Spectrum Disorders .
+Baltimore, MD: Paul H. Brookes; 2000:109–141
+198. Mundy P, Markus J. On the nature of communication and
+language impairment in autism. Ment Retard Dev Disabil Res
+Rev. 1997;3:343–349
+199. Tuchman RF, Rapin I. Regression in pervasive developmental
+PEDIATRICS Volume 120, Number 5, November 2007 1211
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023disorders: seizures and epileptiform electroencephalogram
+correlatives. Pediatrics. 1997;99:560–566
+200. Werner E, Dawson G. Validation of the phenomenon of au-
+tistic regression using home videotapes. Arch Gen Psychiatry.
+2005;62:889–895
+201. Sigman M, Dijamco A, Gratier M, Rozga A. Early detection of
+core deﬁcits in autism. Ment Retard Dev Disabil Res Rev. 2004;
+10:221–233
+202. Johnson CP. Early clinical characteristics of children with
+autism. In: Gupta VB, ed. Autism Spectrum Disorders in Children .
+New York, NY: Marcell Dekker; 2004:85–123
+203. Chawarska K, Volkmar FR. Autism in infancy and early child-
+hood. In: Volkmar FR, Klin A, Paul R, eds. Handbook of Autism
+and Pervasive Developmental Disorders . 3rd ed. Vol I. Hoboken,
+NJ: John Wiley & Sons; 2005:223–246
+204. Zwaigenbaum L, Bryson S, Rogers T, Roberts W, Brian J,
+Szatmari P. Behavioral manifestations of autism in the ﬁrstyear of life. Int J Dev Neurosci. 2005;23:143–152
+205. Maestro S, Muratori F, Cesari A, Pecini C, Apicella F, Stern D.
+A view to regressive autism through home movies: is earlydevelopment really normal? Acta Psychiatr Scand. 2006;113:
+68–72
+206. Mitchell S, Brian J, Zwaigenbaum L, Roberts W, Szatmari P,
+Smith I, Bryson S. Early language and communication devel-opment of infants later diagnosed with autism spectrum dis-order. J Dev Behav Pediatr. 2006;27(2 suppl):S69–S78
+207. Rogers SJ, Benneto L. Intersubjectivity in autism. In: Weth-
+erby AM, Prizant BM, eds. Autism Spectrum Disorders . Balti-
+more, MD: Paul H. Brookes; 2000:79–107
+208. Turner LM, Stone WL, Pozdol SL, Coonrod EE. Follow-up of
+children with autism spectrum disorders from age 2 to age 9.Autism. 2006;10:243–265
+209. Charman T. Why is joint attention a pivotal skill in autism?
+Philos Trans R Soc Lond B Biol Sci. 2003;358:315–324
+210. Chawarska K, Klin A, Volkmar FR. Automatic attention cue-
+ing through eye movement in 2-year-old children with au-tism. Child Dev. 2003;74:1108–1122
+211. Dawson G, Munson J, Estes A. Neurocognitive function and
+joint attention ability in young children with autism spectrumdisorder versus developmental delay. Child Dev. 2002;73:
+345–358
+212. Klin A, Saulnier C, Tsatsanis K, Volkmar FR. Clinical evalu-
+ation in autism spectrum disorders: psychological assessmentwithin a transdisciplinary framework. In: Volkmar FR, Paul R,Klin A, Cohen D, eds. Handbook of Autism and Pervasive Devel-
+opmental Disorders . 3rd ed. Vol II. Hoboken, NJ: John Wiley &
+Sons; 2005:772–798
+213. Wetherby AM, Woods J, Allen L, Cleary J, Dickinson H, Lord
+C. Early indicators of autism spectrum disorders in the secondyear of life. J Autism Dev Disord. 2004;34:473–493
+214. Wetherby A, Watt N, Morgan L, Shumway S. Social commu-
+nication proﬁles of children with autism spectrum disordersin the second year of life. J Autism Dev Disord. 2007;37:
+960–975
+215. Leekam SR, Ramsden CA. Dyadic orienting and joint atten-
+tion in preschool children with autism, J Autism Dev Disord.
+2006;36:185–197
+216. MacDonald R, Anderson J, Dube WV, et al. Behavioral as-
+sessment of joint attention: a methodological report. Res Dev
+Disabil. 2006;27:138–150
+217. Mundy P, Card J, Fox N. EEG correlates of the development
+of infant joint attention skills. Dev Psychobiol. 2000;36:
+325–338
+218. Paparella T, Kasari C. Joint attention skills and language
+development in special needs populations: translating re-search to practice. Infants Young Child. 2004;17:269–280219. Lord C. Follow-up of two-year-olds referred for possible au-
+tism. J Child Psychol Psychiatry. 1995;36:1365–1382
+220. Mundy P. Joint attention and social-emotional approach be-
+havior in children with autism. Dev Psychopathol. 1995;7:
+63–82
+221. Leekam S, Lopez B. Attention and joint attention in preschool
+children with autism. Dev Psychol. 2000;36:261–273
+222. Wetherby AM, Prizant BM, Hutchinson TA. Communicative,
+social/affective, and symbolic proﬁles of young children withautism and pervasive developmental disorders. Am J Speech
+Lang Pathol. 1998;7:79–91
+223. Dawson G, Hill D, Spencer A, Galpert L, Watson L. Affective
+exchanges between young autistic children and their moth-ers. J Abnorm Child Psychol. 1990;18:335–345
+224. Happe ´ F. Studying weak central coherence at log levels: chil-
+dren with autism do not succumb to visual illusions—a re-search note. J Child Psychol Psychiatry. 1996;37:873–877
+225. Briskman J, Happe ´ F, Frith U. Exploring the cognitive phe-
+notype of autism: weak “central coherence” in parents andsiblings of children with autism: II. Real life skills and prefer-ences. J Child Psychol Psychiatry. 2001;42:309–316
+226. Baron-Cohen S, Leslie AM, Frith U. Does the autistic child
+have a “theory of mind”? Cognition. 1985;21:37–46
+227. Twachtman-Cullen D. More able children with autism spec-
+trum disorders. In: Wetherby AM, Prizant BM, eds. Autism
+Spectrum Disorders . Baltimore, MD: Paul H. Brookes; 2000:
+225–249
+228. Astington JW, Barriault T. Children’s theory of mind: how
+young children come to understand that people havethoughts and feelings. Infants Young Child. 2001;13:1–12
+229. Yirmiya N, Erel O, Shaked M, Solomonica-Levi D. Meta-
+analysis comparing theory of mind abilities of individual withautism, individuals with mental retardation, and normallydeveloping individuals. Psychol Bull. 1998;124:283–307
+230. Baron-Cohen S. Mindblindness: An Essay on Autism and Theory
+of Mind . Cambridge, MA: MIT Press; 1995
+231. Arik JR, Krug DA, Fullerton A, Loos L, Falco R. School-based
+programs. In: Volkmar FR, Paul R, Klin A, Cohen D, eds.Handbook of Autism and Pervasive Developmental Disorders . 3rd
+ed. vol 2. Hoboken, NJ: John Wiley & Sons; 2005:1003–1028
+232. Stone WL, Lee EB, Ashford L, et al. Can autism be diagnosed
+accurately in children under 3 years? J Child Psychol Psychiatry.
+1999;40:219–226
+233. Schroeder SR, Oster-Granite ML, Berkson G, et al. Self-
+injurious behavior. Ment Retard Dev Disabil Res Rev. 2001;7:
+3–11
+234. Volkmar F, Cook EH Jr, Pomeroy J, Realmuto G, Tanguay P.
+Practice parameters for the assessment and treatment of chil-dren, adolescents, and adults with autism and other pervasivedevelopmental disorders. American Academy of Child andAdolescent Psychiatry, Working Group on Quality Issues[published correction appears in J Am Acad Child Adolesc Psy-
+chiatry . 2000;39:938]. J Am Acad Child Adolesc Psychiatry. 1999;
+38(12 suppl):32S–54S
+235. Williams DL, Goldstein G, Carpenter PA, Minshew NJ. Verbal
+and spatial working memory in autism. J Autism Dev Disord.
+2005;35:747–756
+236. Grandin T, Scariano MM. Emergence, Labeled Autistic . Novato,
+CA: Arena Press; 1986
+237. CBS News. A school, a team, a dream. March 2, 2006. Avail-
+able at: http://www.cbsnews.com/stories/2006/03/02/eveningnews/main1364675.shtml. Accessed March 19, 2007
+238. Treffert DA. The autistic artist, “special faculties,” and savant
+syndrome. Arch Pediatr Adolesc Med. 2007;161:32
+239. Rogers SJ, Ozonoff S. Annotation: what do we know about
+sensory dysfunction in autism? A critical review of the em-pirical evidence. J Child Psychol Psychiatry. 2005;46:1255–1268
+1212 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023240. Anzalone ME, Williamson GG. Sensory processing and motor
+performance in autism spectrum disorders. In: Wetherby AM,Prizant BM, eds. Autism Spectrum Disorders . Baltimore, MD:
+Paul H. Brookes; 2000:143–166
+241. Iarocci G, McDonald J. Sensory integration and the percep-
+tual experience of persons with autism. J Autism Dev Disord.
+2006;36:77–90
+242. Gillberg C, Kadesjo B. Why bother about clumsiness? The
+implications of having developmental coordination disorder(DCD). Neural Plast. 2003;10:59–68
+243. Gadow KD, DeVincent CJ, Pomeroy J. ADHD symptom sub-
+types in children with pervasive developmental disorder. J
+Autism Dev Disord. 2006;36:271–283
+244. Frith U, Soares I. Research into earliest detectable signs of
+autism: what parents say. Communication. 1993;27:17–18
+245. Siegel B, Pliner C, Eschler J, Elliott GR. How children with
+autism are diagnosed: difﬁculties in identiﬁcation of childrenwith multiple developmental delays. J Dev Behav Pediatr.
+1988;9:199–204
+246. American Academy of Pediatrics, Council on Children With
+Disabilities, Section on Developmental and Behavioral Pedi-atrics, Bright Futures Steering Committee, Medical HomeInitiatives for Children With Special Needs Project Advisory
+Committee. Identifying infants and young children with de-velopmental disorders in the medical home: an algorithm fordevelopmental surveillance and screening [published correc-tion appears in Pediatrics . 2006;119:1808–1809]. Pediatrics.
+2006;118:405–420
+247. Glascoe FP. Evidence-based approach to developmental and
+behavioural surveillance using parents’ concerns. Child Care
+Health Dev. 2000;26:137–149
+248. Glascoe FP, Dworkin PH. The role of parents in the detection
+of developmental and behavioral problems. Pediatrics. 1995;
+95:829–836
+249. Young KT, Davis K, Schoen C, Parker S. Listening to parents:
+a national survey of parents with young children. Arch Pediatr
+Adolesc Med. 1998;152:255–262
+250. King TM, Glascoe FP. Developmental surveillance of infants
+and young children in pediatric primary care. Curr Opin Pedi-
+atr.2003;15:624–629
+251. Palomo R, Belinchon M, Ozonoff S. Autism and family home
+movies: a comprehensive review. J Dev Behav Pediatr. 2006;
+27(2 suppl):S59–S68
+252. Nadig AS, Ozonoff S, Young GS, Rozga A, Sigman M, Rogers
+SJ. A prospective study of response to name in infants at riskfor autism. Arch Pediatr Adolesc Med. 2007;161:378–383
+253. Stone WL, McMahon CR, Yoder PJ, Walden TA. Early social-
+communicative and cognitive development of younger sib-lings of children with autism spectrum disorders. Arch Pediatr
+Adolesc Med. 2007;161:384–390
+254. Johnson CP, Blasco PA. Infant growth and development.
+Pediatr Rev. 1997;18:224–242
+255. Johnson CP. Recognition of autism spectrum disorders before
+age 2 years. Pediatr Rev. 2008; In press
+256. Smith RD. The use of developmental screening tests by pri-
+mary care pediatricians. J Pediatr. 1978;93:524–527
+257. Werner EE, Honzik MP, Smith RS. Prediction of intelligence
+and achievement at ten years from twenty months pediatricand psychologic evaluations. Child Dev. 1968;39:1063–1075
+258. Sand N, Silverstein M, Glascoe FP, Gupta VB, Tonniges TP,
+O’Connor KG. Pediatricians’ reported practices regarding de-velopmental screening: do guidelines work? Do they help?Pediatrics. 2005;116:174–179
+259. Sices L, Feudtner C, McLaughlin J, Drotar D, Williams M.
+How do primary care physicians identify young children withdevelopmental delays? A national survey. J Dev Behav Pediatr.
+2003;24:409–417260. Gupta VB, Hyman SL, Johnson CP, et al. Identifying children
+with autism early [published correction appears in Pediatrics .
+2007;119:867]? Pediatrics. 2007;119:152–153
+261. Wetherby AM, Prizant BM. Communication and Symbolic Be-
+havior Scales Developmental Proﬁle (CSBS DP): First Normed Edi-tion. Baltimore, MD: Paul H. Brookes; 2002
+262. Dietz C, Swinkels S, van Daalen E, van Engeland H, Buitelaar
+JK. Screening for autistic spectrum disorder in children aged14–15 months. II: population screening with the EarlyScreening of Autistic Traits Questionnaire (ESAT)—designand general ﬁndings. J Autism Dev Disord. 2006;36:713–722
+263. Swinkels SH, Dietz C, van Daalen E, Kerkhof IH, van Enge-
+land H, Buitelaar JK. Screening for autistic spectrum disorderin children aged 14 to 15 months. I: The development of theEarly Screening of Autistic Traits Questionnaire (ESAT). J
+Autism Dev Disord. 2006;36:723–732
+264. Coonrod EE, Stone WL. Screening for autism in young chil-
+dren. In: Volkmar FR, Paul R, Klin A, Cohen D, eds. Handbook
+of Autism and Pervasive Developmental Disorders . 3rd ed. Vol 2.
+Hoboken, NJ: John Wiley & Sons; 2005:707–729
+265. Lord C, Corsello C. Diagnostic instruments in autistic spec-
+trum disorders. In: Volkmar FR, Paul R, Klin A, Cohen D, eds.Handbook of Autism and Pervasive Developmental Disorders . 3rd
+ed. Vol II. Hoboken, NJ: John Wiley & Sons; 2005:730–771
+266. Camp BW. What the clinician really wants to know: ques-
+tioning the clinical usefulness of sensitivity and speciﬁcity instudies of screening tests. J Dev Behav Pediatr. 2006;27:
+226–230
+267. Baron-Cohen S, Allen J, Gillberg C. Can autism be detected at
+18 months? The needle, the haystack, and the CHAT. Br J
+Psychiatry. 1992;161:839–843
+268. Robins D, Fein D, Barton M, Green JA. The Modiﬁed-
+Checklist for Autism in Toddlers (M-CHAT): an initial inves-tigation in the early detection of autism and pervasive devel-opmental disorders. J Autism Dev Disord. 2001;31:131–144
+269. Siegel B. The Pervasive Developmental Disorders Screening Test II
+(PDDST-II) . San Antonio, TX: Harcourt Assessment; 2004
+270. Campbell JM. Diagnostic assessment of Asperger’s disorder: a
+review of ﬁve third-party rating scales. J Autism Dev Disord.
+2005;35:25–35
+271. Williams J, Scott F, Stott C, et al. The CAST (Childhood
+Asperger Syndrome Test): test accuracy. Autism. 2005;9:
+45–68
+272. Baron-Cohen S, Cox A, Baird G. Psychological markers in the
+detection of autism in infancy in a large population. Br J
+Psychiatry. 1996;168:158–163
+273. Scambler D, Rogers SJ, Wehner EA. Can the Checklist for
+Autism in Toddlers differentiate young children with autismfrom those with developmental delays? J Am Acad Child Ado-
+lesc Psychiatry. 2001;40:1457–1463
+274. Wong V, Hui LH, Lee WC, et al. A modiﬁed screening tool for
+autism (Checklist for Autism in Toddlers [CHAT-23]) for Chi-nese children. Pediatrics. 2004;114(2). Available at: www.
+pediatrics.org/cgi/content/full/114/2/e166
+275. Scott FJ, Baron-Cohen S, Bolton P, Brayne C. The CAST
+(Childhood Asperger Syndrome Test): preliminary develop-ment of a UK screen for mainstream primary-school agechildren. Autism. 2002;6:9–31
+276. Williams J, Allison C, Scott F, et al. The Childhood Asperger
+Syndrome Test (CAST): test-retest reliability. Autism. 2006;10:
+415–427
+277. Dumont-Mathieu T, Fein D. Screening for autism in young
+children: the Modiﬁed Checklist for Autism in Toddlers (M-CHAT) and other measures. Ment Retard Dev Disabil Res Rev.
+2005;11:253–262
+278. Myles B, Bock S, Simpson R. Asperger Syndrome Diagnostic
+Scale . Los Angeles, CA: Western Psychological Services; 2001
+PEDIATRICS Volume 120, Number 5, November 2007 1213
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023279. Krug DA, Arick J, Almond P. Behavior checklist for identify-
+ing severely handicapped individuals with high levels of au-tistic behavior. J Child Psychol Psychiatry. 1980;21:221–229
+280. Baron-Cohen S, Hoekstra RA, Knickmeyer R, Wheelwright S.
+The Autism-Spectrum Quotient (AQ): adolescent version. J
+Autism Dev Disord. 2006;36:343–350
+281. Ehlers S, Gillberg C, Wing L. A screening questionnaire for
+Asperger syndrome and other high-functioning autism spec-trum disorders in school age children. J Autism Dev Disord.
+1999;29:129–141
+282. Eaves RC, Milner B. The criterion-related validity of the
+Childhood Autism Rating Scale and the Autism BehaviorChecklist. J Abnorm Child Psychol. 1993;21:481–491
+283. Perry A, Condillac RA, Freeman NL, Dunn-Geier J, Belair J.
+Multi-site study of the Childhood Autism Rating Scale(CARS) in ﬁve clinical groups of young children. J Autism Dev
+Disord. 2005;35:625–634
+284. Schopler E, Reichler RJ, Rochen Renner B. The Childhood
+Autism Rating Scale (CARS) . Los Angeles, CA: Western Psycho-
+logical Services; 1988
+285. Sevin JA, Matson JL, Coe DA, Fee VE, Sevin BM. A compar-
+ison and evaluation of three commonly used autism scales.J Autism Dev Disord. 1991;21:417–432
+286. Gilliam JE. Gilliam Asperger’s Disorder Scale (GADS) . Austin, TX:
+Pro-Ed; 2001
+287. Gilliam JE. Gilliam Autism Rating Scale 2nd Edition (GARS-2) .
+Austin, TX: Pro-Ed; 2006
+288. Krug DA, Arick JR. Krug Asperger’s Disorder Index (KADI) .
+Austin, TX: Pro-Ed; 2003
+289. Stone WL, Coonrod EE, Ousley OY. Brief report: Screening
+Tool for Autism in Two-Year-Olds (STAT): development andpreliminary data. J Autism Dev Disord. 2000;30:607–612
+290. Stone WL, Coonrod EE, Turner LM, Pozdol SL. Psychometric
+properties of the STAT for early autism screening. J Autism Dev
+Disord. 2004;34:691–701
+291. Berument SK, Rutter M, Lord C, Pickles A, Bailey A. Autism
+screening questionnaire: diagnostic validity. Br J Psychiatry.
+1999;175:444–451
+292. Rutter M, Bailey A, Lord C, et al. The Social Communication
+Questionnaire (SCQ) Manual . Los Angeles, CA: Western Psy-
+chological Services; 2003
+293. Myers SM, Johnson CP. Autism spectrum disorders. In: Wol-
+raich ML, Dworkin PH, Drotar DD, Perrin EC, eds. Develop-
+mental and Behavioral Pediatrics . Philadelphia, PA: Elsevier;
+2007: In press
+294. American Speech-Language-Hearing Association. Position
+statement: roles and responsibilities of speech-language pa-thologists in diagnosis, assessment, and treatment of autismspectrum disorders across the life span. Available at: www.asha.org/NR/rdonlyres/4C2593BF-6920-4B44-BD0D-6067A65AEDDB/0/v3PS /H14061autismLSpan.pdf. Accessed March 19, 2007
+295. American Speech-Language-Hearing Association. Technical
+Report: principles for speech-language pathologists in diagno-sis, assessment, and treatment of autism spectrum disordersacross the life span. Available at: www.asha.org/NR/rdonlyres/D0370FEA-98EF-48EE-A9B6-952913FB131B/0/v3TR /H14061autismL
+Span.pdf. Accessed March 19, 2007
+296. Moeschler JB, Shevell M; American Academy of Pediatrics,
+Committee on Genetics. Clinical genetic evaluation of thechild with mental retardation or developmental delays . Pedi-
+atrics. 2006;117:2304–2316
+297. Filipek PA. Medical aspects of autism. In: Volkmar FR, Paul R,
+Klin A, Cohen D, eds. Handbook of Autism and Pervasive Devel-
+opmental Disorders . 3rd ed. Vol 1. Hoboken, NJ: John Wiley &
+Sons; 2005:534–581
+298. Scahill L. Diagnosis and evaluation of pervasive developmen-
+tal disorders. J Clin Psychiatry. 2005;66:19–25299. Voigt RG, Childers DO, Dickerson CL, et al. Early pediatric
+neurodevelopmental proﬁle of children with autistic spec-trum disorders. Clin Pediatr (Phila). 2000;39:663–668
+300. Barbaresi WJ, Katusic SK, Voigt RG. Autism: a review of the
+state of the science for pediatric primary health care clini-cians. Arch Pediatr Adolesc Med. 2006;160:1167–1175
+301. McMahon WM, Baty BJ, Botkin J. Genetic counseling and
+ethical issues for autism. Am J Med Genet C Semin Med Genet.
+2006;142:52–57
+302. Challman TD, Barbaresi WJ, Katusic SK, Weaver A. The yield
+of the medical evaluation of children with pervasive devel-opmental disorders. J Autism Dev Disord. 2003;33:187–192
+303. Myers SM, Johnson CP; American Academy of Pediatrics,
+Council on Children With Disabilities. Management of chil-dren with autism spectrum disorders. Pediatrics. 2007;120:
+1162–1182
+304. Srour M, Mazer B, Shevell MI. Analysis of clinical features
+predicting etiologic yield in the assessment of global develop-mental delay. Pediatrics. 2006;118:139–145
+305. Keller K, Williams C, Wharton P, et al. Routine cytogenetic
+and FISH studies for 17p11/15q11 duplications and subtelo-meric rearrangement studies in children with autism spec-trum disorders. Am J Med Genet A. 2003;117:105–111
+306. Lobo-Menendez F, Sossey-Alaoui K, Bell JM, et al. Absence of
+MeCP2 mutations in patients from the South Carolina autism
+project. Am J Med Genet B Neuropsychiatr Genet. 2003;117:
+97–101
+307. Gillberg C. Subgroups in autism: are there behavioural phe-
+notypes typical of underlying medical conditions? J Intellect
+Disabil Res. 1992;36:201–214
+308. Gillberg C, Coleman M. Autism and medical disorders: a
+review of the literature. Dev Med Child Neurol. 1996;38:
+191–202
+309. Schaefer GB, Lutz RE. Diagnostic yield in the clinical genetic
+evaluation of autism spectrum disorders. Genet Med. 2006;8:
+549–556
+310. Abdul-Rahman OA, Hudgins L. The diagnostic utility of a
+genetics evaluation in children with pervasive developmentaldisorders. Genet Med. 2006;8:50–54
+311. Curry CJ, Stevenson RE, Aughton D, et al. Evaluation of
+mental retardation: recommendations of a consensusconference: American College of Medical Genetics. Am J Med
+Genet. 1997;72:468–477
+312. Roberts G, Palfrey J, Bridgemohan C. A rational approach to
+the medical evaluation of a child with developmental delay.Contemp Pediatr. 2004;21:76–100
+313. Ravnan JB, Tepperberg JH, Papenhausen P, et al. Subte-
+lomere FISH analysis of 11 688 cases: an evaluation of thefrequency and pattern of subtelomere rearrangements in in-dividuals with developmental disabilities. J Med Genet. 2006;
+43:478–489
+314. Manning MA, Cassidy SB, Clericuzio C, et al. Terminal 22q
+deletion syndrome: a newly recognized cause of speech andlanguage disability in the autism spectrum. Pediatrics. 2004;
+114:451–457
+315. Fine SE, Weissman A, Gerdes M, et al. Autism spectrum
+disorders and symptoms in children with molecularly con-ﬁrmed 22q11.2 deletion syndrome. J Autism Dev Disord. 2005;
+35:461–470
+316. Chez MG, Chang M, Krasne V, Coughlan C, Kominsky M,
+Schwartz A. Frequency of epileptiform EEG abnormalities ina sequential screening of autistic patients with no knownclinical epilepsy from 1996 to 2005. Epilepsy Behav. 2006;8:
+267–271
+317. Kagan-Kushnir T, Roberts SW, Snead OC. Screening electro-
+encephalograms in autism spectrum disorders: evidence-based guideline. J Child Neurol. 2005;20:197–206
+1214 AMERICAN ACADEMY OF PEDIATRICS
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023318. Mantovani J. Regression and seizures. Presented at: the Spec-
+trum of Developmental Disabilities XXVIII: Autism—FromKanner to Current; March 27–29, 2006; Baltimore, MD
+319. Mao R, Pevsner J. The use of genomic microarrays to study
+chromosomal abnormalities in mental retardation. Ment Re-
+tard Dev Disabil Res Rev. 2005;11:279–285
+320. Charman T, Taylor E, Drew A, Cockerill H, Brown JA, Baird
+G. Outcome at 7 years of children diagnosed with autism atage 2: predictive validity of assessments conducted at 2 and 3years of age and pattern of symptom change over time. J Child
+Psychol Psychiatry. 2005;46:500–513
+321. Sigman M, McGovern CW. Improvement in cognitive and
+language skills from preschool to adolescence in autism. J
+Autism Dev Disord. 2005;35:15–23
+322. Lotter V. Follow-up studies. In: Rutter M, Schopler E, eds.
+Autism: A Reappraisal of Concepts and Treatment . New York, NY:
+Plenum Press; 1978:475–495
+323. Gillberg C, Steffenburg S. Outcome and prognostic factors in
+infantile autism and similar conditions: a population-basedstudy of 46 cases followed through puberty. J Autism Dev
+Disord. 1987;17:273–287
+324. Stevens MC, Fein DA, Dunn M, et al. Subgroups of children
+with autism by cluster analysis: a longitudinal examination.J Am Acad Child Adolesc Psychiatry. 2000;39:346–352
+325. Coplan J. Counseling parents regarding prognosis in autistic
+spectrum disorder. Pediatrics. 2000;105(5). Available at:
+www.pediatrics.org/cgi/content/full/105/5/e65
+326. Szatmari P, Merette C, Bryson SE, et al. Quantifying dimen-
+sions in autism: a factor analytic study. J Am Acad Child Adolesc
+Psychiatry. 2002;41:467–474
+327. Seltzer MM, Krauss MW, Shattuck PT, Orsmond G, Swe A,Lord C. The symptoms of autism spectrum disorders in ado-
+lescence and adulthood. J Autism Dev Disord. 2003;33:565–581
+328. Coplan J. Atypicality, intelligence, and age: a conceptual
+model of autistic spectrum disorder. Dev Med Child Neurol.
+2003;45:712–716
+329. Howlin P, Goode S, Hutton J, Rutter M. Adult outcome for
+children with autism. J Child Psychol Psychiatry. 2004;45:
+212–229
+330. Seltzer MM, Shattuck P, Abbeduto L, Greenberg JS. Trajec-
+tory of development in adolescents and adults with autism.Ment Retard Dev Disabil Res Rev. 2004;10:234–247
+331. Howlin P, Goode S. Outcome in adult life for people with
+autism and Asperger’s syndrome. In: Volkmar FR, ed. Autism
+and Pervasive Developmental Disorders . New York, NY: Cam-
+bridge University Press; 1998:209–241
+332. Szatmari P, Bryson SE, Boyle MH, Streiner DL, Duku E.
+Predictors of outcome among high functioning children withautism and Asperger syndrome. J Child Psychol Psychiatry.
+2003;44:520–528
+333. Coplan J, Jawad AF. Modeling clinical outcome of children
+with autistic spectrum disorders. Pediatrics. 2005;116:117–122
+334. Howlin P. Outcome in high-functioning adults with autism
+with and without early language delays: implications for thedifferentiation between autism and Asperger syndrome. J
+Autism Dev Disord. 2003;33:3–13
+RESOURCE FOR FAMILIES
+American Academy of Pediatrics. Autism: Caring for Children With
+Autism Spectrum Disorders :A Resource Toolkit for Clinicians . Elk
+Grove Village, IL: American Academy of Pediatrics; 2007
+PEDIATRICS Volume 120, Number 5, November 2007 1215
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/120/5/1183/1031533/zpe01107001183.pdf
+by guest
+on 08 May 2023
