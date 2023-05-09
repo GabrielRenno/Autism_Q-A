@@ -2,7 +2,6 @@ import streamlit as st
 from PIL import Image
 import os
 import pandas as pd
-import matplotlib.pyplot as plt
 from transformers import GPT2TokenizerFast
 from langchain.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
