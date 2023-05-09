@@ -12,6 +12,8 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.llms import OpenAI
 from langchain.chains import ConversationalRetrievalChain
 
+
+os.environ["OPENAI_API_KEY"] = "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"
 # Define function to count tokens
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
 
