@@ -12,8 +12,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.llms import OpenAI
 from langchain.chains import ConversationalRetrievalChain
 
-
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ.get('OPENAI_API_KEY')
 
 
 # Define function to count tokens
