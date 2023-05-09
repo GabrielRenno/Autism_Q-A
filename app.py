@@ -14,6 +14,8 @@ from langchain.chains import ConversationalRetrievalChain
 
 os.environ.get('OPENAI_API_KEY')
 
+openai_api_key = os.environ.get('OPENAI_API_KEY')
+
 
 # Define function to count tokens
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
