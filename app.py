@@ -1,8 +1,8 @@
-
 import streamlit as st
 from PIL import Image
 import os
 import pandas as pd
+import matplotlib.pyplot as plt
 from transformers import GPT2TokenizerFast
 from langchain.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -13,7 +13,9 @@ from langchain.llms import OpenAI
 from langchain.chains import ConversationalRetrievalChain
 
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
+
+
 # Define function to count tokens
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
 
